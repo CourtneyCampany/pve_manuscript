@@ -1,0 +1,172 @@
+
+
+\documentclass[a4paper]{article}
+
+%--- Load packages. 
+\usepackage{amssymb,amsmath}
+\usepackage{framed}
+
+% avoid ugly indentation of paragraphs
+\usepackage{parskip}
+\usepackage{graphicx}
+
+% open sans font
+\usepackage[default,osfigures,scale=0.95]{opensans}
+
+% subfolder with the figures (within manuscript/)
+\graphicspath{ {./figures/} }
+
+% for author affiliations
+\usepackage{authblk}
+
+% for degree symbol
+\usepackage{gensymb}
+
+% for line numbers
+\usepackage{lineno}
+
+% margin size
+\usepackage{geometry}
+\geometry{verbose,tmargin=3cm,bmargin=3cm,lmargin=3cm,rmargin=3cm}
+
+% for bibtex
+\usepackage{authordate1-4}
+\bibliographystyle{authordate1}
+
+
+\begin{document}
+
+% Turn line numbers on here.
+%\linenumbers
+
+
+\title{Catchy article title}
+
+\author[1]{Remko Duursma}
+\author[2]{Bob Ross}
+\author[3]{Carlton}
+
+\affil[1]{Hawkesbury Institute for the Environment}
+\affil[2]{Somewhere}
+\affil[3]{Somewhere else}
+
+\renewcommand\Authands{ and }
+\maketitle
+
+
+%--------------------------------------------------------------------------------------------%
+
+<<preload, echo=FALSE>>=
+library(knitr)
+opts_chunk$set(echo=FALSE)
+
+# Load data here that is used in the manuscript (in \Sexpr{})
+load("tables/Table1.RData")
+
+@
+
+
+
+%--------------------------------------------------------------------------------------------%
+
+\section*{Abstract}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque erat tortor, bibendum placerat eros in, sagittis commodo magna. Donec eget nisl varius, lobortis ipsum ut, semper mauris. Vestibulum velit elit, ullamcorper sed lacus sit amet, auctor iaculis ipsum. Nam libero urna, euismod convallis fringilla eget, eleifend a dui. Sed tristique orci ligula, eget convallis ligula feugiat a. Proin mattis ipsum eu nunc vulputate, consectetur auctor mi elementum. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus euismod nisl vitae porttitor. Donec convallis accumsan interdum. Ut dapibus, ipsum eu interdum commodo, odio dolor egestas est, vitae commodo ante neque non risus. Maecenas a gravida lacus.
+
+
+\section*{Introduction}
+
+Time to cite some papers, some folks said so \cite{schenk_rooting_2002}, and some others as well \cite{mokany_critical_2006}.
+
+\section*{Methods}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque erat tortor, bibendum placerat eros in, sagittis commodo magna. Donec eget nisl varius, lobortis ipsum ut, semper mauris. Vestibulum velit elit, ullamcorper sed lacus sit amet, auctor iaculis ipsum. Nam libero urna, euismod convallis fringilla eget, eleifend a dui. Sed tristique orci ligula, eget convallis ligula feugiat a. Proin mattis ipsum eu nunc vulputate, consectetur auctor mi elementum. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus euismod nisl vitae porttitor. Donec convallis accumsan interdum. Ut dapibus, ipsum eu interdum commodo, odio dolor egestas est, vitae commodo ante neque non risus. Maecenas a gravida lacus.
+
+\subsection*{site}
+\subsubsection*{alternate site}
+\label{sec:site}
+
+\section*{Results}
+
+See main results in Fig.~\ref{fig:figure1}. Some more results are in Fig.~\ref{fig:figureSI1}. Averages are shown in Table~\ref{table:hdtable}.
+
+\section*{Discussion}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque erat tortor, bibendum placerat eros in, sagittis commodo magna. Donec eget nisl varius, lobortis ipsum ut, semper mauris. Vestibulum velit elit, ullamcorper sed lacus sit amet, auctor iaculis ipsum. Nam libero urna, euismod convallis fringilla eget, eleifend a dui. Sed tristique orci ligula, eget convallis ligula feugiat a. Proin mattis ipsum eu nunc vulputate, consectetur auctor mi elementum. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus euismod nisl vitae porttitor. Donec convallis accumsan interdum. Ut dapibus, ipsum eu interdum commodo, odio dolor egestas est, vitae commodo ante neque non risus. Maecenas a gravida lacus.
+
+%we discussed this in Section~\ref{sec:site}.
+
+
+%--------------------------------------------------------------------------------------------%
+
+\section{Tables}
+
+% Load xtable for printing tables.
+<<echo=FALSE, message=FALSE, warning=FALSE>>=
+library(xtable)
+@
+
+% Example of a simple table based on a dataframe
+<<results='asis'>>=
+print(xtable(table1, label="table:hdtable", 
+             caption="An important table with averages and SD. Latex in the caption as well, e.g. highly significant (P \\textless 0.001)."), 
+      include.rownames=FALSE, caption.placement="top")
+@
+
+
+% Example of a table with the result from car::Anova
+<<tablepreload2>>=
+library(car)
+load("tables/Table2.RData")
+printanova <- function(x, caption, label=NULL){
+  print(xtable(x, caption=caption, label=label),
+                                        caption.placement="top")
+}
+@
+
+<<results='asis'>>=
+printanova(Anova(lmerfit), 
+           label="table:allomeanova",
+           caption="Type-II Anova table for a linear mixed-effects model of height vs. diameter and branch mass.")
+@
+
+
+
+\clearpage
+\section{Figures}
+
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics{Figure1.pdf}
+    \caption{Simple plot with allometry data}
+    \label{fig:figure1}
+\end{figure}
+
+
+
+% Supporting information. Make sure Figures continue with Fig S1 etc.
+\clearpage
+\section{Supporting Information Figures}
+
+\renewcommand\thefigure{S\arabic{figure}}    
+\setcounter{figure}{0}   
+
+
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.99\textwidth]{FigureS1.pdf}
+    \caption{A simple boxplot.}
+    \label{fig:figureSI1}
+\end{figure}
+
+
+
+
+
+
+\clearpage
+\bibliography{references}
+
+\end{document}
