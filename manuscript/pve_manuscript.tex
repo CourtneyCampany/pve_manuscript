@@ -1,0 +1,138 @@
+
+\documentclass[a4paper]{article}\usepackage[]{graphicx}\usepackage[]{color}
+%% maxwidth is the original width if it is less than linewidth
+%% otherwise use linewidth (to make sure the graphics do not exceed the margin)
+\makeatletter
+\def\maxwidth{ %
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
+\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
+\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
+\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
+\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
+\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
+\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
+\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
+\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
+\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}
+
+%--- Load packages. 
+\usepackage{amssymb,amsmath}
+\usepackage{framed}
+
+% avoid ugly indentation of paragraphs
+\usepackage{parskip}
+\usepackage{graphicx}
+
+% open sans font
+\usepackage[default,osfigures,scale=0.95]{opensans}
+
+% subfolder with the figures (within manuscript/)
+\graphicspath{ {./figures/} }
+
+% for author affiliations
+\usepackage{authblk}
+
+% for degree symbol
+\usepackage{gensymb}
+
+% for line numbers
+\usepackage{lineno}
+
+% margin size
+\usepackage{geometry}
+\geometry{verbose,tmargin=3cm,bmargin=3cm,lmargin=3cm,rmargin=3cm}
+
+% for bibtex
+\usepackage{authordate1-4}
+\bibliographystyle{authordate1}
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+
+
+\title{Effects of belowground space limitation on performance of Eucalyptus seedlings:  Does photosyntheis really control growth?}
+
+\author[1,3]{Courtney E. Campany}
+\author[2]{Belinda E. Medlyn}
+\author[1]{Remko A. Duursma}
+
+\affil[1]{Hawkesbury Institute for the Environment, University of Western Sydney, Richmond, NSW 2753, Australia}
+\affil[2]{Department of Biological Sciences, Macquarie University, North Ryde, NSW 2109, Australia}
+\affil[3]{Corresponding author (c.campany@uws.edu.au)}
+
+\renewcommand\Authands{ and }
+\maketitle
+
+
+%--------------------------------------------------------------------------------------------%
+
+\section*{Abstract}
+
+Negative feedbacks to photosynthesis are commonly interpreted as the primary factor responsible for growth limitation in plants under stress.  This study used manipulations of soil volume to test how growth is coupled to physiology, allocation, and sink activity in Eucalyptus tereticornis seedlings. We grew seedlings in a large range of container sizes and planted containers flush to the soil alongside freely rooted seedlings (‘free’). Reduced soil volume was expected to induce rapid negative effects on growth and physiology compared to free seedlings. It was hypothesized that soil volume effect would be largest in the smallest containers, resulting in physical constraints to growth independently of photosynthesis. Photosynthesis would then become sink-limited, resulting in the build-up of leaf nonstructural carbohydrates eventually leading to photosynthetic down regulation. We observed a negative container effect on aboveground growth soon after the experiment started. Although growth was consistently different across soil volumes mass allocation to leaves, stems, roots was conserved after 120 days. Photosynthetic capacity was also significantly reduced in containers, and was related to both leaf nitrogen content and starch accumulation, however starch effects were weak. We developed a simple seedling growth model that utilized leaf photosynthesis rates to allocate daily carbon uptake towards mass growth of stems, leaves and roots. We then asked whether the observed reductions in photosynthesis explained the observed differences in seedling biomass.  We found that photosynthesis reductions alone was not sufficient and the inclusion of mass allocation patterns and additional carbon pools were necessary to predict the observed growth response to increasing soil volume. Overall, we found limited evidence for sink-limitation of photosynthesis by constraining seedling growth in containers, and argue that shifts in carbon allocation are necessary to explain the experimental results. This research highlights the need to further understand adaptive strategies of plant carbon allocation, and confirms that photosynthesis and growth are not always directly related.
+
+\section*{Key Words}
+
+photosynthesis, sink regulation, growth, carbon allocation, soil volume
+
+
+\section*{Introduction}
+
+\section*{Methods}
+
+\subsection*{Experimental Design}
+
+This experiment was located on the Hawkesbury Forest Experiment site in Richmond, NSW, Australia. Plots were located in open cover with a site history that consists of a paddock that was converted from native pasture grasses. Top soils at this site, used for the study, are an alluvial formation of low-fertility sandy loam soils (380 and 108 mg kg-1 total N and P respectively) with low organic matter (0.7\%) and low water holding capacity. At this site a soil hard layer exists at ~1.0m with a transition to heavy clay soils. The climate for the region is classified as sub-humid temperate. 
+
+Eucalyptus tereticornis seedlings, 20 weeks old and approximately 40 cm tall in tube stock, were chosen from a single local Cumberland plain cohort. Previous experiments have confirmed that species with tap roots (similar to E. tereticornis) use the center of the container as the medium for thick roots leaving the periphery of the soil as the most active sites for fine root proliferation (Biran and Eliassaf 1980a, b). This is generally hypothesized to be a different response than seedlings with no taproot. By using a species with tap root growth and manipulations of container length rather than width, it is believed that a more realistic test of inhibition of growth through constrained soil volume would be achieved. Six seedlings were harvested before planting to measure initial leaf area and dry mass of leaves, stems and roots.
+
+Six container volumes were used ranging from 5l to 35l, with a 22.5cm diameter, and lengths ranging from 15 to 100cm. Containers were constructed of PVC pipe and were filled with local top soil (described above). Soil in each container was packed to achieve a target soil bulk density of 1.7 g m-3. Each seedling was given an Imidacloprid (BAYER CropScience) insecticide tablet planted 5cm below the roots. Containers were planted flush with the soil surface inside metal sleeves, designed to minimize excess air space between the container and outside soil while allowing container removal. This allowed for soil temperatures in containers to reflect conditions of naturally sown seedlings. Each experimental block (n=7) contained a complete replicate set of container volumes as well as one ‘free’ seedling, with 1m2 spacing. For each ‘free’ seedling, a 1m2 subplot was excavated to 0.5m and replaced with the same soil used in each container. A border of root exclusion material was buried 0.25m deep and extended 0.25m above the ground surface to exclude local vegetation.
+
+Plants were watered bi-weekly or when needed, accounting for natural precipitation, to maintain soil moisture at field capacity (~13-15\%). To achieve field capacity all soil filled containers were weighed and soil moisture was measured (Time Domain Reflectometer at 10cm depth) before watering. Derived equations based on container weight at planting (when soil moisture was 3\%) and at field capacity was used to calculate watering requirements for each individual plant. Drain systems were built into each pot to prevent pooling of water in containers before root expansion, from reduced root uptake, or from large rainfall events. These conditions could lead to an anaerobic environment around the root that could hinder the uptake of water through reduced root conductance (Poorter et al. 2009), an undesired experimental artifact. A collection compartment in the bottom of containers, containing gravel covered by root exclusion mesh, was used collect water for 20, 25, and 35l containers. Plastic tubing (6mm diameter) was inset into the gravel layer and extended through the top of the container. A lysimeter pump was then used to suction excess water, through the tubing, as needed. As small containers (5, 10, and 15l) have a larger irradiation effect a simple bottom plug was used to drain water from the gravel compartment.  
+
+\subsection*{Growth and morphology metrics}
+Seedlings were planted on January 21st 2013 and stem height, diameter at 15 cm and leaf count were measured weekly thereafter. Once the growth rate of individual plants had significantly declined a full biomass harvest was completed (May 5th 2013). Dry mass of leaves, stems, roots and cumulative leaf area (LI-3100C Area Meter; LI-COR, Lincoln, NE,USA) was measured for each seedling. Mean individual leaf area for each harvested seedling was calculated by dividing cumulative leaf area by total leaf count of only fully expanded leaves. This value was then used to interpolate cumulative leaf area through time with weekly leaf counts. Root mass was collected by passing soil from each container through a 1mm sieve, washing, separating into fine and coarse roots (<2mm and >2mm diameter, respectively) and then drying to a constant mass. Roots from the ‘free’ seedlings were collected by excavating each 1m2 subplot to 0.5m depth.  25g fresh weight subsamples of washed fine roots were analyzed, using WhinoRhizo software (Regent Instruments Inc.), for specific root length (SRL, m m-1).
+
+\subsection*{Photosynthetic parameters}
+
+Leaf gas exchange measurements were performed bi-weekly at saturating light (Asat) and saturating light and [CO2] (Amax) on new fully expanded leaves.  
+
+
+
+\end{document}
+
+
+

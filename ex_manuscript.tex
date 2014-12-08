@@ -1,0 +1,216 @@
+
+
+\documentclass[a4paper]{article}\usepackage[]{graphicx}\usepackage[]{color}
+%% maxwidth is the original width if it is less than linewidth
+%% otherwise use linewidth (to make sure the graphics do not exceed the margin)
+\makeatletter
+\def\maxwidth{ %
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
+\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
+\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
+\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
+\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
+\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
+\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
+\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
+\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
+\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}
+
+%--- Load packages. 
+\usepackage{amssymb,amsmath}
+\usepackage{framed}
+
+% avoid ugly indentation of paragraphs
+\usepackage{parskip}
+\usepackage{graphicx}
+
+% open sans font
+\usepackage[default,osfigures,scale=0.95]{opensans}
+
+% subfolder with the figures (within manuscript/)
+\graphicspath{ {./figures/} }
+
+% for author affiliations
+\usepackage{authblk}
+
+% for degree symbol
+\usepackage{gensymb}
+
+% for line numbers
+\usepackage{lineno}
+
+% margin size
+\usepackage{geometry}
+\geometry{verbose,tmargin=3cm,bmargin=3cm,lmargin=3cm,rmargin=3cm}
+
+% for bibtex
+\usepackage{authordate1-4}
+\bibliographystyle{authordate1}
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+
+% Turn line numbers on here.
+%\linenumbers
+
+
+\title{Catchy article title}
+
+\author[1]{Remko Duursma}
+\author[2]{Bob Ross}
+\author[3]{Carlton}
+
+\affil[1]{Hawkesbury Institute for the Environment}
+\affil[2]{Somewhere}
+\affil[3]{Somewhere else}
+
+\renewcommand\Authands{ and }
+\maketitle
+
+
+%--------------------------------------------------------------------------------------------%
+
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
+
+
+{\ttfamily\noindent\color{warningcolor}{\#\# Warning in readChar(con, 5L, useBytes = TRUE): cannot open compressed file 'tables/Table1.RData', probable reason 'No such file or directory'}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in readChar(con, 5L, useBytes = TRUE): cannot open the connection}}\end{kframe}
+\end{knitrout}
+
+
+
+%--------------------------------------------------------------------------------------------%
+
+\section*{Abstract}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque erat tortor, bibendum placerat eros in, sagittis commodo magna. Donec eget nisl varius, lobortis ipsum ut, semper mauris. Vestibulum velit elit, ullamcorper sed lacus sit amet, auctor iaculis ipsum. Nam libero urna, euismod convallis fringilla eget, eleifend a dui. Sed tristique orci ligula, eget convallis ligula feugiat a. Proin mattis ipsum eu nunc vulputate, consectetur auctor mi elementum. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus euismod nisl vitae porttitor. Donec convallis accumsan interdum. Ut dapibus, ipsum eu interdum commodo, odio dolor egestas est, vitae commodo ante neque non risus. Maecenas a gravida lacus.
+
+
+\section*{Introduction}
+
+Time to cite some papers, some folks said so \cite{schenk_rooting_2002}, and some others as well \cite{mokany_critical_2006}.
+
+\section*{Methods}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque erat tortor, bibendum placerat eros in, sagittis commodo magna. Donec eget nisl varius, lobortis ipsum ut, semper mauris. Vestibulum velit elit, ullamcorper sed lacus sit amet, auctor iaculis ipsum. Nam libero urna, euismod convallis fringilla eget, eleifend a dui. Sed tristique orci ligula, eget convallis ligula feugiat a. Proin mattis ipsum eu nunc vulputate, consectetur auctor mi elementum. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus euismod nisl vitae porttitor. Donec convallis accumsan interdum. Ut dapibus, ipsum eu interdum commodo, odio dolor egestas est, vitae commodo ante neque non risus. Maecenas a gravida lacus.
+
+\subsection*{site}
+\subsubsection*{alternate site}
+\label{sec:site}
+
+\section*{Results}
+
+See main results in Fig.~\ref{fig:figure1}. Some more results are in Fig.~\ref{fig:figureSI1}. Averages are shown in Table~\ref{table:hdtable}.
+
+\section*{Discussion}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque erat tortor, bibendum placerat eros in, sagittis commodo magna. Donec eget nisl varius, lobortis ipsum ut, semper mauris. Vestibulum velit elit, ullamcorper sed lacus sit amet, auctor iaculis ipsum. Nam libero urna, euismod convallis fringilla eget, eleifend a dui. Sed tristique orci ligula, eget convallis ligula feugiat a. Proin mattis ipsum eu nunc vulputate, consectetur auctor mi elementum. Aliquam erat volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur faucibus euismod nisl vitae porttitor. Donec convallis accumsan interdum. Ut dapibus, ipsum eu interdum commodo, odio dolor egestas est, vitae commodo ante neque non risus. Maecenas a gravida lacus.
+
+%we discussed this in Section~\ref{sec:site}.
+
+
+%--------------------------------------------------------------------------------------------%
+
+\section{Tables}
+
+% Load xtable for printing tables.
+
+
+% Example of a simple table based on a dataframe
+\begin{kframe}
+
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in xtable(table1, label = "{}table:hdtable"{}, caption = "{}An important table with averages and SD. Latex in the caption as well, e.g. highly significant (P \textbackslash{}\textbackslash{}textless 0.001)."{}): object 'table1' not found}}\end{kframe}
+
+
+% Example of a table with the result from car::Anova
+\begin{knitrout}
+\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
+
+
+{\ttfamily\noindent\color{warningcolor}{\#\# Warning in readChar(con, 5L, useBytes = TRUE): cannot open compressed file 'tables/Table2.RData', probable reason 'No such file or directory'}}
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in readChar(con, 5L, useBytes = TRUE): cannot open the connection}}\end{kframe}
+\end{knitrout}
+
+\begin{kframe}
+
+
+{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in Anova(lmerfit): object 'lmerfit' not found}}\end{kframe}
+
+
+
+\clearpage
+\section{Figures}
+
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics{Figure1.pdf}
+    \caption{Simple plot with allometry data}
+    \label{fig:figure1}
+\end{figure}
+
+
+
+% Supporting information. Make sure Figures continue with Fig S1 etc.
+\clearpage
+\section{Supporting Information Figures}
+
+\renewcommand\thefigure{S\arabic{figure}}    
+\setcounter{figure}{0}   
+
+
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.99\textwidth]{FigureS1.pdf}
+    \caption{A simple boxplot.}
+    \label{fig:figureSI1}
+\end{figure}
+
+
+
+
+
+
+\clearpage
+\bibliography{references}
+
+\end{document}
