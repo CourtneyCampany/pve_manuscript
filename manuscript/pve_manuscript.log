@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  11 DEC 2014 15:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  11 DEC 2014 17:16
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -227,32 +227,37 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 (C:\Users\90919620\AppData\Roaming\MiKTeX\2.9\tex\latex\authordate\authordate1-
 4.sty
 \bibhang=\skip49
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\fixltx2e.sty"
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+LaTeX Info: The control sequence `\[' is already robust on input line 471.
+LaTeX Info: The control sequence `\]' is already robust on input line 472.
 )
 (C:\Users\90919620\AppData\Roaming\MiKTeX\2.9\tex\latex\upquote\upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 84.
-LaTeX Font Info:    ... okay on input line 84.
-LaTeX Font Info:    Try loading font information for OT1+fosj on input line 84.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
+LaTeX Font Info:    ... okay on input line 87.
+LaTeX Font Info:    Try loading font information for OT1+fosj on input line 87.
 
 
 (C:\Users\90919620\AppData\Roaming\MiKTeX\2.9\tex\latex\opensans\ot1fosj.fd
 File: ot1fosj.fd 2011/11/11 Fontinst v1.927 font definitions for OT1/fosj.
 )
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 84.
+(Font)              scaled to size 9.49997pt on input line 87.
 
 (C:\Users\90919620\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -268,15 +273,15 @@ LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
 \makeMPintoPDFobject=\count118
 \everyMPtoPDFconversion=\toks24
 )
-LaTeX Info: Redefining \celsius on input line 84.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 84.
+LaTeX Info: Redefining \celsius on input line 87.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 87.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 84.
-Package gensymb Info: Using \Omega for \ohm on input line 84.
+LaTeX Info: Redefining \ohm on input line 87.
+Package gensymb Info: Using \Omega for \ohm on input line 87.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -315,26 +320,26 @@ Package gensymb Warning: Not defining \micro.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 98.
+(Font)              scaled to size 16.41594pt on input line 101.
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 98.
-LaTeX Font Info:    Try loading font information for U+msa on input line 98.
+(Font)              scaled to size 11.39996pt on input line 101.
+LaTeX Font Info:    Try loading font information for U+msa on input line 101.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 98.
+LaTeX Font Info:    Try loading font information for U+msb on input line 101.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 98.
+(Font)              scaled to size 7.59998pt on input line 101.
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 103.
+(Font)              scaled to size 13.67995pt on input line 106.
 LaTeX Font Info:    Font shape `OT1/fosj/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 103.
+(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 106.
 LaTeX Font Info:    Font shape `OT1/fosj/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 103.
+(Font)              scaled to size 13.67995pt on input line 106.
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
@@ -342,21 +347,21 @@ Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
 LaTeX Font Info:    Font shape `OT1/fosj/bx/n' in size <12> not available
-(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 116.
+(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 119.
 LaTeX Font Info:    Font shape `OT1/fosj/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 116.
+(Font)              scaled to size 11.39996pt on input line 119.
 LaTeX Font Info:    Font shape `OT1/fosj/bx/it' in size <12> not available
-(Font)              Font shape `OT1/fosj/b/it' tried instead on input line 116.
+(Font)              Font shape `OT1/fosj/b/it' tried instead on input line 119.
 
 LaTeX Font Info:    Font shape `OT1/fosj/b/it' will be
-(Font)              scaled to size 11.39996pt on input line 116.
+(Font)              scaled to size 11.39996pt on input line 119.
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 118.
+(Font)              scaled to size 6.64998pt on input line 121.
  [1
 
 {C:/Users/90919620/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Font shape `OT1/fosj/m/it' will be
-(Font)              scaled to size 9.49997pt on input line 120.
+(Font)              scaled to size 9.49997pt on input line 123.
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
@@ -369,14 +374,14 @@ Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
-LaTeX Font Info:    Try loading font information for OML+fosj on input line 127
+LaTeX Font Info:    Try loading font information for OML+fosj on input line 130
 .
-LaTeX Font Info:    No file OMLfosj.fd. on input line 127.
+LaTeX Font Info:    No file OMLfosj.fd. on input line 130.
 
 
 LaTeX Font Warning: Font shape `OML/fosj/m/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textless' on input line 127.
+(Font)              for symbol `textless' on input line 130.
 
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
@@ -384,21 +389,36 @@ Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
-[2]
+[2] [3]
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
+ [4]
+(C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.bbl
 LaTeX Font Info:    Font shape `OT1/fosj/bx/n' in size <10> not available
-(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 131.
+(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `OT1/fosj/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 131.
-
-
-LaTeX Warning: Citation `(' on page 3 undefined on input line 131.
-
-
-LaTeX Warning: Citation `(' on page 3 undefined on input line 131.
-
-[3]
-(C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.bbl)
-[4
+(Font)              scaled to size 9.49997pt on input line 7.
+)
+[5
 
 ]
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.aux)
@@ -407,28 +427,29 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3248 strings out of 493921
- 44986 string characters out of 3147273
- 104323 words of memory out of 3000000
- 6441 multiletter control sequences out of 15000+200000
+ 3280 strings out of 493921
+ 45459 string characters out of 3147273
+ 106035 words of memory out of 3000000
+ 6470 multiletter control sequences out of 15000+200000
  32936 words of font info for 87 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,5n,26p,2219b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,5n,26p,2798b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensans/opensa
-ns-02.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensan
-s/opensans-01.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
-/opensans/opensans-04.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/e
+ns-04.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensan
+s/opensans-02.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
+/opensans/opensans-01.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/e
 nc/dvips/opensans/opensans-03.enc}<C:/Users/90919620/AppData/Roaming/MiKTeX/2.9
 /fonts/type1/public/opensans/OpenSans-Bold.pfb><C:/Users/90919620/AppData/Roami
 ng/MiKTeX/2.9/fonts/type1/public/opensans/OpenSans-BoldItalic.pfb><C:/Users/909
 19620/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/opensans/OpenSans-Italic.pf
 b><C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/opensans/Ope
 nSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
-mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pf
-b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on pve_manuscript.pdf (4 pages, 94943 bytes).
+mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on pve_manuscript.pdf (5 pages, 114623 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
+ 64 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

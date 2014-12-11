@@ -27,12 +27,36 @@ Drake, John~E, Aspinwall, Michael~J, Pfautsch, Sebastian, Rymer, Paul~D, Reich,
   tropical latitudes in two widely distributed Eucalyptus species}.
 \newblock {\em Global change biology}.
 
+\bibitem[\protect\citename{Duursma, }2014]{plantecophys}
+Duursma, Remko. 2014.
+\newblock {\em plantecophys: Modelling and analysis of leaf gas exchange data}.
+\newblock R package version 0.2-3.
+
 \bibitem[\protect\citename{Kallarackal \& Somen,
   }1997]{kallarackal1997ecophysiological}
 Kallarackal, J, \& Somen, C~K. 1997.
 \newblock {An ecophysiological evaluation of the suitability of Eucalyptus
   grandis for planting in the tropics}.
 \newblock {\em Forest Ecology and Management}, {\bf 95}(1), 53--61.
+
+\bibitem[\protect\citename{McCleary {\em et~al.}, }n.d.]{MCCLEARY}
+McCleary, B.~V., Gibson, T.~S., \& Mugford, D.~C.
+\newblock {Measurement of total starch in cereal products by
+  amyloglucosidase-$\alpha$-amylase method: Collaborative study}.
+\newblock {\em Journal of AOAC International}, {\bf 80}(3), 571--579.
+
+\bibitem[\protect\citename{Mitchell {\em et~al.}, }2013]{mitchell2013drought}
+Mitchell, Patrick~J, O'Grady, Anthony~P, Tissue, David~T, White, Donald~A,
+  Ottenschlaeger, Maria~L, \& Pinkard, Elizabeth~A. 2013.
+\newblock {Drought response strategies define the relative contributions of
+  hydraulic dysfunction and carbohydrate depletion during tree mortality}.
+\newblock {\em New Phytologist}, {\bf 197}(3), 862--872.
+
+\bibitem[\protect\citename{Pinheiro {\em et~al.}, }2014]{nlme}
+Pinheiro, Jose, Bates, Douglas, DebRoy, Saikat, Sarkar, Deepayan, \& {R Core
+  Team}. 2014.
+\newblock {\em {nlme}: Linear and Nonlinear Mixed Effects Models}.
+\newblock R package version 3.1-118.
 
 \bibitem[\protect\citename{Pinkard {\em et~al.},
   }1998]{pinkard1998photosynthetic}
@@ -47,5 +71,22 @@ Poorter, Hendrik, Niinemets, \"{U}lo, Poorter, Lourens, Wright, Ian~J, \&
 \newblock {Causes and consequences of variation in leaf mass per area (LMA): a
   meta-analysis}.
 \newblock {\em New Phytologist}, {\bf 182}(3), 565--588.
+
+\bibitem[\protect\citename{{R Development Core Team},
+  }2011]{RDevelopmentCoreTeam2011}
+{R Development Core Team}, R. 2011.
+\newblock {\em {R: A Language and Environment for Statistical Computing}}.
+
+\bibitem[\protect\citename{Sellin, }1999]{sellin1999does}
+Sellin, Arne. 1999.
+\newblock {Does pre-dawn water potential reflect conditions of equilibrium in
+  plant and soil water status?}
+\newblock {\em Acta Oecologica}, {\bf 20}(1), 51--59.
+
+\bibitem[\protect\citename{Warton {\em et~al.}, }2012]{warton2012smatr}
+Warton, David~I, Duursma, Remko~A, Falster, Daniel~S, \& Taskinen, Sara. 2012.
+\newblock {smatr 3--an R package for estimation and inference about allometric
+  lines}.
+\newblock {\em Methods in Ecology and Evolution}, {\bf 3}(2), 257--259.
 
 \end{thebibliography}
