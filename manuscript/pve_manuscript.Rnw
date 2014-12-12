@@ -18,6 +18,10 @@
 % for author affiliations
 \usepackage{authblk}
 
+%allows inline citations
+%\usepackage[round]{natbib}
+%\bibliographystyle{plainnat}
+
 % for degree symbol
 \usepackage{gensymb}
 
@@ -81,7 +85,7 @@ Plants were watered bi-weekly or when needed, accounting for natural precipitati
 Seedlings were planted on January 21\textsuperscript{st} 2013 and stem height, diameter at 15~cm and leaf count were measured weekly thereafter. Once the growth rate of individual plants had significantly declined a full biomass harvest was completed (May 5\textsuperscript{th} 2013). Dry mass of leaves, stems, roots and cumulative leaf area (LI-3100C Area Meter; LI-COR, Lincoln, NE, USA) was measured for each seedling. Mean individual leaf area for each harvested seedling was calculated by dividing cumulative leaf area by total leaf count of only fully expanded leaves. This value was then used to interpolate cumulative leaf area through time with weekly leaf counts. Root mass was collected by passing soil from each container through a 1 mm sieve, washing, separating into fine and coarse roots (\textless2~mm and \textgreater2~mm diameter, respectively) and then drying to a constant mass. Roots from the ‘free’ seedlings were collected by excavating each 1~m\textsuperscript{2} subplot to 0.5~m depth.  25~g fresh weight subsamples of washed fine roots were analyzed, using WhinoRhizo software (Regent Instruments Inc.), for specific root length (SRL, m~m\textsuperscript{-1}).
 
 \subsection*{\textit{Photosynthetic parameters}}
-Leaf gas exchange measurements were performed bi-weekly at saturating light (A\textsubscript{sat}) and saturating light and [CO\textsubscript{2}] (A\textsubscript{max}) on new fully expanded leaves. Measurements were initiated only after new leaf growth occurred (March 17\textsuperscript{th}, 2013), approximately 6 weeks following planting, and continued until the biomass harvest. Leaf level gas exchange was measured with a standard leaf chamber equipped with blue-red light emitting diodes using a portable gas exchange system (LI-6400, LI-COR, Lincoln, NE, USA). A\textsubscript{sat} measurements were made at PPFD of 1800~$\mu$mol~m\textsuperscript{-1}~s\textsuperscript{-1} and [CO\textsubscript{2}] of 400~$\mu$l~l\textsuperscript{-1} and A\textsubscript{max} with [CO\textsubscript{2}] of 1600~$\mu$l~l\textsuperscript{-1} and PPFD of 1800~$\mu$mol~photons~m\textsuperscript{-1}~s\textsuperscript{-1}. This choice of light level to achieve light saturation is consistent with other studies on \textit{Eucalyptus} species \cite{kallarackal1997ecophysiological,pinkard1998photosynthetic,crous2013photosynthesis,drake2014capacity}. These measurements were conducted during midday (10:00-14:00~h) with leaf temperature maintained at 25$\degree$C. After leaves acclimated to the chamber environment, net CO\textsubscript{2} assimilation rate and stomatal conductance were logged 5 times for both A\textsubscript{sat} and A\textsubscript{max}. Photosynthetic CO\textsubscript{2} response (AC\textsubscript{i}) curves were also constructed on a random subset of each container size (n=3) after new leaves were first produced and immediately prior to the final harvest (May 23\textsuperscript{rd} 2013). For each AC\textsubscript{i} curve the reference [CO\textsubscript{2}] was set as follows:  400, 50, 100, 150, 230, 330, 400, 650, 900, 1200, 1500, 1600, and 1800~$\mu$l~l\textsuperscript{-1}. From these curves the photosynthetic parameters, J\textsubscript{max} and V\textsubscript{cmax}, were quantified using the leaf photosynthesis model by Farquhar et al (1980) within the PlantEcophys package in R v. 3.0.1 \cite{plantecophys,RDevelopmentCoreTeam2011}.  Leaf dark respiration rates (R\textsubscript{d}) was measured on each seedling during the same dates as AC\textsubscript{i} curves using detached leaves inside a conifer chamber attached to the Licor 6400 at least 1 hour after sundown.   Measurements were taken at a reference [CO\textsubscript{2}] of 400~$\mu$l~l\textsuperscript{-1} while leaf temperature was maintained at current ambient conditions. Specific leaf area (SLA, m\textsuperscript{2}~g\textsuperscript{-1}) was calculated by measuring leaf area and dry mass for all leaves sampled during gas exchange campaigns.
+Leaf gas exchange measurements were performed bi-weekly at saturating light (A\textsubscript{sat}) and saturating light and [CO\textsubscript{2}] (A\textsubscript{max}) on new fully expanded leaves. Measurements were initiated only after new leaf growth occurred (March 17\textsuperscript{th}, 2013), approximately 6 weeks following planting, and continued until the biomass harvest. Leaf level gas exchange was measured with a standard leaf chamber equipped with blue-red light emitting diodes using a portable gas exchange system (LI-6400, LI-COR, Lincoln, NE, USA). A\textsubscript{sat} measurements were made at PPFD of 1800~$\mu$mol~m\textsuperscript{-1}~s\textsuperscript{-1} and [CO\textsubscript{2}] of 400~$\mu$l~l\textsuperscript{-1} and A\textsubscript{max} with [CO\textsubscript{2}] of 1600~$\mu$l~l\textsuperscript{-1} and PPFD of 1800~$\mu$mol~photons~m\textsuperscript{-1}~s\textsuperscript{-1}. This choice of light level to achieve light saturation is consistent with other studies on \textit{Eucalyptus} species \cite{kallarackal1997ecophysiological,pinkard1998photosynthetic,crous2013photosynthesis,drake2014capacity}. These measurements were conducted during midday (10:00-14:00~h) with leaf temperature maintained at 25$\degree$C. After leaves acclimated to the chamber environment, net CO\textsubscript{2} assimilation rate and stomatal conductance were logged 5 times for both A\textsubscript{sat} and A\textsubscript{max}. Photosynthetic CO\textsubscript{2} response (AC\textsubscript{i}) curves were also constructed on a random subset of each container size (n=3) after new leaves were first produced and immediately prior to the final harvest (May 23\textsuperscript{rd} 2013). For each AC\textsubscript{i} curve the reference [CO\textsubscript{2}] was set as follows:  400, 50, 100, 150, 230, 330, 400, 650, 900, 1200, 1500, 1600, and 1800~$\mu$l~l\textsuperscript{-1}. From these curves the photosynthetic parameters, J\textsubscript{max} and V\textsubscript{cmax}, were quantified using the leaf photosynthesis model by farquhar1980biochemical within the PlantEcophys package in R v. 3.0.1 \cite{plantecophys,RDevelopmentCoreTeam2011}.  Leaf dark respiration rates (R\textsubscript{d}) was measured on each seedling during the same dates as AC\textsubscript{i} curves using detached leaves inside a conifer chamber attached to the Licor 6400 at least 1 hour after sundown.   Measurements were taken at a reference [CO\textsubscript{2}] of 400~$\mu$l~l\textsuperscript{-1} while leaf temperature was maintained at current ambient conditions. Specific leaf area (SLA, m\textsuperscript{2}~g\textsuperscript{-1}) was calculated by measuring leaf area and dry mass for all leaves sampled during gas exchange campaigns.
 
 \subsection*{\textit{Leaf water potential}}
 Predawn ($\Psi\textsubscript{pd}$) and midday ($\Psi\textsubscript{l}$) water potentials were measured for each seedling using a PMS 1505D pressure chamber (PMS Instruments, Albany, OR, USA) on fully expanded leaves during the same time period as AC\textsubscript{i} and (R\textsubscript{d}). $\Psi\textsubscript{pd}$ and $\Psi\textsubscript{l}$ leaves were sampled and immediately stored inside foil covered bags and then transported to the laboratory for measurements of water potential. $\Psi$ collections were completed before sunrise and midday 13:00-14:30~h. These measurements were used as a measure of static water stress on the seedlings \cite{sellin1999does}, and to ensure that the bulk soil water availability was high enough for plants as they became larger and roots filled the soil volume. 
@@ -90,11 +94,108 @@ Predawn ($\Psi\textsubscript{pd}$) and midday ($\Psi\textsubscript{l}$) water po
 Leaves used in each gas exchange measurement and subsamples of harvested fine roots were dried to a constant mass and milled for analysis of N and C content. Pre-planting soil samples (n=6) and subsamples of soil from each container following harvest were sieved to remove organic material, air dried and milled for analysis. C and N concentrations of milled samples were determined using a Carlo Erba CE1110 elemental analyzer with thermal conductivity and mass spectromic detection (of N\textsuperscript{2} and CO\textsubscript{2}).  The percentage of N and C in the sample was calculated by comparison with known standards. Leaf total non-structural carbohydrates concentration (TNC) was analyzed using a total starch assay kit (Megazyme International 303 Ireland Ltd., Wicklow, Ireland) on gas exchange leaves (above) and represents the sum of starch (mg~g\textsuperscript{-1}) and soluble sugar (mg~g\textsuperscript{-1}) concentrations. Starch was quantified using a thermostable $\alpha$-amylase and amyloglucosidase assay \cite{MCCLEARY} and soluble sugars were determined following the anthrone method /cite{ebell1969variation}. Full methods of the TNC assay are described in \cite{mitchell2013drought}.
 
 \subsection*{\textit{Seedling growth model}}
+We developed a simple seedling growth model that utilized leaf photosynthesis to allocate daily carbon assimlate towards mass production of stems, leaves and roots. The model starts with mean initial seedling mass (leaf\textsubscript{0}, stem\textsubscript{0} and root\textsubscript{0}) and a starting leaf area (LA\textsubscript{0}) measured prior to planting. Biomass production for each day of the experiment was estimated by multiplying the whole tree seedling carbon uptake gain per day (C\textsubscript{day}) by a biomass conversion efficiency parameter ($\xi\textsubscript{c}$, \cite{zhu2008maximum}), allocating new carbon to the previous day’s biomass and then accounting for carbon loss via tissue respiration. C\textsubscript{day} was calculated for each seedling by fitting the standard Farquhar photosynthesis model \cite{farquhar1980biochemical} in the plantecophys package in R \cite{plantecophys} to the mean photosynthetic parameters (R\textsubscript{d}, J\textsubscript{max}, V\textsubscript{cmax}, and g\textsubscript{1}) generated for each soil volume and meteorological data from an onsite weather station.  The g\textsubscript{1} parameter was generated by fitting observed stomatal conductance values into the optimal stomatal conductance model from \cite{medlyn2012reconciling}.  Combined with the meteorological parameters PPFD, air temperature, and relative humidity, at 15~m intervals, photosynthesis rates ($\mu$mol~CO\textsubscript{2}~m\textsuperscript{-2}~s\textsuperscript{-1}) were then predicted for each soil volume treatment. Rates were assumed to be representative of the entire 15~min meteorological interval. C\textsubscript{day} was then calculated by converting predicted rates to mass carbon gain over 15~min (g~m\textsuperscript{-2}) and then summed for 24~h. Additionally, it was necessary to calculate a self-shading parameter (M) when scaling flat leaf photosynthesis to seedling cumulative leaf area.  This was accomplished by utilizing 61 previously digitized Eucalyptus seedlings (species names here) from published studies (cites) run in YplantQMC package in R \cite{yplantqmc} to build a 3d plant structure based on digitized metrics of plant allometry and crown structure. Inputting the same physiological parameters listed above, YplantQMC outputs total photosynthesis, using total leaf area, for seedlings assuming self-shading as well as for a full sun large horizontal leaf.  The ratio of self-shading to flat leaf total photosynthesis was then used to calculate M, which was then applied to modelled rates of photosynthesis when scaling to seedling cumulative leaf area. All parameters used in model simulations are reported in Table 2
 
-
+We then utilized this model to to investigate whether the effects of soil volume on photosynthesis were enough to accurately predict overall seedling production after 120 days or whether changes in carbon allocation or mass partitioning where also necessary to predict biomass. First, the model was simulated using only changes in photosynthesis rates across treatments combined with mean values of mass partitioning and either published or local data of stem and root respiration rates. Next, different mass allocation and carbon partitioning scenarios were simulated to investigate sources of missing carbon from the initial model simulation. For all cases, mass production was compared between model output and actual harvested seedling mass to investigate what carbon allocation strategies beyond reduction in photosynthesis may better predict the seedling growth responses induced by limiting soil volume. 
 
 \subsection*{\textit{Statistics}}
 Differences in experimental parameters with soil volume were analysed by one-way analysis of variance (ANOVA) in R with individual containers as random effects and soil volume as a categorical fixed effect. Tukey’s post-hoc tests were performed in conjunction with ANOVA to determine which specific paired comparisons among soil volumes were different. Mixed model ANOVAs of A\textsubscript{max} and plant chemistry were performed using the ‘lme4’ and ‘nlme’ packages \cite{nlme} in R and r\textsuperscript{2} values of mixed models were computed as in 'cite{nakagawa2013general}. Tests of allometric relationships between biomass components were implemented using major axis regression in the ‘smatr’ package \cite{warton2012smatr}.
+
+\section*{Results}
+
+
+\subsection*{\textit{Growth and morphology metrics}}
+
+
+
+Total plant biomass at harvest was significantly different between all container volumes (p\textless0.001) and with ‘free’ seedlings (p\textless0.001, Table 1). We analyzed the relationship between biomass growth with each fold increase in soil volume and found an increase of 34~\% with a doubling of pot size, in line with Poorter et al. 2012. In contrast to this meta-analysis, however, this relationship was non-linear when considering fold increases across the large range of container volumes in this experiment.   Additionally, plant biomass was highly correlated with total leaf area across all treatments (r\textsuperscript{2} = .97, p\textless0.001). Differences in biomass partitioning to leaves, stems, and roots were not different across soil volumes when variation in seedling biomass within treatments was factored in the analysis (p=0.937, 0.823 \& 0.843, respectively). Across all treatments, the final harvested root:shoot appears to be conserved with these seedlings (Table 1, p=0.18), with a slightly higher shoot than root mass on average.  The ratio of the ephemeral functional tissues, fine roots and leaves, was also conserved across treatments (p=0.17) with a slightly higher fine root mass than leaf mass. 
+
+SRL of harvested fine roots was not different across soil volumes (Figure 3a, p=0.662). Over the duration of the experiment SLA was higher in ‘free’ seedlings but was not different across containers sizes (Figure 3b, p\textless0.001) and this pattern was evident in the first gas exchange measurement campaign (6th week, p\textless0.001).
+
+
+\subsection*{\textit{Leaf chemistry}}
+Foliar leaf nitrogen was significantly higher in ‘free’ seedlings and the largest container at the onset of gas exchange measurements (6th week, p\textless0.001).  Over the remaining duration of the experiment the smallest container had a significant reduction in leaf nitrogen compared to all other containers, while the ‘free’ seedling maintained greater leaf nitrogen (Figure 4b, p\textless0.001).  Additionally, mean starch content in the smallest container was double that of ‘free’ seedlings (p=0.042), while leaf soluble sugars did not differ across treatments (p=0.1368) throughout the experiment.  Differences in starch between the ‘free’ seedling and the smallest container were also evident during the first gas exchange campaign (p=0.0013).
+
+\subsection*{\textit{Gas exchange and photosynthetic parameters}}
+A\textsubscript{sat} (Table 1) and A\textsubscript{max} were both significantly higher in the largest container and the ‘free’ seedling at the first measurement campaign on new fully expanded leaves (both p\textless0.001). Across measurement campaigns A\textsubscript{sat} was consistently higher rates in ‘free’ seedlings than in containers (Figure 3, p\textless0.001). The interaction between photosynthetic capacity on a mass basis, leaf starch, and foliar nitrogen was marginally significant (p=0.0584) but A\textsubscript{max} was highly correlated to both leaf nitrogen content leaf starch (both p\textless0.001). Across all measurement campaign Amax was higher when foliar nitrogen was also higher, usually associated with low levels of leaf starch (Figure 4a). A\textsubscript{max} was also lower when leaf starch was high as higher leaf nitrogen often did not coincide with high starch (Figure 4b)
+
+The photosynthetic parameters J\textsubscript{max} and V\textsubscript{cmax} were not different across the two measurement campaigns (p=0.1251 \& 0.0754, respectively), therefore the parameter means per volume are reported here (Table 1).  Overall, both J\textsubscript{max} and V\textsubscript{cmax} were significantly higher in “free” seedlings with little variation between container sizes (p=0.0012 \& 0.0021, respectively). Leaf dark respiration rates were not significantly different across soil volumes (Table 1, p=0.5581). From the Medlyn et al. 2012 optimal stomatal conductance model the g\textsubscript{1} parameter, generated for each seedling, was not different across soil volumes (Table 1, p=0.3043). Predicted values of stomatal conductance, using g\textsubscript{1} parameter, where highly correlated with observed values (r\textsuperscript{2}= .74, p\textless0.001, data not shown).
+
+Neither predawn nor midday water potentials were different across treatments (p=0.8161 \& 0.442, respectively) across the treatments (Table 1), with mean midday water potentials of -1.2~mPa for all seedlings. Although stomatal conductance in free seedlings was generally higher than those in containers (Table 1, p=0.0023), the mean rates for all seedlings were high at 0.37~mol~H\textsubscript{2}0~m\textsubscript{-2}~s\textsubscript{-1} and did not decline significantly across the experiment duration. Combined these indices provide strong evidence that water stress was probably not apparent on these well-watered seedlings throughout the experiment. Soil N~(\%) at harvest was not different across soil volumes (Table 1, p=0.5718) and decreased approximately 3~\% across all containers over the experiment duration. This suggests that nutrient leaching from ‘free’ seedlings or from draining of containers following natural rainfall events did not differ between treatments. 
+
+\subsection*{\textit{Modelling seedling biomass}}
+
+
+\section*{Discussion}
+
+
+
+\clearpage
+\section*{Figures}
+
+%air variables figure
+\begin{figure}[h!]
+    \centering
+    \includegraphics{airvars.pdf}
+    \caption{airvariables}
+    \label{fig:figure1}
+\end{figure}
+
+%allometry figure
+\begin{figure}[h!]
+    \centering
+    \includegraphics{allometry.pdf}
+    \caption{allometry}
+    \label{fig:figure2}
+\end{figure}
+
+%asat figure
+\begin{figure}[h!]
+    \centering
+    \includegraphics{Asat.pdf}
+    \caption{asat}
+    \label{fig:figure3}
+\end{figure}
+
+%partitioning figure
+\begin{figure}[h!]
+    \centering
+    \includegraphics{massfractions.pdf}
+    \caption{mass fractions}
+    \label{fig:figure4}
+\end{figure}
+
+%photochem figure
+\begin{figure}[h!]
+    \centering
+    \includegraphics{A_leafchem.pdf}
+    \caption{photochem}
+    \label{fig:figure5}
+\end{figure}
+
+%model base figure
+\begin{figure}[h!]
+    \centering
+    \includegraphics{gC_day.pdf}
+    \caption{gcday}
+    \label{fig:figure6}
+\end{figure}
+
+
+\clearpage
+\section{Supporting Information Figures}
+% Supporting information. Make sure Figures continue with Fig S1 etc.
+
+\renewcommand\thefigure{S\arabic{figure}}    
+\setcounter{figure}{0}   
+
+
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.99\textwidth]{gc_Day_scenario.pdf}
+    \caption{scenarios}
+    \label{fig:figureSI1}
+\end{figure}
 
 \clearpage
 \bibliography{pve_cites}

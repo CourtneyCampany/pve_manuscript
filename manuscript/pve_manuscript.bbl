@@ -12,6 +12,14 @@ Biran, I, \& Eliassaf, A. 1980b.
   roots and canopy of woody plants}.
 \newblock {\em Scientia Horticulturae}, {\bf 12}(4), 385--394.
 
+\bibitem[\protect\citename{by~Mik Cieslak. Uses code~by Robert~Pearcy \&
+  Medlyn., }n.d.]{yplantqmc}
+by~Mik Cieslak. Uses code~by Robert~Pearcy, Remko Duursma.~QuasiMC, \& Medlyn.,
+  Belinda.
+\newblock {\em YplantQMC: Plant architectural analysis with Yplant and
+  QuasiMC.}
+\newblock R package version 0.6-2.
+
 \bibitem[\protect\citename{Crous {\em et~al.}, }2013]{crous2013photosynthesis}
 Crous, Kristine~Y, Quentin, Audrey~G, Lin, Yan-Shih, Medlyn, Belinda~E,
   Williams, David~G, Barton, Craig V~M, \& Ellsworth, David~S. 2013.
@@ -32,6 +40,13 @@ Duursma, Remko. 2014.
 \newblock {\em plantecophys: Modelling and analysis of leaf gas exchange data}.
 \newblock R package version 0.2-3.
 
+\bibitem[\protect\citename{Farquhar {\em et~al.},
+  }1980]{farquhar1980biochemical}
+Farquhar, G~D, von~von Caemmerer, S, \& Berry, J~A. 1980.
+\newblock {A biochemical model of photosynthetic CO2 assimilation in leaves of
+  C3 species}.
+\newblock {\em Planta}, {\bf 149}(1), 78--90.
+
 \bibitem[\protect\citename{Kallarackal \& Somen,
   }1997]{kallarackal1997ecophysiological}
 Kallarackal, J, \& Somen, C~K. 1997.
@@ -44,6 +59,14 @@ McCleary, B.~V., Gibson, T.~S., \& Mugford, D.~C.
 \newblock {Measurement of total starch in cereal products by
   amyloglucosidase-$\alpha$-amylase method: Collaborative study}.
 \newblock {\em Journal of AOAC International}, {\bf 80}(3), 571--579.
+
+\bibitem[\protect\citename{Medlyn {\em et~al.}, }2012]{medlyn2012reconciling}
+Medlyn, Belinda~E, Duursma, Remko~A, Eamus, Derek, Ellsworth, David~S, {Colin
+  Prentice}, I, Barton, Craig V~M, Crous, Kristine~Y, Angelis, Paolo, Freeman,
+  Michael, \& Wingate, Lisa. 2012.
+\newblock {Reconciling the optimal and empirical approaches to modelling
+  stomatal conductance}.
+\newblock {\em Global Change Biology}, {\bf 18}(11), 3476.
 
 \bibitem[\protect\citename{Mitchell {\em et~al.}, }2013]{mitchell2013drought}
 Mitchell, Patrick~J, O'Grady, Anthony~P, Tissue, David~T, White, Donald~A,
@@ -88,5 +111,11 @@ Warton, David~I, Duursma, Remko~A, Falster, Daniel~S, \& Taskinen, Sara. 2012.
 \newblock {smatr 3--an R package for estimation and inference about allometric
   lines}.
 \newblock {\em Methods in Ecology and Evolution}, {\bf 3}(2), 257--259.
+
+\bibitem[\protect\citename{Zhu {\em et~al.}, }2008]{zhu2008maximum}
+Zhu, Xin-Guang, Long, Stephen~P, \& Ort, Donald~R. 2008.
+\newblock {What is the maximum efficiency with which photosynthesis can convert
+  solar energy into biomass?}
+\newblock {\em Current opinion in biotechnology}, {\bf 19}(2), 153--159.
 
 \end{thebibliography}
