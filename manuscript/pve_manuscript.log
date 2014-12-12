@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  12 DEC 2014 13:43
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  12 DEC 2014 13:57
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -466,6 +466,18 @@ Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
  [5]
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no œ in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
@@ -480,10 +492,10 @@ Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
 File: ./figures/airvars.pdf Graphic file (type pdf)
 
 <use ./figures/airvars.pdf>
-Package pdftex.def Info: ./figures/airvars.pdf used on input line 188.
+Package pdftex.def Info: ./figures/airvars.pdf used on input line 186.
 (pdftex.def)             Requested size: 505.88875pt x 504.885pt.
 
-Overfull \hbox (79.0974pt too wide) in paragraph at lines 188--189
+Overfull \hbox (79.0974pt too wide) in paragraph at lines 186--187
  [][] 
  []
 
@@ -491,15 +503,15 @@ Overfull \hbox (79.0974pt too wide) in paragraph at lines 188--189
 File: ./figures/allometry.pdf Graphic file (type pdf)
 
 <use ./figures/allometry.pdf>
-Package pdftex.def Info: ./figures/allometry.pdf used on input line 196.
+Package pdftex.def Info: ./figures/allometry.pdf used on input line 194.
 (pdftex.def)             Requested size: 483.80632pt x 690.57831pt.
 
-Overfull \hbox (57.01497pt too wide) in paragraph at lines 196--197
+Overfull \hbox (57.01497pt too wide) in paragraph at lines 194--195
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 40.53748pt on input line 199.
+LaTeX Warning: Float too large for page by 40.53748pt on input line 197.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -507,10 +519,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <./figures/Asat.pdf, id=33, 505.89pt x 360.34625pt>
 File: ./figures/Asat.pdf Graphic file (type pdf)
  <use ./figures/Asat.pdf>
-Package pdftex.def Info: ./figures/Asat.pdf used on input line 204.
+Package pdftex.def Info: ./figures/Asat.pdf used on input line 202.
 (pdftex.def)             Requested size: 505.88875pt x 360.34537pt.
 
-Overfull \hbox (79.0974pt too wide) in paragraph at lines 204--205
+Overfull \hbox (79.0974pt too wide) in paragraph at lines 202--203
  [][] 
  []
 
@@ -521,10 +533,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ./figures/massfractions.pdf Graphic file (type pdf)
 
 <use ./figures/massfractions.pdf>
-Package pdftex.def Info: ./figures/massfractions.pdf used on input line 212.
+Package pdftex.def Info: ./figures/massfractions.pdf used on input line 210.
 (pdftex.def)             Requested size: 1011.77753pt x 578.15858pt.
 
-Overfull \hbox (584.98618pt too wide) in paragraph at lines 212--213
+Overfull \hbox (584.98618pt too wide) in paragraph at lines 210--211
  [][] 
  []
 
@@ -535,10 +547,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ./figures/A_leafchem.pdf Graphic file (type pdf)
 
 <use ./figures/A_leafchem.pdf>
-Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 220.
+Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 218.
 (pdftex.def)             Requested size: 722.69823pt x 505.88875pt.
 
-Overfull \hbox (295.90688pt too wide) in paragraph at lines 220--221
+Overfull \hbox (295.90688pt too wide) in paragraph at lines 218--219
  [][] 
  []
 
@@ -549,10 +561,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ./figures/gC_day.pdf Graphic file (type pdf)
 
 <use ./figures/gC_day.pdf>
-Package pdftex.def Info: ./figures/gC_day.pdf used on input line 228.
+Package pdftex.def Info: ./figures/gC_day.pdf used on input line 226.
 (pdftex.def)             Requested size: 505.88875pt x 360.34537pt.
 
-Overfull \hbox (79.0974pt too wide) in paragraph at lines 228--229
+Overfull \hbox (79.0974pt too wide) in paragraph at lines 226--227
  [][] 
  []
 
@@ -572,7 +584,7 @@ manuscript/figures/gC_day.pdf>]
 File: ./figures/gc_Day_scenario.pdf Graphic file (type pdf)
 
 <use ./figures/gc_Day_scenario.pdf>
-Package pdftex.def Info: ./figures/gc_Day_scenario.pdf used on input line 244.
+Package pdftex.def Info: ./figures/gc_Day_scenario.pdf used on input line 242.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
  [13
 
@@ -613,7 +625,7 @@ nSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on pve_manuscript.pdf (15 pages, 244580 bytes).
+Output written on pve_manuscript.pdf (15 pages, 245888 bytes).
 PDF statistics:
  162 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
