@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  12 DEC 2014 14:26
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  12 DEC 2014 16:49
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -564,12 +564,11 @@ Overfull \hbox (295.90688pt too wide) in paragraph at lines 218--219
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/gC_day.pdf, id=36, 505.89pt x 360.34625pt>
+<./figures/gC_day.pdf, id=36, 505.89pt x 578.16pt>
 File: ./figures/gC_day.pdf Graphic file (type pdf)
-
-<use ./figures/gC_day.pdf>
+ <use ./figures/gC_day.pdf>
 Package pdftex.def Info: ./figures/gC_day.pdf used on input line 226.
-(pdftex.def)             Requested size: 505.88875pt x 360.34537pt.
+(pdftex.def)             Requested size: 505.88875pt x 578.15858pt.
 
 Overfull \hbox (79.0974pt too wide) in paragraph at lines 226--227
  [][] 
@@ -587,7 +586,7 @@ at.pdf>] [10 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/
 massfractions.pdf>] [11 <C:/Users/90919620/github_repos/pve_manuscript/manuscri
 pt/figures/A_leafchem.pdf>] [12 <C:/Users/90919620/github_repos/pve_manuscript/
 manuscript/figures/gC_day.pdf>]
-<./figures/gc_Day_scenario.pdf, id=103, 483.8075pt x 690.58pt>
+<./figures/gc_Day_scenario.pdf, id=104, 483.8075pt x 690.58pt>
 File: ./figures/gc_Day_scenario.pdf Graphic file (type pdf)
 
 <use ./figures/gc_Day_scenario.pdf>
@@ -636,9 +635,9 @@ nSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on pve_manuscript.pdf (14 pages, 246221 bytes).
+Output written on pve_manuscript.pdf (14 pages, 250832 bytes).
 PDF statistics:
- 159 PDF objects out of 1000 (max. 8388607)
+ 160 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
