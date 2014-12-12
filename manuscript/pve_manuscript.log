@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  12 DEC 2014 13:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  12 DEC 2014 14:26
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -389,10 +389,23 @@ Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
-[2] [3]
+[2]
+LaTeX Font Info:    Font shape `OT1/fosj/bx/n' in size <10> not available
+(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 137.
+LaTeX Font Info:    Font shape `OT1/fosj/b/n' will be
+(Font)              scaled to size 9.49997pt on input line 137.
+
+
+LaTeX Warning: Citation `plantecophys' on page 3 undefined on input line 137.
+
+[3]
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
+
+
+LaTeX Warning: Citation `plantecophys' on page 4 undefined on input line 146.
+
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
@@ -408,13 +421,7 @@ Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
- [4]
+[4]
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
@@ -591,27 +598,31 @@ Package pdftex.def Info: ./figures/gc_Day_scenario.pdf used on input line 242.
  <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/gc_Day_scena
 rio.pdf>]
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.bbl
-LaTeX Font Info:    Font shape `OT1/fosj/bx/n' in size <10> not available
-(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 7.
-LaTeX Font Info:    Font shape `OT1/fosj/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 7.
+LaTeX Font Info:    Try loading font information for OMS+fosj on input line 75.
 
-[14
+LaTeX Font Info:    No file OMSfosj.fd. on input line 75.
 
-]) [15]
+
+LaTeX Font Warning: Font shape `OMS/fosj/m/it' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbraceleft' on input line 75.
+
+) [14
+
+]
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3328 strings out of 493921
- 46516 string characters out of 3147273
- 106251 words of memory out of 3000000
- 6510 multiletter control sequences out of 15000+200000
+ 3336 strings out of 493921
+ 46614 string characters out of 3147273
+ 106227 words of memory out of 3000000
+ 6516 multiletter control sequences out of 15000+200000
  32936 words of font info for 87 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,6n,26p,2800b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,6n,26p,2858b,257s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensans/opensa
 ns-04.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensan
 s/opensans-02.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
@@ -625,9 +636,9 @@ nSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on pve_manuscript.pdf (15 pages, 245888 bytes).
+Output written on pve_manuscript.pdf (14 pages, 246221 bytes).
 PDF statistics:
- 162 PDF objects out of 1000 (max. 8388607)
+ 159 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

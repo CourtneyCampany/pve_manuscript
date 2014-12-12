@@ -12,13 +12,12 @@ Biran, I, \& Eliassaf, A. 1980b.
   roots and canopy of woody plants}.
 \newblock {\em Scientia Horticulturae}, {\bf 12}(4), 385--394.
 
-\bibitem[\protect\citename{by~Mik Cieslak. Uses code~by Robert~Pearcy \&
+\bibitem[\protect\citename{{Cieslak, Mik. Uses code by Robert Pearcy} \&
   Medlyn., }n.d.]{yplantqmc}
-by~Mik Cieslak. Uses code~by Robert~Pearcy, Remko Duursma.~QuasiMC, \& Medlyn.,
+{Cieslak, Mik. Uses code by Robert Pearcy}, Remko Duursma.~QuasiMC, \& Medlyn.,
   Belinda.
-\newblock {\em YplantQMC: Plant architectural analysis with Yplant and
-  QuasiMC.}
-\newblock R package version 0.6-2.
+\newblock {\em {YplantQMC: Plant architectural analysis with Yplant and
+  QuasiMC.}}
 
 \bibitem[\protect\citename{Crous {\em et~al.}, }2013]{crous2013photosynthesis}
 Crous, Kristine~Y, Quentin, Audrey~G, Lin, Yan-Shih, Medlyn, Belinda~E,
@@ -34,11 +33,6 @@ Drake, John~E, Aspinwall, Michael~J, Pfautsch, Sebastian, Rymer, Paul~D, Reich,
 \newblock {The capacity to cope with climate warming declines from temperate to
   tropical latitudes in two widely distributed Eucalyptus species}.
 \newblock {\em Global change biology}.
-
-\bibitem[\protect\citename{Duursma, }2014]{plantecophys}
-Duursma, Remko. 2014.
-\newblock {\em plantecophys: Modelling and analysis of leaf gas exchange data}.
-\newblock R package version 0.2-3.
 
 \bibitem[\protect\citename{Farquhar {\em et~al.},
   }1980]{farquhar1980biochemical}
@@ -78,8 +72,7 @@ Mitchell, Patrick~J, O'Grady, Anthony~P, Tissue, David~T, White, Donald~A,
 \bibitem[\protect\citename{Pinheiro {\em et~al.}, }2014]{nlme}
 Pinheiro, Jose, Bates, Douglas, DebRoy, Saikat, Sarkar, Deepayan, \& {R Core
   Team}. 2014.
-\newblock {\em {nlme}: Linear and Nonlinear Mixed Effects Models}.
-\newblock R package version 3.1-118.
+\newblock {\em {\{nlme\}: Linear and Nonlinear Mixed Effects Models}}.
 
 \bibitem[\protect\citename{Pinkard {\em et~al.},
   }1998]{pinkard1998photosynthetic}
