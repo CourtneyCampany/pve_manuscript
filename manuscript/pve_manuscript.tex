@@ -87,6 +87,9 @@
 
 %allows subscripts in text mode
 \usepackage{fixltx2e}
+
+%allows rotation of table??
+\usepackage{rotating}
 \IfFileExists{upquote.sty}{\usepackage{upquote}}{}
 \begin{document}
 
@@ -103,6 +106,10 @@
 
 \renewcommand\Authands{ and }
 \maketitle
+
+%--------------------------------------------------------------------------------------------%
+
+
 
 
 %--------------------------------------------------------------------------------------------%
@@ -183,24 +190,28 @@ To test whether potential sources of missing carbon could improve the modelled r
 % Load xtable for printing tables.
 
 
-\begin{knitrout}
-\definecolor{shadecolor}{rgb}{0.969, 0.969, 0.969}\color{fgcolor}\begin{kframe}
-
-
-{\ttfamily\noindent\color{warningcolor}{\#\# Warning in file(file, "{}rt"{}): cannot open file 'manuscript/table/pve\_table1.csv': No such file or directory}}
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in file(file, "{}rt"{}): cannot open the connection}}\end{kframe}
-\end{knitrout}
-
 
 % dataframe for table1
-\begin{kframe}
-\begin{alltt}
-\hlkwd{print}\hlstd{(}\hlkwd{xtable}\hlstd{(data,} \hlkwc{label}\hlstd{=}\hlstr{"table:Table1"}\hlstd{))}
-\end{alltt}
+% latex table generated in R 3.1.2 by xtable 1.7-4 package
+% Mon Dec 15 17:25:17 2014
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllllllll}
+  \hline
+ & Volume..L. & Seedling.mass..g. & A.max......mu...mol...m..2...s..1. & SLA.TNC...free......m.2...g..1. & Leaf...Starch.....g...g..1. & Leaf...Soluble...Sugars.....g...g..1. & Leaf...Nitrogen.mass......g...g..1. & Respiration.dark......mu...mol...m..2...s..1. \\ 
+  \hline
+1 & 5 & 14.8350120657235 (1.82) & 21.2 (0.9) & 0.0095 (0.00023) & 127.3 (9.68) & 64.3 (2.8) & 0.0019 (0.00014) & -2.8427 (0.30186) \\ 
+  2 & 10 & 20.0380129996545 (2.38) & 22.3 (1.37) & 0.0098 (0.00024) & 93.9 (7.46) & 67.2 (2.55) & 0.0024 (0.00013) & -2.6774 (0.37516) \\ 
+  3 & 15 & 25.4297740700205 (2.49) & 23.3 (1.17) & 0.011 (0.00047) & 72.5 (7.26) & 72.3 (2.84) & 0.0027 (0.00016) & -1.4175 (0.11726) \\ 
+  4 & 20 & 23.4278649871943 (1.63) & 26.1 (0.72) & 0.0098 (0.00028) & 94.7 (8.8) & 65.9 (2.64) & 0.0028 (0.00019) & -1.739 (0.12388) \\ 
+  5 & 25 & 30.438898493811 (5.49) & 23.9 (0.91) & 0.0104 (0.00037) & 98.3 (7.14) & 69 (2.42) & 0.0028 (0.00021) & -1.2361 (0.14251) \\ 
+  6 & 35 & 52.2340436120822 (9.55) & 25 (1.01) & 0.0113 (0.00044) & 98 (6.49) & 68.5 (2.16) & 0.0035 (2e-04) & -1.5163 (0.17942) \\ 
+  7 & Free & 174.531048572646 (18.02) & 33.1 (0.73) & 0.013 (0.00044) & 68.1 (6.45) & 73.9 (2.53) & 0.0064 (0.00035) & -1.2541 (0.12007) \\ 
+   \hline
+\end{tabular}
+\label{table:Table1}
+\end{table}
 
-
-{\ttfamily\noindent\bfseries\color{errorcolor}{\#\# Error in UseMethod("{}xtable"{}): no applicable method for 'xtable' applied to an object of class "{}function"{}}}\end{kframe}
 
 %--------------------------------------------------------------------------------------------%
 \clearpage

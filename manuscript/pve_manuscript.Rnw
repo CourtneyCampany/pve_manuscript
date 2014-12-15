@@ -39,6 +39,9 @@
 %allows subscripts in text mode
 \usepackage{fixltx2e}
 
+%allows rotation of table??
+\usepackage{rotating} 
+
 \begin{document}
 
 
@@ -54,6 +57,13 @@
 
 \renewcommand\Authands{ and }
 \maketitle
+
+%--------------------------------------------------------------------------------------------%
+
+<<preload, echo=FALSE>>=
+library(knitr)
+opts_chunk$set(echo=FALSE)
+@
 
 
 %--------------------------------------------------------------------------------------------%
@@ -134,17 +144,14 @@ To test whether potential sources of missing carbon could improve the modelled r
 % Load xtable for printing tables.
 <<echo=FALSE, message=FALSE, warning=FALSE>>=
 library(xtable)
-data <- read.csv("manuscript/table/pve_table1.csv")
-@
-
-<<echo=FALSE>>=
-
+pve_data <- read.csv("table/pve_table1.csv")
 @
 
 
 % dataframe for table1
 <<results='asis'>>=
-print(xtable(data, label="table:Table1"))
+print(xtable(pve_data, label="table:Table1"))
+
 @
 
 %--------------------------------------------------------------------------------------------%
