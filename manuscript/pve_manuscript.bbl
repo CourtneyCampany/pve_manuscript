@@ -41,6 +41,11 @@ Farquhar, G~D, von~von Caemmerer, S, \& Berry, J~A. 1980.
   C3 species}.
 \newblock {\em Planta}, {\bf 149}(1), 78--90.
 
+\bibitem[\protect\citename{Farquhar \& Sharkey, }1982]{farquhar1982stomatal}
+Farquhar, Graham~D, \& Sharkey, Thomas~D. 1982.
+\newblock {Stomatal conductance and photosynthesis}.
+\newblock {\em Annual review of plant physiology}, {\bf 33}(1), 317--345.
+
 \bibitem[\protect\citename{Kallarackal \& Somen,
   }1997]{kallarackal1997ecophysiological}
 Kallarackal, J, \& Somen, C~K. 1997.
@@ -53,6 +58,14 @@ McCleary, B.~V., Gibson, T.~S., \& Mugford, D.~C.
 \newblock {Measurement of total starch in cereal products by
   amyloglucosidase-$\alpha$-amylase method: Collaborative study}.
 \newblock {\em Journal of AOAC International}, {\bf 80}(3), 571--579.
+
+\bibitem[\protect\citename{Medlyn {\em et~al.}, }2002]{medlyn2002temperature}
+Medlyn, B~E, Dreyer, Erwin, Ellsworth, D, Forstreuter, M, Harley, P~C,
+  Kirschbaum, M U~F, {Le Roux}, Xavier, Montpied, Pierre, Strassemeyer, J,
+  Walcroft, A, \& Others. 2002.
+\newblock {Temperature response of parameters of a biochemically based model of
+  photosynthesis. II. A review of experimental data}.
+\newblock {\em Plant, Cell \& Environment}, {\bf 25}(9), 1167--1179.
 
 \bibitem[\protect\citename{Medlyn {\em et~al.}, }2012]{medlyn2012reconciling}
 Medlyn, Belinda~E, Duursma, Remko~A, Eamus, Derek, Ellsworth, David~S, {Colin
