@@ -146,24 +146,44 @@ To test whether potential sources of missing carbon could improve the modelled r
 <<echo=FALSE, message=FALSE, warning=FALSE>>=
 library(xtable)
 pve_data <- read.csv("table/pve_table1.csv")
-colnames(pve_data) <- c("\tmathrm{Volume~(L)}", "\t{Seedling~mass~(g)}",
-                        "$\\mathrm{A_{max}~(\\mu~mols~m^{-2}~s^{-1})}$", 
+colnames(pve_data) <- c("\t{Volume~(L)}", 
+                        "\t{Seedling~mass~(g)}", 
                         "$\\mathrm{SLA~(m^2~g^{-1})}$",
                         "$\\mathrm{SRL~(m~g^{-1})}$", 
                         "$\\mathrm{Leaf~Starch~(g~g^{-1})}$", 
                         "$\\mathrm{Leaf~Sugars~(g~g^{-1})}$", 
-                        "$\\mathrm{Leaf~Nitrogen~(g~g^{-1}))}$",
-                        "$\\mathrm{Leaf~Respiration_{dark}~(\\mu~mols~m^{-2}~s^{-1})}$")
+                        "$\\mathrm{Leaf~Nitrogen~(g~g^{-1}))}$")
+
+
+phys_data <- read.csv("table/pve_table2.csv")
+colnames(phys_data) <- c("\t{Volume~(L)}", 
+                        "$\\mathrm{A_{max}~(\\mu~mols~m^{-2}~s^{-1})}$", 
+                        "$\\mathrm{R_{dark}~(\\mu~mols~m^{-2}~s^{-1})}$",
+                        "$\\mathrm{J_{max}}$",
+                        "$\\mathrm{Vc_{max}}$",
+                        "$\\mathrm{g_s~(\\mu~mols~m^{-2}~s^{-1})}$",
+                        "$\\mathrm{g_1}$")
+
 @
 
 
-% dataframe for table1
+%seedling data table
 <<results='asis'>>=
 datatab <- xtable(pve_data, label="table:Table1")
 print(datatab, include.rownames=FALSE,sanitize.colnames.function=function(x){x},
-      floating.environment='sidewaystable',scalebox=0.7)
+      floating.environment='sidewaystable')
 
 @
+
+
+<<results='asis'>>=
+phystab <- xtable(phys_data, label="table:Table2")
+print(phystab, include.rownames=FALSE,sanitize.colnames.function=function(x){x},
+      floating.environment='sidewaystable')
+@
+
+
+
 
 %--------------------------------------------------------------------------------------------%
 \clearpage
