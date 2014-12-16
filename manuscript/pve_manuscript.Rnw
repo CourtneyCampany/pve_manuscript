@@ -2,7 +2,8 @@
 \documentclass[a4paper]{article}
 
 %--- Load packages. 
-\usepackage{amssymb,amsmath}
+\usepackage{amssymb}
+\usepackage{amsmath}
 \usepackage{framed}
 
 % avoid ugly indentation of paragraphs
@@ -145,12 +146,22 @@ To test whether potential sources of missing carbon could improve the modelled r
 <<echo=FALSE, message=FALSE, warning=FALSE>>=
 library(xtable)
 pve_data <- read.csv("table/pve_table1.csv")
+colnames(pve_data) <- c("\tmathrm{Volume~(L)}", "\t{Seedling~mass~(g)}",
+                        "$\\mathrm{A_{max}~(\\mu~mols~m^{-2}~s^{-1})}$", 
+                        "$\\mathrm{SLA~(m^2~g^{-1})}$",
+                        "$\\mathrm{SRL~(m~g^{-1})}$", 
+                        "$\\mathrm{Leaf~Starch~(g~g^{-1})}$", 
+                        "$\\mathrm{Leaf~Sugars~(g~g^{-1})}$", 
+                        "$\\mathrm{Leaf~Nitrogen~(g~g^{-1}))}$",
+                        "$\\mathrm{Leaf~Respiration_{dark}~(\\mu~mols~m^{-2}~s^{-1})}$")
 @
 
 
 % dataframe for table1
 <<results='asis'>>=
-print(xtable(pve_data, label="table:Table1"))
+datatab <- xtable(pve_data, label="table:Table1")
+print(datatab, include.rownames=FALSE,sanitize.colnames.function=function(x){x},
+      floating.environment='sidewaystable',scalebox=0.7)
 
 @
 
