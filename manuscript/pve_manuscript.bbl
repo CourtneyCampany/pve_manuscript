@@ -1,135 +1,179 @@
-\begin{thebibliography}{}
+\begin{thebibliography}{22}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
 
-\bibitem[\protect\citename{Biran \& Eliassaf, }1980a]{biran1980b}
-Biran, I, \& Eliassaf, A. 1980a.
-\newblock {The effect of container shape on the development of roots and canopy
-  of woody plants}.
-\newblock {\em Scientia Horticulturae}, {\bf 12}(2), 183--193.
-
-\bibitem[\protect\citename{Biran \& Eliassaf, }1980b]{biran1980a}
-Biran, I, \& Eliassaf, A. 1980b.
+\bibitem[Biran and Eliassaf(1980{\natexlab{a}})]{biran1980a}
+I~Biran and A~Eliassaf.
 \newblock {The effect of container size and aeration conditions on growth of
   roots and canopy of woody plants}.
-\newblock {\em Scientia Horticulturae}, {\bf 12}(4), 385--394.
+\newblock \emph{Scientia Horticulturae}, 12\penalty0 (4):\penalty0 385--394,
+  1980{\natexlab{a}}.
 
-\bibitem[\protect\citename{{Cieslak, Mik. Uses code by Robert Pearcy} \&
-  Medlyn., }n.d.]{yplantqmc}
-{Cieslak, Mik. Uses code by Robert Pearcy}, Remko Duursma.~QuasiMC, \& Medlyn.,
-  Belinda.
-\newblock {\em {YplantQMC: Plant architectural analysis with Yplant and
+\bibitem[Biran and Eliassaf(1980{\natexlab{b}})]{biran1980b}
+I~Biran and A~Eliassaf.
+\newblock {The effect of container shape on the development of roots and canopy
+  of woody plants}.
+\newblock \emph{Scientia Horticulturae}, 12\penalty0 (2):\penalty0 183--193,
+  1980{\natexlab{b}}.
+
+\bibitem[{Cieslak, Mik. Uses code by Robert Pearcy} and Medlyn.()]{yplantqmc}
+Remko Duursma.~QuasiMC {Cieslak, Mik. Uses code by Robert Pearcy} and Belinda
+  Medlyn.
+\newblock \emph{{YplantQMC: Plant architectural analysis with Yplant and
   QuasiMC.}}
+\newblock URL \url{http://www.remkoduursma.com/yplantqmc,
+  https://www.bitbucket.org/remkoduursma/yplantqmc/}.
 
-\bibitem[\protect\citename{Crous {\em et~al.}, }2013]{crous2013photosynthesis}
-Crous, Kristine~Y, Quentin, Audrey~G, Lin, Yan-Shih, Medlyn, Belinda~E,
-  Williams, David~G, Barton, Craig V~M, \& Ellsworth, David~S. 2013.
+\bibitem[Crous et~al.(2013)Crous, Quentin, Lin, Medlyn, Williams, Barton, and
+  Ellsworth]{crous2013photosynthesis}
+Kristine~Y Crous, Audrey~G Quentin, Yan-Shih Lin, Belinda~E Medlyn, David~G
+  Williams, Craig V~M Barton, and David~S Ellsworth.
 \newblock {Photosynthesis of temperate Eucalyptus globulus trees outside their
   native range has limited adjustment to elevated CO2 and climate warming}.
-\newblock {\em Global change biology}, {\bf 19}(12), 3790--3807.
+\newblock \emph{Global change biology}, 19\penalty0 (12):\penalty0 3790--3807,
+  2013.
 
-\bibitem[\protect\citename{Drake {\em et~al.}, }2014]{drake2014capacity}
-Drake, John~E, Aspinwall, Michael~J, Pfautsch, Sebastian, Rymer, Paul~D, Reich,
-  Peter~B, Smith, Renee~A, Crous, Kristine~Y, Tissue, David~T, Ghannoum, Oula,
-  \& Tjoelker, Mark~G. 2014.
+\bibitem[Drake et~al.(2014)Drake, Aspinwall, Pfautsch, Rymer, Reich, Smith,
+  Crous, Tissue, Ghannoum, and Tjoelker]{drake2014capacity}
+John~E Drake, Michael~J Aspinwall, Sebastian Pfautsch, Paul~D Rymer, Peter~B
+  Reich, Renee~A Smith, Kristine~Y Crous, David~T Tissue, Oula Ghannoum, and
+  Mark~G Tjoelker.
 \newblock {The capacity to cope with climate warming declines from temperate to
   tropical latitudes in two widely distributed Eucalyptus species}.
-\newblock {\em Global change biology}.
+\newblock \emph{Global change biology}, 2014.
 
-\bibitem[\protect\citename{Duursma {\em et~al.}, }2012]{duursma2012light}
-Duursma, Remko~A, Falster, Daniel~S, Valladares, Fernando, Sterck, F~J, Pearcy,
-  R~W, Lusk, Christopher~H, Sendall, K~M, Nordenstahl, Marisa, Houter, N~C,
-  Atwell, B~J, \& Others. 2012.
+\bibitem[Duursma et~al.(2012)Duursma, Falster, Valladares, Sterck, Pearcy,
+  Lusk, Sendall, Nordenstahl, Houter, Atwell, and Others]{duursma2012light}
+Remko~A Duursma, Daniel~S Falster, Fernando Valladares, F~J Sterck, R~W Pearcy,
+  Christopher~H Lusk, K~M Sendall, Marisa Nordenstahl, N~C Houter, B~J Atwell,
+  and Others.
 \newblock {Light interception efficiency explained by two simple variables: a
   test using a diversity of small-to medium-sized woody plants}.
-\newblock {\em New Phytologist}, {\bf 193}(2), 397--408.
+\newblock \emph{New Phytologist}, 193\penalty0 (2):\penalty0 397--408, 2012.
 
-\bibitem[\protect\citename{Farquhar {\em et~al.},
-  }1980]{farquhar1980biochemical}
-Farquhar, G~D, von~von Caemmerer, S, \& Berry, J~A. 1980.
+\bibitem[Ebell(1969)]{ebell1969variation}
+L~F Ebell.
+\newblock {Variation in total soluble sugars of conifer tissues with method of
+  analysis}.
+\newblock \emph{Phytochemistry}, 8\penalty0 (1):\penalty0 227--233, 1969.
+
+\bibitem[Farquhar et~al.(1980)Farquhar, von~von Caemmerer, and
+  Berry]{farquhar1980biochemical}
+G~D Farquhar, S~von~von Caemmerer, and J~A Berry.
 \newblock {A biochemical model of photosynthetic CO2 assimilation in leaves of
   C3 species}.
-\newblock {\em Planta}, {\bf 149}(1), 78--90.
+\newblock \emph{Planta}, 149\penalty0 (1):\penalty0 78--90, 1980.
 
-\bibitem[\protect\citename{Farquhar \& Sharkey, }1982]{farquhar1982stomatal}
-Farquhar, Graham~D, \& Sharkey, Thomas~D. 1982.
+\bibitem[Farquhar and Sharkey(1982)]{farquhar1982stomatal}
+Graham~D Farquhar and Thomas~D Sharkey.
 \newblock {Stomatal conductance and photosynthesis}.
-\newblock {\em Annual review of plant physiology}, {\bf 33}(1), 317--345.
+\newblock \emph{Annual review of plant physiology}, 33\penalty0 (1):\penalty0
+  317--345, 1982.
 
-\bibitem[\protect\citename{Kallarackal \& Somen,
-  }1997]{kallarackal1997ecophysiological}
-Kallarackal, J, \& Somen, C~K. 1997.
+\bibitem[Kallarackal and Somen(1997)]{kallarackal1997ecophysiological}
+J~Kallarackal and C~K Somen.
 \newblock {An ecophysiological evaluation of the suitability of Eucalyptus
   grandis for planting in the tropics}.
-\newblock {\em Forest Ecology and Management}, {\bf 95}(1), 53--61.
+\newblock \emph{Forest Ecology and Management}, 95\penalty0 (1):\penalty0
+  53--61, 1997.
 
-\bibitem[\protect\citename{McCleary {\em et~al.}, }n.d.]{MCCLEARY}
-McCleary, B.~V., Gibson, T.~S., \& Mugford, D.~C.
+\bibitem[McCleary et~al.()McCleary, Gibson, and Mugford]{MCCLEARY}
+B.~V. McCleary, T.~S. Gibson, and D.~C. Mugford.
 \newblock {Measurement of total starch in cereal products by
   amyloglucosidase-$\alpha$-amylase method: Collaborative study}.
-\newblock {\em Journal of AOAC International}, {\bf 80}(3), 571--579.
+\newblock \emph{Journal of AOAC International}, 80\penalty0 (3):\penalty0
+  571--579.
+\newblock ISSN 1060-3271.
+\newblock URL \url{http://cat.inist.fr/?aModele=afficheN\&cpsidt=2673983}.
 
-\bibitem[\protect\citename{Medlyn {\em et~al.}, }2002]{medlyn2002temperature}
-Medlyn, B~E, Dreyer, Erwin, Ellsworth, D, Forstreuter, M, Harley, P~C,
-  Kirschbaum, M U~F, {Le Roux}, Xavier, Montpied, Pierre, Strassemeyer, J,
-  Walcroft, A, \& Others. 2002.
+\bibitem[Medlyn et~al.(2002)Medlyn, Dreyer, Ellsworth, Forstreuter, Harley,
+  Kirschbaum, {Le Roux}, Montpied, Strassemeyer, Walcroft, and
+  Others]{medlyn2002temperature}
+B~E Medlyn, Erwin Dreyer, D~Ellsworth, M~Forstreuter, P~C Harley, M~U~F
+  Kirschbaum, Xavier {Le Roux}, Pierre Montpied, J~Strassemeyer, A~Walcroft,
+  and Others.
 \newblock {Temperature response of parameters of a biochemically based model of
   photosynthesis. II. A review of experimental data}.
-\newblock {\em Plant, Cell \& Environment}, {\bf 25}(9), 1167--1179.
+\newblock \emph{Plant, Cell \& Environment}, 25\penalty0 (9):\penalty0
+  1167--1179, 2002.
 
-\bibitem[\protect\citename{Medlyn {\em et~al.}, }2012]{medlyn2012reconciling}
-Medlyn, Belinda~E, Duursma, Remko~A, Eamus, Derek, Ellsworth, David~S, {Colin
-  Prentice}, I, Barton, Craig V~M, Crous, Kristine~Y, Angelis, Paolo, Freeman,
-  Michael, \& Wingate, Lisa. 2012.
+\bibitem[Medlyn et~al.(2012)Medlyn, Duursma, Eamus, Ellsworth, {Colin
+  Prentice}, Barton, Crous, Angelis, Freeman, and
+  Wingate]{medlyn2012reconciling}
+Belinda~E Medlyn, Remko~A Duursma, Derek Eamus, David~S Ellsworth, I~{Colin
+  Prentice}, Craig V~M Barton, Kristine~Y Crous, Paolo Angelis, Michael
+  Freeman, and Lisa Wingate.
 \newblock {Reconciling the optimal and empirical approaches to modelling
   stomatal conductance}.
-\newblock {\em Global Change Biology}, {\bf 18}(11), 3476.
+\newblock \emph{Global Change Biology}, 18\penalty0 (11):\penalty0 3476, 2012.
 
-\bibitem[\protect\citename{Mitchell {\em et~al.}, }2013]{mitchell2013drought}
-Mitchell, Patrick~J, O'Grady, Anthony~P, Tissue, David~T, White, Donald~A,
-  Ottenschlaeger, Maria~L, \& Pinkard, Elizabeth~A. 2013.
+\bibitem[Mitchell et~al.(2013)Mitchell, O'Grady, Tissue, White, Ottenschlaeger,
+  and Pinkard]{mitchell2013drought}
+Patrick~J Mitchell, Anthony~P O'Grady, David~T Tissue, Donald~A White, Maria~L
+  Ottenschlaeger, and Elizabeth~A Pinkard.
 \newblock {Drought response strategies define the relative contributions of
   hydraulic dysfunction and carbohydrate depletion during tree mortality}.
-\newblock {\em New Phytologist}, {\bf 197}(3), 862--872.
+\newblock \emph{New Phytologist}, 197\penalty0 (3):\penalty0 862--872, 2013.
 
-\bibitem[\protect\citename{Pinheiro {\em et~al.}, }2014]{nlme}
-Pinheiro, Jose, Bates, Douglas, DebRoy, Saikat, Sarkar, Deepayan, \& {R Core
-  Team}. 2014.
-\newblock {\em {\{nlme\}: Linear and Nonlinear Mixed Effects Models}}.
+\bibitem[Pinheiro et~al.(2014)Pinheiro, Bates, DebRoy, Sarkar, and {R Core
+  Team}]{nlme}
+Jose Pinheiro, Douglas Bates, Saikat DebRoy, Deepayan Sarkar, and {R Core
+  Team}.
+\newblock \emph{{\{nlme\}: Linear and Nonlinear Mixed Effects Models}}, 2014.
+\newblock URL \url{http://cran.r-project.org/package=nlme}.
 
-\bibitem[\protect\citename{Pinkard {\em et~al.},
-  }1998]{pinkard1998photosynthetic}
-Pinkard, E~A, Beadle, C~L, Davidson, N~J, \& Battaglia, M. 1998.
+\bibitem[Pinkard et~al.(1998)Pinkard, Beadle, Davidson, and
+  Battaglia]{pinkard1998photosynthetic}
+E~A Pinkard, C~L Beadle, N~J Davidson, and M~Battaglia.
 \newblock {Photosynthetic responses of Eucalyptus nitens (Deane and Maiden)
   Maiden to green pruning}.
-\newblock {\em Trees}, {\bf 12}(3), 119--129.
+\newblock \emph{Trees}, 12\penalty0 (3):\penalty0 119--129, 1998.
 
-\bibitem[\protect\citename{Poorter {\em et~al.}, }2009]{poorter2009causes}
-Poorter, Hendrik, Niinemets, \"{U}lo, Poorter, Lourens, Wright, Ian~J, \&
-  Villar, Rafael. 2009.
+\bibitem[Poorter et~al.(2009)Poorter, Niinemets, Poorter, Wright, and
+  Villar]{poorter2009causes}
+Hendrik Poorter, \"{U}lo Niinemets, Lourens Poorter, Ian~J Wright, and Rafael
+  Villar.
 \newblock {Causes and consequences of variation in leaf mass per area (LMA): a
   meta-analysis}.
-\newblock {\em New Phytologist}, {\bf 182}(3), 565--588.
+\newblock \emph{New Phytologist}, 182\penalty0 (3):\penalty0 565--588, 2009.
 
-\bibitem[\protect\citename{{R Development Core Team},
-  }2011]{RDevelopmentCoreTeam2011}
-{R Development Core Team}, R. 2011.
-\newblock {\em {R: A Language and Environment for Statistical Computing}}.
+\bibitem[Poorter et~al.(2012)Poorter, B\"{u}hler, van Dusschoten, Climent, and
+  Postma]{poorter2012pot}
+Hendrik Poorter, Jonas B\"{u}hler, Dagmar van Dusschoten, Jos\'{e} Climent, and
+  Johannes~A Postma.
+\newblock {Pot size matters: a meta-analysis of the effects of rooting volume
+  on plant growth}.
+\newblock \emph{Functional Plant Biology}, 39\penalty0 (11):\penalty0 839--850,
+  2012.
 
-\bibitem[\protect\citename{Sellin, }1999]{sellin1999does}
-Sellin, Arne. 1999.
+\bibitem[{R Development Core Team}(2011)]{RDevelopmentCoreTeam2011}
+R~{R Development Core Team}.
+\newblock {R: A Language and Environment for Statistical Computing}, 2011.
+\newblock ISSN 16000706.
+\newblock URL \url{http://www.r-project.org}.
+
+\bibitem[Sellin(1999)]{sellin1999does}
+Arne Sellin.
 \newblock {Does pre-dawn water potential reflect conditions of equilibrium in
   plant and soil water status?}
-\newblock {\em Acta Oecologica}, {\bf 20}(1), 51--59.
+\newblock \emph{Acta Oecologica}, 20\penalty0 (1):\penalty0 51--59, 1999.
 
-\bibitem[\protect\citename{Warton {\em et~al.}, }2012]{warton2012smatr}
-Warton, David~I, Duursma, Remko~A, Falster, Daniel~S, \& Taskinen, Sara. 2012.
+\bibitem[Warton et~al.(2012)Warton, Duursma, Falster, and
+  Taskinen]{warton2012smatr}
+David~I Warton, Remko~A Duursma, Daniel~S Falster, and Sara Taskinen.
 \newblock {smatr 3--an R package for estimation and inference about allometric
   lines}.
-\newblock {\em Methods in Ecology and Evolution}, {\bf 3}(2), 257--259.
+\newblock \emph{Methods in Ecology and Evolution}, 3\penalty0 (2):\penalty0
+  257--259, 2012.
 
-\bibitem[\protect\citename{Zhu {\em et~al.}, }2008]{zhu2008maximum}
-Zhu, Xin-Guang, Long, Stephen~P, \& Ort, Donald~R. 2008.
+\bibitem[Zhu et~al.(2008)Zhu, Long, and Ort]{zhu2008maximum}
+Xin-Guang Zhu, Stephen~P Long, and Donald~R Ort.
 \newblock {What is the maximum efficiency with which photosynthesis can convert
   solar energy into biomass?}
-\newblock {\em Current opinion in biotechnology}, {\bf 19}(2), 153--159.
+\newblock \emph{Current opinion in biotechnology}, 19\penalty0 (2):\penalty0
+  153--159, 2008.
 
 \end{thebibliography}
