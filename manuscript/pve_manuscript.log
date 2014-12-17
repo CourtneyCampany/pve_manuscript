@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  16 DEC 2014 17:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  17 DEC 2014 12:51
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -414,22 +414,22 @@ Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
 
 LaTeX Warning: Citation `plantecophys' on page 4 undefined on input line 154.
 
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
 [4]
-Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
@@ -504,19 +504,19 @@ Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
 
-Overfull \hbox (39.33308pt too wide) in paragraph at lines 178--179
-\OT1/fosj/m/n/10 than those in con-tain-ers (Ta-ble. [], p=0.0023), the mean ra
-tes for all seedlings were high at 0.37 mol H$[]$0 m$[]$ s$[]$
+Overfull \hbox (44.16856pt too wide) in paragraph at lines 178--179
+\OT1/fosj/m/n/10 than those in con-tain-ers (Ta-ble. 2[], p=0.0023), the mean r
+ates for all seedlings were high at 0.37 mol H$[]$0 m$[]$ s$[]$
  []
 
 [6] [7] [8] [9] <./figures/airvars.pdf, id=42, 505.89pt x 504.88625pt>
 File: ./figures/airvars.pdf Graphic file (type pdf)
 
 <use ./figures/airvars.pdf>
-Package pdftex.def Info: ./figures/airvars.pdf used on input line 248.
+Package pdftex.def Info: ./figures/airvars.pdf used on input line 265.
 (pdftex.def)             Requested size: 505.88875pt x 504.885pt.
 
-Overfull \hbox (79.0974pt too wide) in paragraph at lines 248--249
+Overfull \hbox (79.0974pt too wide) in paragraph at lines 265--266
  [][] 
  []
 
@@ -524,15 +524,15 @@ Overfull \hbox (79.0974pt too wide) in paragraph at lines 248--249
 File: ./figures/allometry.pdf Graphic file (type pdf)
 
 <use ./figures/allometry.pdf>
-Package pdftex.def Info: ./figures/allometry.pdf used on input line 256.
+Package pdftex.def Info: ./figures/allometry.pdf used on input line 273.
 (pdftex.def)             Requested size: 483.80632pt x 690.57831pt.
 
-Overfull \hbox (57.01497pt too wide) in paragraph at lines 256--257
+Overfull \hbox (57.01497pt too wide) in paragraph at lines 273--274
  [][] 
  []
 
 
-LaTeX Warning: Float too large for page by 40.53748pt on input line 259.
+LaTeX Warning: Float too large for page by 40.53748pt on input line 276.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -540,10 +540,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <./figures/Asat.pdf, id=44, 505.89pt x 360.34625pt>
 File: ./figures/Asat.pdf Graphic file (type pdf)
  <use ./figures/Asat.pdf>
-Package pdftex.def Info: ./figures/Asat.pdf used on input line 264.
+Package pdftex.def Info: ./figures/Asat.pdf used on input line 281.
 (pdftex.def)             Requested size: 505.88875pt x 360.34537pt.
 
-Overfull \hbox (79.0974pt too wide) in paragraph at lines 264--265
+Overfull \hbox (79.0974pt too wide) in paragraph at lines 281--282
  [][] 
  []
 
@@ -554,10 +554,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ./figures/massfractions.pdf Graphic file (type pdf)
 
 <use ./figures/massfractions.pdf>
-Package pdftex.def Info: ./figures/massfractions.pdf used on input line 272.
+Package pdftex.def Info: ./figures/massfractions.pdf used on input line 289.
 (pdftex.def)             Requested size: 1011.77753pt x 578.15858pt.
 
-Overfull \hbox (584.98618pt too wide) in paragraph at lines 272--273
+Overfull \hbox (584.98618pt too wide) in paragraph at lines 289--290
  [][] 
  []
 
@@ -568,10 +568,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ./figures/A_leafchem.pdf Graphic file (type pdf)
 
 <use ./figures/A_leafchem.pdf>
-Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 280.
+Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 297.
 (pdftex.def)             Requested size: 722.69823pt x 505.88875pt.
 
-Overfull \hbox (295.90688pt too wide) in paragraph at lines 280--281
+Overfull \hbox (295.90688pt too wide) in paragraph at lines 297--298
  [][] 
  []
 
@@ -581,10 +581,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <./figures/gC_day.pdf, id=47, 505.89pt x 578.16pt>
 File: ./figures/gC_day.pdf Graphic file (type pdf)
  <use ./figures/gC_day.pdf>
-Package pdftex.def Info: ./figures/gC_day.pdf used on input line 288.
+Package pdftex.def Info: ./figures/gC_day.pdf used on input line 305.
 (pdftex.def)             Requested size: 505.88875pt x 578.15858pt.
 
-Overfull \hbox (79.0974pt too wide) in paragraph at lines 288--289
+Overfull \hbox (79.0974pt too wide) in paragraph at lines 305--306
  [][] 
  []
 
@@ -604,7 +604,7 @@ t/manuscript/figures/gC_day.pdf>]
 File: ./figures/gc_Day_scenario.pdf Graphic file (type pdf)
 
 <use ./figures/gc_Day_scenario.pdf>
-Package pdftex.def Info: ./figures/gc_Day_scenario.pdf used on input line 304.
+Package pdftex.def Info: ./figures/gc_Day_scenario.pdf used on input line 321.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
  [16
 
@@ -623,19 +623,30 @@ LaTeX Font Warning: Font shape `OMS/fosj/m/it' undefined
 [17
 
 ]) [18]
+Missing character: There is no Â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ° in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
+Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
+ [19
+
+]
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 3408 strings out of 493921
- 47699 string characters out of 3147273
- 107390 words of memory out of 3000000
- 6584 multiletter control sequences out of 15000+200000
+ 3409 strings out of 493921
+ 47705 string characters out of 3147273
+ 107392 words of memory out of 3000000
+ 6585 multiletter control sequences out of 15000+200000
  32936 words of font info for 87 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,13n,26p,2858b,271s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,13n,26p,2858b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensans/opensa
 ns-04.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensan
 s/opensans-02.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
@@ -650,9 +661,9 @@ mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on pve_manuscript.pdf (18 pages, 276834 bytes).
+Output written on pve_manuscript.pdf (19 pages, 280269 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
+ 180 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
