@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  17 DEC 2014 16:56
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  18 DEC 2014 17:20
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -515,14 +515,14 @@ Overfull \hbox (44.16856pt too wide) in paragraph at lines 178--179
 ates for all seedlings were high at 0.37 mol H$[]$0 m$[]$ s$[]$
  []
 
-[6] [7] [8] [9] <./figures/airvars.pdf, id=42, 505.89pt x 504.88625pt>
+[6] [7] [8] [9] <./figures/airvars.pdf, id=41, 505.89pt x 504.88625pt>
 File: ./figures/airvars.pdf Graphic file (type pdf)
 
 <use ./figures/airvars.pdf>
 Package pdftex.def Info: ./figures/airvars.pdf used on input line 251.
 (pdftex.def)             Requested size: 422.52577pt x 421.6979pt.
 
-<./figures/allometry.pdf, id=43, 483.8075pt x 690.58pt>
+<./figures/allometry.pdf, id=42, 483.8075pt x 690.58pt>
 File: ./figures/allometry.pdf Graphic file (type pdf)
 
 <use ./figures/allometry.pdf>
@@ -532,7 +532,7 @@ Package pdftex.def Info: ./figures/allometry.pdf used on input line 259.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/Asat.pdf, id=44, 505.89pt x 360.34625pt>
+<./figures/Asat.pdf, id=43, 505.89pt x 360.34625pt>
 File: ./figures/Asat.pdf Graphic file (type pdf)
  <use ./figures/Asat.pdf>
 Package pdftex.def Info: ./figures/Asat.pdf used on input line 267.
@@ -541,7 +541,7 @@ Package pdftex.def Info: ./figures/Asat.pdf used on input line 267.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/massfractions.pdf, id=45, 1011.78pt x 578.16pt>
+<./figures/massfractions.pdf, id=44, 1011.78pt x 578.16pt>
 File: ./figures/massfractions.pdf Graphic file (type pdf)
 
 <use ./figures/massfractions.pdf>
@@ -551,7 +551,7 @@ Package pdftex.def Info: ./figures/massfractions.pdf used on input line 275.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/A_leafchem.pdf, id=46, 722.7pt x 505.89pt>
+<./figures/A_leafchem.pdf, id=45, 722.7pt x 505.89pt>
 File: ./figures/A_leafchem.pdf Graphic file (type pdf)
 
 <use ./figures/A_leafchem.pdf>
@@ -561,7 +561,7 @@ Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 283.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/gC_day.pdf, id=47, 505.89pt x 578.16pt>
+<./figures/gC_day.pdf, id=46, 505.89pt x 578.16pt>
 File: ./figures/gC_day.pdf Graphic file (type pdf)
  <use ./figures/gC_day.pdf>
 Package pdftex.def Info: ./figures/gC_day.pdf used on input line 291.
@@ -603,7 +603,7 @@ Overfull \vbox (0.67123pt too high) has occurred while \output is active []
 s.pdf>] [13 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/A
 _leafchem.pdf>] [14 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/f
 igures/gC_day.pdf>]
-<./figures/gc_Day_scenario.pdf, id=112, 483.8075pt x 690.58pt>
+<./figures/gc_Day_scenario.pdf, id=111, 483.8075pt x 690.58pt>
 File: ./figures/gc_Day_scenario.pdf Graphic file (type pdf)
 
 <use ./figures/gc_Day_scenario.pdf>
@@ -662,7 +662,7 @@ Here is how much of TeX's memory you used:
  6956 multiletter control sequences out of 15000+200000
  33104 words of font info for 88 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 27i,13n,26p,2860b,279s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 27i,14n,26p,2858b,304s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensans/opensa
 ns-04.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensan
 s/opensans-02.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
@@ -674,13 +674,12 @@ ng/MiKTeX/2.9/fonts/type1/public/opensans/OpenSans-BoldItalic.pfb><C:/Users/909
 b><C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/opensans/Ope
 nSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
-><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on pve_manuscript.pdf (18 pages, 295377 bytes).
+><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on pve_manuscript.pdf (18 pages, 278707 bytes).
 PDF statistics:
- 180 PDF objects out of 1000 (max. 8388607)
+ 176 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
