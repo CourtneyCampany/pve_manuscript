@@ -54,6 +54,16 @@ Remko~A Duursma, Daniel~S Falster, Fernando Valladares, F~J Sterck, R~W Pearcy,
   test using a diversity of small-to medium-sized woody plants}.
 \newblock \emph{New Phytologist}, 193\penalty0 (2):\penalty0 397--408, 2012.
 
+\bibitem[Duursma et~al.(2014)Duursma, Barton, Lin, Medlyn, Eamus, Tissue,
+  Ellsworth, and McMurtrie]{duursma2014peaked}
+Remko~A Duursma, Craig V~M Barton, Yan-Shih Lin, Belinda~E Medlyn, Derek Eamus,
+  David~T Tissue, David~S Ellsworth, and Ross~E McMurtrie.
+\newblock {The peaked response of transpiration rate to vapour pressure deficit
+  in field conditions can be explained by the temperature optimum of
+  photosynthesis}.
+\newblock \emph{Agricultural and Forest Meteorology}, 189:\penalty0 2--10,
+  2014.
+
 \bibitem[Ebell(1969)]{ebell1969variation}
 L~F Ebell.
 \newblock {Variation in total soluble sugars of conifer tissues with method of
@@ -66,12 +76,6 @@ G~D Farquhar, S~von~von Caemmerer, and J~A Berry.
 \newblock {A biochemical model of photosynthetic CO2 assimilation in leaves of
   C3 species}.
 \newblock \emph{Planta}, 149\penalty0 (1):\penalty0 78--90, 1980.
-
-\bibitem[Farquhar and Sharkey(1982)]{farquhar1982stomatal}
-Graham~D Farquhar and Thomas~D Sharkey.
-\newblock {Stomatal conductance and photosynthesis}.
-\newblock \emph{Annual review of plant physiology}, 33\penalty0 (1):\penalty0
-  317--345, 1982.
 
 \bibitem[Kallarackal and Somen(1997)]{kallarackal1997ecophysiological}
 J~Kallarackal and C~K Somen.
@@ -98,6 +102,16 @@ B~E Medlyn, Erwin Dreyer, D~Ellsworth, M~Forstreuter, P~C Harley, M~U~F
   photosynthesis. II. A review of experimental data}.
 \newblock \emph{Plant, Cell \& Environment}, 25\penalty0 (9):\penalty0
   1167--1179, 2002.
+
+\bibitem[Medlyn et~al.(2011)Medlyn, Duursma, Eamus, Ellsworth, Prentice,
+  Barton, Crous, de~Angelis, Freeman, and Wingate]{medlyn2011reconciling}
+Belinda~E Medlyn, Remko~A Duursma, Derek Eamus, David~S Ellsworth, I~Colin
+  Prentice, Craig V~M Barton, Kristine~Y Crous, Paolo de~Angelis, Michael
+  Freeman, and Lisa Wingate.
+\newblock {Reconciling the optimal and empirical approaches to modelling
+  stomatal conductance}.
+\newblock \emph{Global Change Biology}, 17\penalty0 (6):\penalty0 2134--2144,
+  2011.
 
 \bibitem[Medlyn et~al.(2012)Medlyn, Duursma, Eamus, Ellsworth, {Colin
   Prentice}, Barton, Crous, Angelis, Freeman, and
@@ -147,12 +161,6 @@ Hendrik Poorter, Jonas B\"{u}hler, Dagmar van Dusschoten, Jos\'{e} Climent, and
   on plant growth}.
 \newblock \emph{Functional Plant Biology}, 39\penalty0 (11):\penalty0 839--850,
   2012.
-
-\bibitem[{R Development Core Team}(2011)]{RDevelopmentCoreTeam2011}
-R~{R Development Core Team}.
-\newblock {R: A Language and Environment for Statistical Computing}, 2011.
-\newblock ISSN 16000706.
-\newblock URL \url{http://www.r-project.org}.
 
 \bibitem[Sellin(1999)]{sellin1999does}
 Arne Sellin.
