@@ -259,6 +259,30 @@ print(phystab, include.rownames=FALSE,sanitize.colnames.function=function(x){x},
     \label{fig:figureSI1}
 \end{figure}
 
+
+\begin{table}[h!]
+  \caption{Seedling Growth Model Parameters} 
+  \centering 
+  \begin{tabular}{l c c c} 
+  \hline
+  Variable & Default Value & Units & Source  \\ [0.5ex] 
+  \hline
+  Leaf area\textsubscript{i} & 0.035 & m\textsuperscript{2} & this study \\ 
+  Leaf mass\textsubscript{i} & 3.45 & g & this study \\ 
+  Stem mass\textsubscript{i} & 1.51 & g & this study \\ 
+  Root mass\textsubscript{i} & 0.99 & g & this study \\ 
+  \textxi\textsubscript{c} & .65 &  & \citet{zhu2008maximum} \\ 
+  R\textsubscript{coarse root} & 0.00124 & g~C g~root\textsuperscript{-1} & \citet{marsden2008relating} \\ 
+  R\textsubscript{fine root} & 0.010368 & g~C g~root\textsuperscript{-1} & \citet{ryan2010factors} \\ 
+  R\textsubscript{stem} & 0.00187 & g~C g~stem\textsuperscript{-1} & Drake 2014 (unpublished) \\ 
+  C\textsubscript{day} & 4.7-6.8 & g~C m\textsuperscript{2} & this study \\ 
+  M & 0.80-0.87 &  & this study \\ 
+  
+  \hline 
+  \end{tabular}
+  \label{table:table3} 
+\end{table}
+
 %--------------------------------------------------------------------------------------------%
 \clearpage
 \bibliography{pve_cites}

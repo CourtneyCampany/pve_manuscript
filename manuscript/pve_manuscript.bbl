@@ -1,4 +1,4 @@
-\begin{thebibliography}{22}
+\begin{thebibliography}{24}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -84,6 +84,13 @@ J~Kallarackal and C~K Somen.
 \newblock \emph{Forest Ecology and Management}, 95\penalty0 (1):\penalty0
   53--61, 1997.
 
+\bibitem[Marsden et~al.(2008)Marsden, Nouvellon, and
+  Epron]{marsden2008relating}
+Claire Marsden, Yann Nouvellon, and Daniel Epron.
+\newblock {Relating coarse root respiration to root diameter in clonal
+  Eucalyptus stands in the Republic of the Congo}.
+\newblock \emph{Tree physiology}, 28\penalty0 (8):\penalty0 1245--1254, 2008.
+
 \bibitem[McCleary et~al.(1997)McCleary, Gibson, and Mugford]{McCleary_starch}
 B.~V. McCleary, T.~S. Gibson, and D.~C. Mugford.
 \newblock {Measurement of total starch in cereal products by
@@ -161,6 +168,16 @@ Hendrik Poorter, Jonas B\"{u}hler, Dagmar van Dusschoten, Jos\'{e} Climent, and
   on plant growth}.
 \newblock \emph{Functional Plant Biology}, 39\penalty0 (11):\penalty0 839--850,
   2012.
+
+\bibitem[Ryan et~al.(2010)Ryan, Stape, Binkley, Fonseca, Loos, Takahashi,
+  Silva, Silva, Hakamada, Ferreira, and Others]{ryan2010factors}
+Michael~G Ryan, Jose~Luiz Stape, Dan Binkley, Sebastiao Fonseca, Rodolfo~A
+  Loos, Ernesto~N Takahashi, Claudio~R Silva, Sergio~R Silva, Rodrigo~E
+  Hakamada, Jose~Mario Ferreira, and Others.
+\newblock {Factors controlling Eucalyptus productivity: How water availability
+  and stand structure alter production and carbon allocation}.
+\newblock \emph{Forest ecology and management}, 259\penalty0 (9):\penalty0
+  1695--1703, 2010.
 
 \bibitem[Sellin(1999)]{sellin1999does}
 Arne Sellin.
