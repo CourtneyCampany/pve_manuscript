@@ -1,4 +1,4 @@
-\begin{thebibliography}{24}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -19,14 +19,6 @@ I~Biran and A~Eliassaf.
 \newblock \emph{Scientia Horticulturae}, 12\penalty0 (2):\penalty0 183--193,
   1980{\natexlab{b}}.
 
-\bibitem[{Cieslak, Mik. Uses code by Robert Pearcy} and Medlyn.()]{yplantqmc}
-Remko Duursma.~QuasiMC {Cieslak, Mik. Uses code by Robert Pearcy} and Belinda
-  Medlyn.
-\newblock \emph{{YplantQMC: Plant architectural analysis with Yplant and
-  QuasiMC.}}
-\newblock URL \url{http://www.remkoduursma.com/yplantqmc,
-  https://www.bitbucket.org/remkoduursma/yplantqmc/}.
-
 \bibitem[Crous et~al.(2013)Crous, Quentin, Lin, Medlyn, Williams, Barton, and
   Ellsworth]{crous2013photosynthesis}
 Kristine~Y Crous, Audrey~G Quentin, Yan-Shih Lin, Belinda~E Medlyn, David~G
@@ -45,14 +37,29 @@ John~E Drake, Michael~J Aspinwall, Sebastian Pfautsch, Paul~D Rymer, Peter~B
   tropical latitudes in two widely distributed Eucalyptus species}.
 \newblock \emph{Global change biology}, 2014.
 
-\bibitem[Duursma et~al.(2012)Duursma, Falster, Valladares, Sterck, Pearcy,
-  Lusk, Sendall, Nordenstahl, Houter, Atwell, and Others]{duursma2012light}
+\bibitem[Duursma(2014)]{Duursma2014}
+Remko Duursma.
+\newblock \emph{{plantecophys: Modelling and analysis of leaf gas exchange
+  data}}, 2014.
+
+\bibitem[Duursma et~al.(2012{\natexlab{a}})Duursma, Cieslak, Pearcy, and
+  Medlyn]{YplantQMC}
+Remko Duursma, Mik Cieslak, Robert Pearcy, and Belinda Medlyn.
+\newblock \emph{{YplantQMC: Plant architectural analysis with Yplant and
+  QuasiMC.}}, 2012{\natexlab{a}}.
+\newblock URL \url{http://www.remkoduursma.com/yplantqmc,
+  https://www.bitbucket.org/remkoduursma/yplantqmc/}.
+
+\bibitem[Duursma et~al.(2012{\natexlab{b}})Duursma, Falster, Valladares,
+  Sterck, Pearcy, Lusk, Sendall, Nordenstahl, Houter, Atwell, and
+  Others]{duursma2012light}
 Remko~A Duursma, Daniel~S Falster, Fernando Valladares, F~J Sterck, R~W Pearcy,
   Christopher~H Lusk, K~M Sendall, Marisa Nordenstahl, N~C Houter, B~J Atwell,
   and Others.
 \newblock {Light interception efficiency explained by two simple variables: a
   test using a diversity of small-to medium-sized woody plants}.
-\newblock \emph{New Phytologist}, 193\penalty0 (2):\penalty0 397--408, 2012.
+\newblock \emph{New Phytologist}, 193\penalty0 (2):\penalty0 397--408,
+  2012{\natexlab{b}}.
 
 \bibitem[Duursma et~al.(2014)Duursma, Barton, Lin, Medlyn, Eamus, Tissue,
   Ellsworth, and McMurtrie]{duursma2014peaked}
@@ -137,6 +144,13 @@ Patrick~J Mitchell, Anthony~P O'Grady, David~T Tissue, Donald~A White, Maria~L
 \newblock {Drought response strategies define the relative contributions of
   hydraulic dysfunction and carbohydrate depletion during tree mortality}.
 \newblock \emph{New Phytologist}, 197\penalty0 (3):\penalty0 862--872, 2013.
+
+\bibitem[Nakagawa and Schielzeth(2013)]{nakagawa2013general}
+Shinichi Nakagawa and Holger Schielzeth.
+\newblock {A general and simple method for obtaining R2 from generalized linear
+  mixed-effects models}.
+\newblock \emph{Methods in Ecology and Evolution}, 4\penalty0 (2):\penalty0
+  133--142, 2013.
 
 \bibitem[Pinheiro et~al.(2014)Pinheiro, Bates, DebRoy, Sarkar, and {R Core
   Team}]{nlme}
