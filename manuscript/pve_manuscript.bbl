@@ -1,9 +1,22 @@
-\begin{thebibliography}{26}
+\begin{thebibliography}{50}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
   \providecommand{\doi}[1]{doi: #1}\else
   \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Arp(1991)]{arp1991effects}
+W~J Arp.
+\newblock {Effects of source-sink relations on photosynthetic acclimation to
+  elevated CO2}.
+\newblock \emph{Plant, Cell \& Environment}, 14\penalty0 (8):\penalty0
+  869--875, 1991.
+
+\bibitem[Atkin(2015)]{atkin2015new}
+Owen Atkin.
+\newblock New phytologist and the ‘fate’of carbon in terrestrial
+  ecosystems.
+\newblock \emph{New Phytologist}, 205\penalty0 (1):\penalty0 1--3, 2015.
 
 \bibitem[Biran and Eliassaf(1980{\natexlab{a}})]{biran1980a}
 I~Biran and A~Eliassaf.
@@ -18,6 +31,12 @@ I~Biran and A~Eliassaf.
   of woody plants}.
 \newblock \emph{Scientia Horticulturae}, 12\penalty0 (2):\penalty0 183--193,
   1980{\natexlab{b}}.
+
+\bibitem[Chapin et~al.(1990)Chapin, Schulze, and Mooney]{chapin1990ecology}
+F~Stuart Chapin, Ernst-Detlef Schulze, and Harold~A Mooney.
+\newblock {The ecology and economics of storage in plants}.
+\newblock \emph{Annual review of ecology and systematics}, pages 423--447,
+  1990.
 
 \bibitem[Crous et~al.(2013)Crous, Quentin, Lin, Medlyn, Williams, Barton, and
   Ellsworth]{crous2013photosynthesis}
@@ -84,12 +103,80 @@ G~D Farquhar, S~von~von Caemmerer, and J~A Berry.
   C3 species}.
 \newblock \emph{Planta}, 149\penalty0 (1):\penalty0 78--90, 1980.
 
+\bibitem[Fourcaud et~al.(2008)Fourcaud, Zhang, Stokes, Lambers, and
+  K\"{o}rner]{fourcaud2008plant}
+Thierry Fourcaud, Xiaopeng Zhang, Alexia Stokes, Hans Lambers, and Christian
+  K\"{o}rner.
+\newblock {Plant growth modelling and applications: the increasing importance
+  of plant architecture in growth models}.
+\newblock \emph{Annals of Botany}, 101\penalty0 (8):\penalty0 1053--1063, 2008.
+
+\bibitem[Friedlingstein et~al.(1999)Friedlingstein, Joel, Field, and
+  Fung]{friedlingstein1999toward}
+Pierre Friedlingstein, G~Joel, C~B Field, and I~Y Fung.
+\newblock {Toward an allocation scheme for global terrestrial carbon models}.
+\newblock \emph{Global Change Biology}, 5\penalty0 (7):\penalty0 755--770,
+  1999.
+
+\bibitem[Gunderson and Wullschleger(1994)]{gunderson1994photosynthetic}
+Carla~A Gunderson and Stan~D Wullschleger.
+\newblock {Photosynthetic acclimation in trees to rising atmospheric CO2: a
+  broader perspective}.
+\newblock \emph{Photosynthesis research}, 39\penalty0 (3):\penalty0 369--388,
+  1994.
+
+\bibitem[Hermans et~al.(2006)Hermans, Hammond, White, and
+  Verbruggen]{hermans2006plants}
+Christian Hermans, John~P Hammond, Philip~J White, and Nathalie Verbruggen.
+\newblock {How do plants respond to nutrient shortage by biomass allocation?}
+\newblock \emph{Trends in plant science}, 11\penalty0 (12):\penalty0 610--617,
+  2006.
+
 \bibitem[Kallarackal and Somen(1997)]{kallarackal1997ecophysiological}
 J~Kallarackal and C~K Somen.
 \newblock {An ecophysiological evaluation of the suitability of Eucalyptus
   grandis for planting in the tropics}.
 \newblock \emph{Forest Ecology and Management}, 95\penalty0 (1):\penalty0
   53--61, 1997.
+
+\bibitem[K{\"o}rner(2013)]{korner2013growth}
+C~K{\"o}rner.
+\newblock Growth controls photosynthesis--mostly.
+\newblock \emph{Nova Acta Leopoldina}, 114:\penalty0 273--283, 2013.
+
+\bibitem[K\"{o}rner(2006)]{korner2006plant}
+Christian K\"{o}rner.
+\newblock {Plant CO2 responses: an issue of definition, time and resource
+  supply}.
+\newblock \emph{New phytologist}, 172\penalty0 (3):\penalty0 393--411, 2006.
+
+\bibitem[Krizek et~al.(1985)Krizek, Carmi, Mirecki, SNYDER, and
+  BUNCE]{krizek1985comparative}
+Donald~T Krizek, Avner Carmi, Roman~M Mirecki, FREEMAN~W SNYDER, and JAMES~A
+  BUNCE.
+\newblock {Comparative effects of soil moisture stress and restricted root zone
+  volume on morphogenetic and physiological responses of soybean [Glycine max
+  (L.) Merr.]}.
+\newblock \emph{Journal of experimental botany}, 36\penalty0 (1):\penalty0
+  25--38, 1985.
+
+\bibitem[Litton et~al.(2007)Litton, Raich, and Ryan]{litton2007carbon}
+Creighton~M Litton, James~W Raich, and Michael~G Ryan.
+\newblock {Carbon allocation in forest ecosystems}.
+\newblock \emph{Global Change Biology}, 13\penalty0 (10):\penalty0 2089--2109,
+  2007.
+
+\bibitem[Maina et~al.(2002)Maina, Brown, and Gersani]{maina2002intra}
+Godfrey~G Maina, Joel~S Brown, and Mordechai Gersani.
+\newblock {Intra-plant versus inter-plant root competition in beans: avoidance,
+  resource matching or tragedy of the commons}.
+\newblock \emph{Plant Ecology}, 160\penalty0 (2):\penalty0 235--247, 2002.
+
+\bibitem[M{\"a}kel{\"a}(1997)]{makela1997carbon}
+Annikki M{\"a}kel{\"a}.
+\newblock A carbon balance model of growth and self-pruning in trees based on
+  structural relationships.
+\newblock \emph{Forest Science}, 43\penalty0 (1):\penalty0 7--24, 1997.
 
 \bibitem[Marsden et~al.(2008)Marsden, Nouvellon, and
   Epron]{marsden2008relating}
@@ -105,6 +192,11 @@ B.~V. McCleary, T.~S. Gibson, and D.~C. Mugford.
 \newblock \emph{Journal of AOAC International}, 80\penalty0 (3):\penalty0
   571--579, 1997.
 \newblock ISSN 1060-3271.
+
+\bibitem[McConnaughay and Bazzaz(1991)]{mcconnaughay1991physical}
+K~D~M McConnaughay and F~A Bazzaz.
+\newblock {Is physical space a soil resource?}
+\newblock \emph{Ecology}, pages 94--103, 1991.
 
 \bibitem[Medlyn et~al.(2002)Medlyn, Dreyer, Ellsworth, Forstreuter, Harley,
   Kirschbaum, {Le Roux}, Montpied, Strassemeyer, Walcroft, and
@@ -152,6 +244,17 @@ Shinichi Nakagawa and Holger Schielzeth.
 \newblock \emph{Methods in Ecology and Evolution}, 4\penalty0 (2):\penalty0
   133--142, 2013.
 
+\bibitem[NeSmith and Duval(1998)]{nesmith1998effect}
+D~Scott NeSmith and John~R Duval.
+\newblock {The effect of container size}.
+\newblock \emph{HortTechnology}, 8\penalty0 (4):\penalty0 495--498, 1998.
+
+\bibitem[Paul and Foyer(2001)]{paul2001sink}
+Matthew~J Paul and Christine~H Foyer.
+\newblock {Sink regulation of photosynthesis}.
+\newblock \emph{Journal of experimental botany}, 52\penalty0 (360):\penalty0
+  1383--1400, 2001.
+
 \bibitem[Pinheiro et~al.(2014)Pinheiro, Bates, DebRoy, Sarkar, and {R Core
   Team}]{nlme}
 Jose Pinheiro, Douglas Bates, Saikat DebRoy, Deepayan Sarkar, and {R Core
@@ -174,14 +277,46 @@ Hendrik Poorter, \"{U}lo Niinemets, Lourens Poorter, Ian~J Wright, and Rafael
   meta-analysis}.
 \newblock \emph{New Phytologist}, 182\penalty0 (3):\penalty0 565--588, 2009.
 
-\bibitem[Poorter et~al.(2012)Poorter, B\"{u}hler, van Dusschoten, Climent, and
-  Postma]{poorter2012pot}
+\bibitem[Poorter et~al.(2012{\natexlab{a}})Poorter, B\"{u}hler, van Dusschoten,
+  Climent, and Postma]{poorter2012pot}
 Hendrik Poorter, Jonas B\"{u}hler, Dagmar van Dusschoten, Jos\'{e} Climent, and
   Johannes~A Postma.
 \newblock {Pot size matters: a meta-analysis of the effects of rooting volume
   on plant growth}.
 \newblock \emph{Functional Plant Biology}, 39\penalty0 (11):\penalty0 839--850,
-  2012.
+  2012{\natexlab{a}}.
+
+\bibitem[Poorter et~al.(2012{\natexlab{b}})Poorter, Niklas, Reich, Oleksyn,
+  Poot, and Mommer]{poorter2012biomass}
+Hendrik Poorter, Karl~J Niklas, Peter~B Reich, Jacek Oleksyn, Pieter Poot, and
+  Liesje Mommer.
+\newblock {Biomass allocation to leaves, stems and roots: meta-analyses of
+  interspecific variation and environmental control}.
+\newblock \emph{New Phytologist}, 193\penalty0 (1):\penalty0 30--50,
+  2012{\natexlab{b}}.
+
+\bibitem[Reich et~al.(1998)Reich, Walters, Tjoelker, Vanderklein, and
+  Buschena]{reich1998photosynthesis}
+PB~Reich, MB~Walters, MG~Tjoelker, D~Vanderklein, and C~Buschena.
+\newblock Photosynthesis and respiration rates depend on leaf and root
+  morphology and nitrogen concentration in nine boreal tree species differing
+  in relative growth rate.
+\newblock \emph{Functional Ecology}, 12\penalty0 (3):\penalty0 395--405, 1998.
+
+\bibitem[Reich et~al.(2002)Reich, Weisel, Eshel, and Kafkafi]{reich2002root}
+Peter~B Reich, Y~Weisel, A~Eshel, and U~Kafkafi.
+\newblock Root-shoot relations: optimality in acclimation and adaptation or the
+  ‘emperor’s new clothes’.
+\newblock \emph{Plant roots: the hidden half}, pages 205--220, 2002.
+
+\bibitem[Ronchi et~al.(2006)Ronchi, DaMatta, Batista, Moraes, Loureiro, and
+  Ducatti]{ronchi2006growth}
+Cl\'{a}udio~P Ronchi, F\'{a}bio~M DaMatta, Karine~D Batista, Gustavo A B~K
+  Moraes, Marcelo~E Loureiro, and Carlos Ducatti.
+\newblock {Growth and photosynthetic down-regulation in Coffea arabica in
+  response to restricted root volume}.
+\newblock \emph{Functional Plant Biology}, 33\penalty0 (11):\penalty0
+  1013--1023, 2006.
 
 \bibitem[Ryan et~al.(2010)Ryan, Stape, Binkley, Fonseca, Loos, Takahashi,
   Silva, Silva, Hakamada, Ferreira, and Others]{ryan2010factors}
@@ -193,11 +328,41 @@ Michael~G Ryan, Jose~Luiz Stape, Dan Binkley, Sebastiao Fonseca, Rodolfo~A
 \newblock \emph{Forest ecology and management}, 259\penalty0 (9):\penalty0
   1695--1703, 2010.
 
+\bibitem[Sage(1994)]{sage1994acclimation}
+Rowan~F Sage.
+\newblock {Acclimation of photosynthesis to increasing atmospheric CO2: the gas
+  exchange perspective}.
+\newblock \emph{Photosynthesis research}, 39\penalty0 (3):\penalty0 351--368,
+  1994.
+
+\bibitem[Sala et~al.(2012)Sala, Woodruff, and Meinzer]{sala2012carbon}
+Anna Sala, David~R Woodruff, and Frederick~C Meinzer.
+\newblock {Carbon dynamics in trees: feast or famine?}
+\newblock \emph{Tree Physiology}, 32\penalty0 (6):\penalty0 764--775, 2012.
+
 \bibitem[Sellin(1999)]{sellin1999does}
 Arne Sellin.
 \newblock {Does pre-dawn water potential reflect conditions of equilibrium in
   plant and soil water status?}
 \newblock \emph{Acta Oecologica}, 20\penalty0 (1):\penalty0 51--59, 1999.
+
+\bibitem[Shipley and Meziane(2002)]{shipley2002balanced}
+B~Shipley and D~Meziane.
+\newblock {The balanced-growth hypothesis and the allometry of leaf and root
+  biomass allocation}.
+\newblock \emph{Functional Ecology}, 16\penalty0 (3):\penalty0 326--331, 2002.
+
+\bibitem[Stitt(1991)]{stitt1991rising}
+M~Stitt.
+\newblock {Rising CO2 levels and their potential significance for carbon flow
+  in photosynthetic cells}.
+\newblock \emph{Plant, Cell \& Environment}, 14\penalty0 (8):\penalty0
+  741--762, 1991.
+
+\bibitem[Waisel et~al.(1996)Waisel, Eshel, and Kafkafi]{waisel1996plant}
+Y~Waisel, A~Eshel, and U~Kafkafi.
+\newblock {Plant roots: the hidden half}.
+\newblock \emph{Marcel Dekker, Inc.: New York}, 1002:\penalty0 543--581, 1996.
 
 \bibitem[Warton et~al.(2012)Warton, Duursma, Falster, and
   Taskinen]{warton2012smatr}
@@ -206,12 +371,5 @@ David~I Warton, Remko~A Duursma, Daniel~S Falster, and Sara Taskinen.
   lines}.
 \newblock \emph{Methods in Ecology and Evolution}, 3\penalty0 (2):\penalty0
   257--259, 2012.
-
-\bibitem[Zhu et~al.(2008)Zhu, Long, and Ort]{zhu2008maximum}
-Xin-Guang Zhu, Stephen~P Long, and Donald~R Ort.
-\newblock {What is the maximum efficiency with which photosynthesis can convert
-  solar energy into biomass?}
-\newblock \emph{Current opinion in biotechnology}, 19\penalty0 (2):\penalty0
-  153--159, 2008.
 
 \end{thebibliography}
