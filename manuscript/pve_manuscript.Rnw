@@ -52,6 +52,7 @@
 
 \begin{document}
 
+\linenumbers
 
 \title{Effects of below-ground space limitation on performance of Eucalyptus seedlings:  Does photosynthesis really control growth?}
 
