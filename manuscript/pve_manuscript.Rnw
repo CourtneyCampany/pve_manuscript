@@ -255,7 +255,7 @@ print(phystab, include.rownames=FALSE,sanitize.colnames.function=function(x){x},
 \begin{figure}[h!]
     \centering
     \includegraphics[width=0.99\textwidth]{gC_day.pdf}
-    \caption{Modeled and harvested seedling biomass (g) versus daily assimilated carbon gain (g~m\textsuperscript{2}).  Values of biomass and carbon gain are scaled to the free seedling with unlimited soil volume.}
+    \caption{Modeled and harvested seedling biomass (g) versus the measure range of daily assimilated carbon gain (g~m\textsuperscript{2})across all treaments (a) and then with treatment specific plant component mass partitioning included (b).  Values of biomass and carbon gain are scaled to the free seedling with unlimited soil volume.}
     \label{fig:figure6}
 \end{figure}
 
