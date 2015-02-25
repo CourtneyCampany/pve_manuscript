@@ -54,6 +54,7 @@
 \usepackage{amssymb}
 \usepackage{amsmath}
 \usepackage{framed}
+\usepackage{textcomp}
 
 % avoid ugly indentation of paragraphs
 \usepackage{parskip}
@@ -194,7 +195,7 @@ Leaf \textit{N}~\% was significantly higher in free seedlings and the largest co
 
 The photosynthetic parameters \textit{J}\textsubscript{max} and \textit{Vc}\textsubscript{max} were not different across measurement campaigns, therefore the parameter means per volume are reported here (Table.~\ref{table:Table2}).  Overall, both \textit{J}\textsubscript{max} and \textit{Vc}\textsubscript{max} were significantly higher in free seedlings with little variation between container volumes (\textit{P}=0.0012 \& 0.0021, respectively). Leaf dark respiration rates were not significantly different across soil volumes (Table.~\ref{table:Table2}). The \textit{g}\textsubscript{1} parameter, generated for each seedling from the \citet{medlyn2012reconciling} optimal stomatal conductance model, was not different across soil volumes (Table.~\ref{table:Table2}). Predicted values of \textit{g}\textsubscript{s}, using the \textit{g}\textsubscript{1} parameter, where highly correlated with observed values (\textit{r}\textsuperscript{2}= .74, \textit{P}\textless0.001, data not shown).
 
-Neither $\Psi\textsubscript{pd}$ nor $\Psi\textsubscript{l}$ were different across treatments, with mean values of -0.27 and -1.2~mPa across all seedlings, respectively. Although \textit{g}\textsubscript{s} in free seedlings was generally higher than those in containers (Table.~\ref{table:Table2}, \textit{P}=0.0023), the mean rates for all seedlings were high at 0.37~mol~H\textsubscript{2}0~m\textsubscript{-2}~s\textsubscript{-1} and did not decline significantly across the experiment duration. Combined these indices provide strong evidence that water stress was not apparent on these well-watered seedlings throughout the experiment. Soil \textit{N}~\% at harvest was not different across soil volumes ($\bar{x}$=04.5~\%) and decreased approximately 3~\% across all containers over the experiment duration. This indicates that nutrient leaching from free seedlings or from draining of containers following natural rainfall events did not differ between treatments. 
+Neither $\Psi\textsubscript{pd}$ nor $\Psi\textsubscript{l}$ were different across treatments, with mean values of -0.27 and -1.2~mPa across all seedlings, respectively. Although \textit{g}\textsubscript{s} in free seedlings was generally higher than those in containers (Table.~\ref{table:Table2}, \textit{P}=0.0023), the mean rates for all seedlings were high at 0.37~mol~H\textsubscript{2}0~m\textsubscript{-2}~s\textsubscript{-1} and did not decline significantly across the experiment duration. Additionally, leaf {\textdelta}\textsuperscript{13}C at final harvest was not different across treatments (Table.~\ref{table:Table1}). Combined these indices provide strong evidence that water stress was not apparent on these well-watered seedlings throughout the experiment. Soil \textit{N}~\% at harvest was not different across soil volumes ($\bar{x}$=04.5~\%) and decreased approximately 3~\% across all containers over the experiment duration. This indicates that nutrient leaching from free seedlings or from draining of containers following natural rainfall events did not differ between treatments. 
 
 \subsection*{\textit{Modelling seedling biomass}}
 The initial model simulation, testing only treatment specific photosynthesis rates, was unable to accurately predict the responses of actual harvested seedling biomass to reduced soil volume.  When both \textit{C}\textsubscript{day} and biomass of modeled and harvested seedlings were scaled to to the free seedling the initial model design overestimated biomass for all treatments (Fig.~\ref{fig:figure6}a).  This suggests that reductions in photosynthesis alone could not realistically capture the reduced growth response of these seedlings.  Next, the model was re-run using the mean mass fractions of leaves, stems and roots from the final harvest, per treatment, to drive daily mass partitioning and seedling production.  Combined with treatment specific photosynthesis rates this model still overestimated seedling production for all treatments (Fig.~\ref{fig:figure6}b).  
@@ -212,22 +213,22 @@ To test whether potential sources of missing \textit{C} could improve the modele
 
 %seedling data table
 % latex table generated in R 3.1.2 by xtable 1.7-4 package
-% Fri Jan 23 14:46:20 2015
+% Wed Feb 25 11:42:33 2015
 \begin{sidewaystable}[ht]
 \centering
 \caption{Responses of plant and leaf characterisitcs of \textit{Eucalyptus tereticornis} seedlings to soil volume treatments. Each value reflects the mean(standard error) of each treatment.} 
 \label{table:Table1}
-\begin{tabular}{llllllll}
+\begin{tabular}{lllllllll}
   \hline
-Volume (L) & Seedling~mass~(g) & SLA~(m\textsuperscript{2}~kg\textsuperscript{-1}) & Leaf~Nitrogen~(\%) & Leaf~Sugars~(\%) & Leaf~Starch~(\%) & SRL~(cm~m\textsuperscript{-1}) & Root~Nitrogen~(\%) \\ 
+Volume (L) & Seedling~mass~(g) & SLA~(m\textsuperscript{2}~kg\textsuperscript{-1}) & Leaf~Nitrogen~(\%) & Leaf~Sugars~(\%) & Leaf~Starch~(\%) & SRL~(cm~m\textsuperscript{-1}) & Root~Nitrogen~(\%) & {\textdelta}\textsuperscript{13}C~(\text{\textperthousand}) \\ 
   \hline
-5 & 14.8 (1.82) & 9.5 (0.23) & 1.1 (0.02) & 6.4 (0.28) & 12.7 (0.97) & 39.1 (5.47) & 0.82 (0.05) \\ 
-  10 & 20.0 (2.38) & 9.8 (0.24) & 1.3 (0.04) & 6.7 (0.25) & 9.4 (0.75) & 34.2 (5.83) & 0.75 (0.02) \\ 
-  15 & 25.4 (2.49) & 11.0 (0.47) & 1.4 (0.06) & 7.2 (0.28) & 7.3 (0.73) & 37.6 (4.63) & 0.71 (0.02) \\ 
-  20 & 23.4 (1.63) & 9.8 (0.28) & 1.4 (0.05) & 6.6 (0.26) & 9.5 (0.88) & 45.3 (5.50) & 0.76 (0.04) \\ 
-  25 & 30.4 (5.49) & 10.4 (0.37) & 1.3 (0.06) & 6.9 (0.24) & 9.8 (0.71) & 47.0 (7.10) & 0.74 (0.02) \\ 
-  35 & 52.2 (9.55) & 11.3 (0.44) & 1.5 (0.08) & 6.8 (0.22) & 9.8 (0.65) & 50.6 (11.61) & 0.77 (0.03) \\ 
-  Free & 174.5 (18.02) & 13.0 (0.44) & 2.4 (0.09) & 7.4 (0.25) & 6.8 (0.65) & 43.7 (6.24) & 0.87 (0.04) \\ 
+5 & 14.8 (1.82) & 9.5 (0.23) & 1.1 (0.02) & 6.4 (0.28) & 12.7 (0.97) & 39.1 (5.47) & 0.82 (0.05) & -30.1 (0.26) \\ 
+  10 & 20.0 (2.38) & 9.8 (0.24) & 1.3 (0.04) & 6.7 (0.25) & 9.4 (0.75) & 34.2 (5.83) & 0.75 (0.02) & -30.2 (0.25) \\ 
+  15 & 25.4 (2.49) & 11.0 (0.47) & 1.4 (0.06) & 7.2 (0.28) & 7.3 (0.73) & 37.6 (4.63) & 0.71 (0.02) & -30.3 (0.36) \\ 
+  20 & 23.4 (1.63) & 9.8 (0.28) & 1.4 (0.05) & 6.6 (0.26) & 9.5 (0.88) & 45.3 (5.50) & 0.76 (0.04) & -29.7 (0.28) \\ 
+  25 & 30.4 (5.49) & 10.4 (0.37) & 1.3 (0.06) & 6.9 (0.24) & 9.8 (0.71) & 47.0 (7.10) & 0.74 (0.02) & -29.7 (0.25) \\ 
+  35 & 52.2 (9.55) & 11.3 (0.44) & 1.5 (0.08) & 6.8 (0.22) & 9.8 (0.65) & 50.6 (11.61) & 0.77 (0.03) & -30.6 (0.38) \\ 
+  Free & 174.5 (18.02) & 13.0 (0.44) & 2.4 (0.09) & 7.4 (0.25) & 6.8 (0.65) & 43.7 (6.24) & 0.87 (0.04) & -30.0 (0.34) \\ 
    \hline
 \end{tabular}
 \end{sidewaystable}
@@ -237,7 +238,7 @@ Volume (L) & Seedling~mass~(g) & SLA~(m\textsuperscript{2}~kg\textsuperscript{-1
 %data.df$taxa <- paste("\\emph{",taxa,"}", sep="")
 
 % latex table generated in R 3.1.2 by xtable 1.7-4 package
-% Fri Jan 23 14:46:20 2015
+% Wed Feb 25 11:42:33 2015
 \begin{sidewaystable}[ht]
 \centering
 \caption{Responses of leaf level gas exchange parameters of \textit{Eucalyptus tereticornis} seedlings to soil volume treatments. Each value reflects the mean(standard error) of each treatment. Units for \textit{A}\textsubscript{max} and \textit{R}\textsubscript{dark} are {\textmugreek}mol~m\textsuperscript{-1}~s\textsuperscript{-1} and \textit{g}\textsubscript{s} are mol~m\textsuperscript{-1}~s\textsuperscript{-1}.} 

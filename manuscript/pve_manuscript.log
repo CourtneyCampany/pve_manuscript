@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  23 JAN 2015 14:46
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  25 FEB 2015 11:42
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -150,6 +150,87 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
 LaTeX Info: Redefining \[ on input line 2665.
 LaTeX Info: Redefining \] on input line 2666.
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
@@ -284,34 +365,42 @@ Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 102.
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 102.
-LaTeX Font Info:    Try loading font information for LGR+cmr on input line 102.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 103.
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 103.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 103.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Checking defaults for LGR/cmr/m/n on input line 103.
+LaTeX Font Info:    Try loading font information for LGR+cmr on input line 103.
 
 
 (C:\Users\90919620\AppData\Roaming\MiKTeX\2.9\tex\latex\cbfonts-fd\lgrcmr.fd
 File: lgrcmr.fd 2013/09/01 v1.0 Greek European Computer Regular
 )
-LaTeX Font Info:    ... okay on input line 102.
-LaTeX Font Info:    Try loading font information for OT1+fosj on input line 102
+LaTeX Font Info:    ... okay on input line 103.
+LaTeX Font Info:    Try loading font information for OT1+fosj on input line 103
 .
 
 (C:\Users\90919620\AppData\Roaming\MiKTeX\2.9\tex\latex\opensans\ot1fosj.fd
 File: ot1fosj.fd 2011/11/11 Fontinst v1.927 font definitions for OT1/fosj.
 )
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 102.
+(Font)              scaled to size 9.49997pt on input line 103.
 
 (C:\Users\90919620\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -327,17 +416,17 @@ LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks25
 )
-LaTeX Info: Redefining \celsius on input line 102.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 102
-.
-
-
-Package gensymb Warning: Not defining \perthousand.
-
-LaTeX Info: Redefining \ohm on input line 102.
-Package gensymb Info: Using \Omega for \ohm on input line 102.
-
-Package gensymb Warning: Not defining \micro.
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/fosj/m/n --> TS1/fosj/bx/n on input line 103.
+Package gensymb Info: Math companion symbols declared on input line 103.
+LaTeX Info: Redefining \degree on input line 103.
+LaTeX Info: Redefining \celsius on input line 103.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 103.
+LaTeX Info: Redefining \ohm on input line 103.
+Package gensymb Info: Using \textohm for \ohm on input line 103.
+Package gensymb Info: Using \textmu for \micro on input line 103.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -376,62 +465,82 @@ Package gensymb Warning: Not defining \micro.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 117.
+(Font)              scaled to size 16.41594pt on input line 118.
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 117.
+(Font)              scaled to size 4.74998pt on input line 118.
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 11.39996pt on input line 117.
-LaTeX Font Info:    Try loading font information for U+msa on input line 117.
+(Font)              scaled to size 11.39996pt on input line 118.
+LaTeX Font Info:    Try loading font information for U+msa on input line 118.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 117.
+LaTeX Font Info:    Try loading font information for U+msb on input line 118.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+LaTeX Font Info:    Try loading font information for TS1+fosj on input line 118
+.
+
+(C:\Users\90919620\AppData\Roaming\MiKTeX\2.9\tex\latex\opensans\ts1fosj.fd
+File: ts1fosj.fd 2011/11/11 Fontinst v1.927 font definitions for TS1/fosj.
+)
+LaTeX Font Info:    Font shape `TS1/fosj/m/n' will be
+(Font)              scaled to size 11.39996pt on input line 118.
+LaTeX Font Info:    Font shape `TS1/fosj/m/n' will be
+(Font)              scaled to size 7.59998pt on input line 118.
+LaTeX Font Info:    Font shape `TS1/fosj/m/n' will be
+(Font)              scaled to size 5.69998pt on input line 118.
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 117.
+(Font)              scaled to size 7.59998pt on input line 118.
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 13.67995pt on input line 126.
+(Font)              scaled to size 13.67995pt on input line 127.
 LaTeX Font Info:    Font shape `OT1/fosj/bx/n' in size <14.4> not available
-(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 126.
+(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 127.
 LaTeX Font Info:    Font shape `OT1/fosj/b/n' will be
-(Font)              scaled to size 13.67995pt on input line 126.
+(Font)              scaled to size 13.67995pt on input line 127.
 LaTeX Font Info:    Font shape `OT1/fosj/m/it' will be
-(Font)              scaled to size 9.49997pt on input line 128.
- [1
+(Font)              scaled to size 9.49997pt on input line 129.
+
+[1
 
 {C:/Users/90919620/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+LaTeX Font Info:    Font shape `TS1/fosj/m/n' will be
+(Font)              scaled to size 9.49997pt on input line 142.
+LaTeX Font Info:    Font shape `TS1/fosj/m/n' will be
+(Font)              scaled to size 6.64998pt on input line 142.
+LaTeX Font Info:    Font shape `TS1/fosj/m/n' will be
+(Font)              scaled to size 4.74998pt on input line 142.
 LaTeX Font Info:    Font shape `OT1/fosj/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 141.
- [2]
+(Font)              scaled to size 6.64998pt on input line 142.
+
+[2]
 LaTeX Font Info:    Font shape `OT1/fosj/bx/n' in size <12> not available
-(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 150.
+(Font)              Font shape `OT1/fosj/b/n' tried instead on input line 151.
 LaTeX Font Info:    Font shape `OT1/fosj/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 150.
+(Font)              scaled to size 11.39996pt on input line 151.
 LaTeX Font Info:    Font shape `OT1/fosj/bx/it' in size <12> not available
-(Font)              Font shape `OT1/fosj/b/it' tried instead on input line 150.
+(Font)              Font shape `OT1/fosj/b/it' tried instead on input line 151.
 
 LaTeX Font Info:    Font shape `OT1/fosj/b/it' will be
-(Font)              scaled to size 11.39996pt on input line 150.
+(Font)              scaled to size 11.39996pt on input line 151.
  [3]
-LaTeX Font Info:    Try loading font information for OML+fosj on input line 161
+LaTeX Font Info:    Try loading font information for OML+fosj on input line 162
 .
-LaTeX Font Info:    No file OMLfosj.fd. on input line 161.
+LaTeX Font Info:    No file OMLfosj.fd. on input line 162.
 
 
 LaTeX Font Warning: Font shape `OML/fosj/m/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textless' on input line 161.
+(Font)              for symbol `textless' on input line 162.
 
-LaTeX Font Info:    Try loading font information for LGR+fosj on input line 164
+LaTeX Font Info:    Try loading font information for LGR+fosj on input line 165
 .
 (C:\Users\90919620\AppData\Roaming\MiKTeX\2.9\tex\latex\opensans\lgrfosj.fd
 File: lgrfosj.fd 2011/11/11 Fontinst v1.927 font definitions for LGR/fosj.
 )
 LaTeX Font Info:    Font shape `LGR/fosj/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 164.
+(Font)              scaled to size 9.49997pt on input line 165.
 
 [4]
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
@@ -442,56 +551,56 @@ Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
  [6] [7] [8] [9] [10]
-<./figures/airvars.pdf, id=45, 505.89pt x 504.88625pt>
+<./figures/airvars.pdf, id=44, 505.89pt x 504.88625pt>
 File: ./figures/airvars.pdf Graphic file (type pdf)
 
 <use ./figures/airvars.pdf>
-Package pdftex.def Info: ./figures/airvars.pdf used on input line 270.
+Package pdftex.def Info: ./figures/airvars.pdf used on input line 271.
 (pdftex.def)             Requested size: 422.52577pt x 421.6979pt.
 
-<./figures/allometry.pdf, id=46, 483.8075pt x 690.58pt>
+<./figures/allometry.pdf, id=45, 483.8075pt x 690.58pt>
 File: ./figures/allometry.pdf Graphic file (type pdf)
 
 <use ./figures/allometry.pdf>
-Package pdftex.def Info: ./figures/allometry.pdf used on input line 278.
+Package pdftex.def Info: ./figures/allometry.pdf used on input line 279.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/Asat.pdf, id=47, 505.89pt x 360.34625pt>
+<./figures/Asat.pdf, id=46, 505.89pt x 360.34625pt>
 File: ./figures/Asat.pdf Graphic file (type pdf)
  <use ./figures/Asat.pdf>
-Package pdftex.def Info: ./figures/Asat.pdf used on input line 286.
+Package pdftex.def Info: ./figures/Asat.pdf used on input line 287.
 (pdftex.def)             Requested size: 422.52577pt x 300.97327pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/massfractions.pdf, id=48, 1011.78pt x 504.88625pt>
+<./figures/massfractions.pdf, id=47, 1011.78pt x 504.88625pt>
 File: ./figures/massfractions.pdf Graphic file (type pdf)
 
 <use ./figures/massfractions.pdf>
-Package pdftex.def Info: ./figures/massfractions.pdf used on input line 294.
+Package pdftex.def Info: ./figures/massfractions.pdf used on input line 295.
 (pdftex.def)             Requested size: 422.52577pt x 210.84895pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/A_leafchem.pdf, id=49, 722.7pt x 505.89pt>
+<./figures/A_leafchem.pdf, id=48, 722.7pt x 505.89pt>
 File: ./figures/A_leafchem.pdf Graphic file (type pdf)
 
 <use ./figures/A_leafchem.pdf>
-Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 302.
+Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 303.
 (pdftex.def)             Requested size: 422.52577pt x 295.77077pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/gC_day.pdf, id=50, 505.89pt x 578.16pt>
+<./figures/gC_day.pdf, id=49, 505.89pt x 578.16pt>
 File: ./figures/gC_day.pdf Graphic file (type pdf)
  <use ./figures/gC_day.pdf>
-Package pdftex.def Info: ./figures/gC_day.pdf used on input line 310.
+Package pdftex.def Info: ./figures/gC_day.pdf used on input line 311.
 (pdftex.def)             Requested size: 422.52577pt x 482.89862pt.
 
 
@@ -514,11 +623,11 @@ at.pdf> <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/massf
 ractions.pdf>] [14 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/fi
 gures/A_leafchem.pdf>] [15 <C:/Users/90919620/github_repos/pve_manuscript/manus
 cript/figures/gC_day.pdf>]
-<./figures/gc_Day_scenario.pdf, id=117, 483.8075pt x 690.58pt>
+<./figures/gc_Day_scenario.pdf, id=116, 483.8075pt x 690.58pt>
 File: ./figures/gc_Day_scenario.pdf Graphic file (type pdf)
 
 <use ./figures/gc_Day_scenario.pdf>
-Package pdftex.def Info: ./figures/gc_Day_scenario.pdf used on input line 326.
+Package pdftex.def Info: ./figures/gc_Day_scenario.pdf used on input line 327.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
 
 
@@ -565,11 +674,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 5776 strings out of 493921
- 91118 string characters out of 3147273
- 142368 words of memory out of 3000000
- 8926 multiletter control sequences out of 15000+200000
- 35501 words of font info for 89 fonts, out of 3000000 for 9000
+ 6306 strings out of 493921
+ 99866 string characters out of 3147273
+ 145260 words of memory out of 3000000
+ 9443 multiletter control sequences out of 15000+200000
+ 37505 words of font info for 95 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  36i,14n,38p,3092b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensans/opensa
@@ -584,11 +693,10 @@ b><C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/type1/public/opensans/Ope
 nSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program File
-s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on pve_manuscript.pdf (20 pages, 295619 bytes).
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on pve_manuscript.pdf (20 pages, 289197 bytes).
 PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
+ 181 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

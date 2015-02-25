@@ -5,6 +5,7 @@
 \usepackage{amssymb}
 \usepackage{amsmath}
 \usepackage{framed}
+\usepackage{textcomp}
 
 % avoid ugly indentation of paragraphs
 \usepackage{parskip}
@@ -148,7 +149,7 @@ Leaf \textit{N}~\% was significantly higher in free seedlings and the largest co
 
 The photosynthetic parameters \textit{J}\textsubscript{max} and \textit{Vc}\textsubscript{max} were not different across measurement campaigns, therefore the parameter means per volume are reported here (Table.~\ref{table:Table2}).  Overall, both \textit{J}\textsubscript{max} and \textit{Vc}\textsubscript{max} were significantly higher in free seedlings with little variation between container volumes (\textit{P}=0.0012 \& 0.0021, respectively). Leaf dark respiration rates were not significantly different across soil volumes (Table.~\ref{table:Table2}). The \textit{g}\textsubscript{1} parameter, generated for each seedling from the \citet{medlyn2012reconciling} optimal stomatal conductance model, was not different across soil volumes (Table.~\ref{table:Table2}). Predicted values of \textit{g}\textsubscript{s}, using the \textit{g}\textsubscript{1} parameter, where highly correlated with observed values (\textit{r}\textsuperscript{2}= .74, \textit{P}\textless0.001, data not shown).
 
-Neither $\Psi\textsubscript{pd}$ nor $\Psi\textsubscript{l}$ were different across treatments, with mean values of -0.27 and -1.2~mPa across all seedlings, respectively. Although \textit{g}\textsubscript{s} in free seedlings was generally higher than those in containers (Table.~\ref{table:Table2}, \textit{P}=0.0023), the mean rates for all seedlings were high at 0.37~mol~H\textsubscript{2}0~m\textsubscript{-2}~s\textsubscript{-1} and did not decline significantly across the experiment duration. Combined these indices provide strong evidence that water stress was not apparent on these well-watered seedlings throughout the experiment. Soil \textit{N}~\% at harvest was not different across soil volumes ($\bar{x}$=04.5~\%) and decreased approximately 3~\% across all containers over the experiment duration. This indicates that nutrient leaching from free seedlings or from draining of containers following natural rainfall events did not differ between treatments. 
+Neither $\Psi\textsubscript{pd}$ nor $\Psi\textsubscript{l}$ were different across treatments, with mean values of -0.27 and -1.2~mPa across all seedlings, respectively. Although \textit{g}\textsubscript{s} in free seedlings was generally higher than those in containers (Table.~\ref{table:Table2}, \textit{P}=0.0023), the mean rates for all seedlings were high at 0.37~mol~H\textsubscript{2}0~m\textsubscript{-2}~s\textsubscript{-1} and did not decline significantly across the experiment duration. Additionally, leaf {\textdelta}\textsuperscript{13}C at final harvest was not different across treatments (Table.~\ref{table:Table1}). Combined these indices provide strong evidence that water stress was not apparent on these well-watered seedlings throughout the experiment. Soil \textit{N}~\% at harvest was not different across soil volumes ($\bar{x}$=04.5~\%) and decreased approximately 3~\% across all containers over the experiment duration. This indicates that nutrient leaching from free seedlings or from draining of containers following natural rainfall events did not differ between treatments. 
 
 \subsection*{\textit{Modelling seedling biomass}}
 The initial model simulation, testing only treatment specific photosynthesis rates, was unable to accurately predict the responses of actual harvested seedling biomass to reduced soil volume.  When both \textit{C}\textsubscript{day} and biomass of modeled and harvested seedlings were scaled to to the free seedling the initial model design overestimated biomass for all treatments (Fig.~\ref{fig:figure6}a).  This suggests that reductions in photosynthesis alone could not realistically capture the reduced growth response of these seedlings.  Next, the model was re-run using the mean mass fractions of leaves, stems and roots from the final harvest, per treatment, to drive daily mass partitioning and seedling production.  Combined with treatment specific photosynthesis rates this model still overestimated seedling production for all treatments (Fig.~\ref{fig:figure6}b).  
@@ -171,7 +172,8 @@ colnames(pve_data) <- c("Volume (L)",
                         "Leaf~Sugars~(\\%)", 
                         "Leaf~Starch~(\\%)", 
                         "SRL~(cm~m\\textsuperscript{-1})",
-                        "Root~Nitrogen~(\\%)")
+                        "Root~Nitrogen~(\\%)",
+                        "{\\textdelta}\\textsuperscript{13}C~(\\text{\\textperthousand})")
 
 
 phys_data <- read.csv("table/pve_table2.csv")
