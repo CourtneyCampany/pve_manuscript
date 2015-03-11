@@ -1,4 +1,4 @@
-\begin{thebibliography}{65}
+\begin{thebibliography}{62}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -39,14 +39,6 @@ I~Biran and A~Eliassaf.
   of woody plants}.
 \newblock \emph{Scientia Horticulturae}, 12\penalty0 (2):\penalty0 183--193,
   1980{\natexlab{b}}.
-
-\bibitem[{Cieslak, Mik. Uses code by Robert Pearcy} and Medlyn.()]{YplantQMC}
-Remko Duursma.~QuasiMC {Cieslak, Mik. Uses code by Robert Pearcy} and Belinda
-  Medlyn.
-\newblock \emph{{YplantQMC: Plant architectural analysis with Yplant and
-  QuasiMC.}}
-\newblock URL \url{http://www.remkoduursma.com/yplantqmc,
-  https://www.bitbucket.org/remkoduursma/yplantqmc/}.
 
 \bibitem[Crous et~al.(2013)Crous, Quentin, Lin, Medlyn, Williams, Barton, and
   Ellsworth]{crous2013photosynthesis}
@@ -125,14 +117,6 @@ G~D Farquhar, S~von~von Caemmerer, and J~A Berry.
   C3 species}.
 \newblock \emph{Planta}, 149\penalty0 (1):\penalty0 78--90, 1980.
 
-\bibitem[Fourcaud et~al.(2008)Fourcaud, Zhang, Stokes, Lambers, and
-  K\"{o}rner]{fourcaud2008plant}
-Thierry Fourcaud, Xiaopeng Zhang, Alexia Stokes, Hans Lambers, and Christian
-  K\"{o}rner.
-\newblock {Plant growth modelling and applications: the increasing importance
-  of plant architecture in growth models}.
-\newblock \emph{Annals of Botany}, 101\penalty0 (8):\penalty0 1053--1063, 2008.
-
 \bibitem[Gunderson and Wullschleger(1994)]{gunderson1994photosynthetic}
 Carla~A Gunderson and Stan~D Wullschleger.
 \newblock {Photosynthetic acclimation in trees to rising atmospheric CO2: a
@@ -193,12 +177,6 @@ C~K\"{o}rner.
 Christian K\"{o}rner.
 \newblock {Carbon limitation in trees}.
 \newblock \emph{Journal of ecology}, 91\penalty0 (1):\penalty0 4--17, 2003.
-
-\bibitem[K\"{o}rner(2006)]{korner2006plant}
-Christian K\"{o}rner.
-\newblock {Plant CO2 responses: an issue of definition, time and resource
-  supply}.
-\newblock \emph{New phytologist}, 172\penalty0 (3):\penalty0 393--411, 2006.
 
 \bibitem[Kozlowski(1992)]{kozlowski1992carbohydrate}
 T~T Kozlowski.
