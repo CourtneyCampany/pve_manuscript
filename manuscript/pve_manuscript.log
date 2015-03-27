@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  11 MAR 2015 17:57
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  27 MAR 2015 16:53
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -554,109 +554,105 @@ File: lgrfosj.fd 2011/11/11 Fontinst v1.927 font definitions for LGR/fosj.
 LaTeX Font Info:    Font shape `LGR/fosj/m/n' will be
 (Font)              scaled to size 9.49997pt on input line 172.
 
-[4]
+[4] [5] [6]
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
- [5]
-Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
- [6] [7] [8] [9] [10]
-<./figures/airvars.pdf, id=44, 505.89pt x 504.88625pt>
+ [7] [8] [9] [10] [11]
+<./figures/airvars.pdf, id=47, 505.89pt x 504.88625pt>
 File: ./figures/airvars.pdf Graphic file (type pdf)
 
 <use ./figures/airvars.pdf>
-Package pdftex.def Info: ./figures/airvars.pdf used on input line 278.
+Package pdftex.def Info: ./figures/airvars.pdf used on input line 293.
 (pdftex.def)             Requested size: 422.52577pt x 421.6979pt.
 
-<./figures/allometry.pdf, id=45, 483.8075pt x 690.58pt>
+<./figures/allometry.pdf, id=48, 483.8075pt x 690.58pt>
 File: ./figures/allometry.pdf Graphic file (type pdf)
 
 <use ./figures/allometry.pdf>
-Package pdftex.def Info: ./figures/allometry.pdf used on input line 286.
+Package pdftex.def Info: ./figures/allometry.pdf used on input line 301.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/Asat.pdf, id=46, 505.89pt x 360.34625pt>
+<./figures/Asat.pdf, id=49, 505.89pt x 360.34625pt>
 File: ./figures/Asat.pdf Graphic file (type pdf)
  <use ./figures/Asat.pdf>
-Package pdftex.def Info: ./figures/Asat.pdf used on input line 294.
+Package pdftex.def Info: ./figures/Asat.pdf used on input line 309.
 (pdftex.def)             Requested size: 422.52577pt x 300.97327pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/massfractions.pdf, id=47, 1011.78pt x 504.88625pt>
+<./figures/massfractions.pdf, id=50, 1011.78pt x 504.88625pt>
 File: ./figures/massfractions.pdf Graphic file (type pdf)
 
 <use ./figures/massfractions.pdf>
-Package pdftex.def Info: ./figures/massfractions.pdf used on input line 302.
+Package pdftex.def Info: ./figures/massfractions.pdf used on input line 317.
 (pdftex.def)             Requested size: 422.52577pt x 210.84895pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/A_leafchem.pdf, id=48, 722.7pt x 505.89pt>
+<./figures/A_leafchem.pdf, id=51, 722.7pt x 505.89pt>
 File: ./figures/A_leafchem.pdf Graphic file (type pdf)
 
 <use ./figures/A_leafchem.pdf>
-Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 310.
+Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 325.
 (pdftex.def)             Requested size: 422.52577pt x 295.77077pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/gC_day.pdf, id=49, 505.89pt x 578.16pt>
+<./figures/gC_day.pdf, id=52, 505.89pt x 578.16pt>
 File: ./figures/gC_day.pdf Graphic file (type pdf)
  <use ./figures/gC_day.pdf>
-Package pdftex.def Info: ./figures/gC_day.pdf used on input line 318.
+Package pdftex.def Info: ./figures/gC_day.pdf used on input line 333.
 (pdftex.def)             Requested size: 422.52577pt x 482.89862pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[11
+[12
 
  <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/airvars.pdf>
 ]
 
-LaTeX Warning: Text page 12 contains only floats.
+LaTeX Warning: Text page 13 contains only floats.
 
 
 Overfull \vbox (0.79819pt too high) has occurred while \output is active []
 
 
-[12 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/allometry
-.pdf>] [13 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/As
+[13 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/allometry
+.pdf>] [14 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/As
 at.pdf> <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/massf
-ractions.pdf>] [14 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/fi
-gures/A_leafchem.pdf>] [15 <C:/Users/90919620/github_repos/pve_manuscript/manus
+ractions.pdf>] [15 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/fi
+gures/A_leafchem.pdf>] [16 <C:/Users/90919620/github_repos/pve_manuscript/manus
 cript/figures/gC_day.pdf>]
-<./figures/gc_Day_scenario.pdf, id=116, 483.8075pt x 690.58pt>
+<./figures/gc_Day_scenario.pdf, id=119, 483.8075pt x 690.58pt>
 File: ./figures/gc_Day_scenario.pdf Graphic file (type pdf)
 
 <use ./figures/gc_Day_scenario.pdf>
-Package pdftex.def Info: ./figures/gc_Day_scenario.pdf used on input line 334.
+Package pdftex.def Info: ./figures/gc_Day_scenario.pdf used on input line 349.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[16
+[17
 
-] [17 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/gc_Day_
+] [18 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/gc_Day_
 scenario.pdf>]
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.bbl
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
 
-[18
+[19
 
-] [19]
+] [20]
 LaTeX Font Info:    Try loading font information for OMS+fosj on input line 346
 .
 LaTeX Font Info:    No file OMSfosj.fd. on input line 346.
@@ -675,20 +671,20 @@ Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
-[20]) [21]
+[21]) [22]
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 6343 strings out of 493921
- 100822 string characters out of 3147273
- 150954 words of memory out of 3000000
- 9480 multiletter control sequences out of 15000+200000
+ 6346 strings out of 493921
+ 100849 string characters out of 3147273
+ 146980 words of memory out of 3000000
+ 9483 multiletter control sequences out of 15000+200000
  37505 words of font info for 95 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 36i,14n,38p,3080b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,14n,38p,3047b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensans/opensa
 ns-04.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensan
 s/opensans-02.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
@@ -702,9 +698,9 @@ nSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on pve_manuscript.pdf (21 pages, 293752 bytes).
+Output written on pve_manuscript.pdf (22 pages, 299327 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
+ 187 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
