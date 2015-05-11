@@ -184,6 +184,7 @@ Model M\textsubscript{0}, testing only treatment specific photosynthesis rates, 
 <<echo=FALSE, message=FALSE, warning=FALSE>>=
 library(xtable)
 pve_data <- read.csv("table/pve_table1.csv")
+
 colnames(pve_data) <- c("Volume (L)", 
                         "Seedling~mass~(g)", 
                         "SLA~(m\\textsuperscript{2}~kg\\textsuperscript{-1})",
@@ -212,7 +213,8 @@ colnames(phys_data) <- c("Volume~(L)",
 datatab <- xtable(pve_data, label="table:Table1", caption="Responses of plant and leaf characterisitcs of \\textit{Eucalyptus tereticornis} seedlings to soil volume treatments. Each value reflects the mean(standard error) of each treatment.")
 
 print(datatab, include.rownames=FALSE,sanitize.colnames.function=function(x){x},
-      floating.environment='sidewaystable', caption.placement="top")
+      floating.environment='sidewaystable', caption.placement="top", 
+      hline.after = getOption("xtable.hline.after", c(-1,0,7,nrow(datatab))))
 
 @
 
@@ -223,7 +225,8 @@ print(datatab, include.rownames=FALSE,sanitize.colnames.function=function(x){x},
 phystab <- xtable(phys_data, label="table:Table2",caption="Responses of leaf level gas exchange parameters of \\textit{Eucalyptus tereticornis} seedlings to soil volume treatments. Each value reflects the mean(standard error) of each treatment. Units for \\textit{A}\\textsubscript{max} and \\textit{R}\\textsubscript{dark} are {\\textmugreek}mol~m\\textsuperscript{-1}~s\\textsuperscript{-1} and \\textit{g}\\textsubscript{s} are mol~m\\textsuperscript{-1}~s\\textsuperscript{-1}.")
 
 print(phystab, include.rownames=FALSE,sanitize.colnames.function=function(x){x},
-      floating.environment='sidewaystable',caption.placement="top")
+      floating.environment='sidewaystable',caption.placement="top",
+       hline.after = getOption("xtable.hline.after", c(-1,0,7,nrow(datatab))))
 @
 
 
