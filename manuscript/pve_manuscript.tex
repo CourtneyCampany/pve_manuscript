@@ -182,7 +182,7 @@ We developed a simple seedling growth model that utilized leaf \textit{A} rates 
 \begin{equation} P\textsubscript{i}=L~C\textsubscript{day,i}~\epsilon\textsubscript{c}\textsuperscript{-1}-R
 \label{eq:prod}
 \end{equation}
-where L is standing cumulative leaf area, C\textsubscript{day,i} is the predicted daily carbon gain, \textepsilon\textsubscript{c} is a biomass conversion efficiency parameter and R is the total respiration of all tissue components. Total respiration was calculated as 
+where L is standing cumulative leaf area, C\textsubscript{day,i} is the predicted mean daily carbon assimilation, \textepsilon\textsubscript{c} is a biomass conversion efficiency parameter and R is the total respiration of all tissue components. Total respiration was calculated as 
 \begin{equation} R=\Sigma(R\textsubscript{c}~M\textsubscript{c})
 \label{eq:resp}
 \end{equation}
@@ -232,24 +232,24 @@ Model M\textsubscript{0}, testing only treatment specific photosynthesis rates, 
 
 %seedling data table
 % latex table generated in R 3.1.2 by xtable 1.7-4 package
-% Tue May 12 09:29:35 2015
+% Thu May 14 18:39:31 2015
 \begin{sidewaystable}[ht]
 \centering
-\caption{Responses of plant and leaf characterisitcs of \textit{Eucalyptus tereticornis} seedlings to soil volume treatments. Each value reflects the mean(standard error) of each treatment.} 
+\caption{Responses of plant and leaf characterisitics of \textit{Eucalyptus tereticornis} seedlings to soil volume treatments. Each value reflects the mean(standard error) of each treatment.} 
 \label{table:Table1}
 \begin{tabular}{lllllllll}
   \hline
-Volume (L) & Seedling~mass~(g) & SLA~(m\textsuperscript{2}~kg\textsuperscript{-1}) & Leaf~Nitrogen~(\%) & Leaf~Sugars~(\%) & Leaf~Starch~(\%) & SRL~(cm~m\textsuperscript{-1}) & Root~Nitrogen~(\%) & {\textdelta}\textsuperscript{13}C~(\text{\textperthousand}) \\ 
+Volume (L) & Seedling~mass~(g) & SLA~(m\textsuperscript{2}~kg\textsuperscript{-1}) & Leaf~Starch~(\%) & Leaf~Sugars~(\%) & Leaf~Nitrogen~(\%) & Root~Nitrogen~(\%) & SRL~(cm~m\textsuperscript{-1}) & {\textdelta}\textsuperscript{13}C~(\text{\textperthousand}) \\ 
   \hline
-5 & 14.8 (1.82) c & 9.5 (0.23) c & 1.1 (0.02) c & 6.4 (0.28) a & 12.7 (0.97) a & 39.1 (5.47) a & 0.78 (0.04) b & -30.1 (0.26) a \\ 
-  10 & 20.0 (2.38) a & 9.8 (0.24) ab & 1.3 (0.04) ab & 6.7 (0.25) a & 9.4 (0.75) ab & 34.2 (5.83) a & 0.75 (0.02) ab & -30.2 (0.25) a \\ 
-  15 & 25.4 (2.49) ab & 11.0 (0.47) ab & 1.4 (0.06) ab & 7.2 (0.28) a & 7.3 (0.73) a & 37.6 (4.63) a & 0.71 (0.02) a & -30.3 (0.36) a \\ 
-  20 & 23.4 (1.63) ab & 9.8 (0.28) ab & 1.4 (0.05) ab & 6.6 (0.26) a & 9.5 (0.88) ab & 45.3 (5.50) a & 0.76 (0.04) a & -29.7 (0.28) a \\ 
-  25 & 30.4 (5.49) ab & 10.4 (0.37) ab & 1.3 (0.06) ab & 6.9 (0.24) a & 9.8 (0.71) ab & 47.0 (7.10) a & 0.74 (0.02) a & -29.7 (0.25) a \\ 
-  35 & 52.2 (9.55) ab & 11.3 (0.44) bc & 1.5 (0.08) b & 6.8 (0.22) a & 9.8 (0.65) ab & 50.6 (11.61) a & 0.77 (0.03) a & -30.6 (0.38) a \\ 
-  Free & 174.5 (18.02) b & 13.0 (0.44) a & 2.4 (0.09) a & 7.4 (0.25) a & 6.8 (0.65) b & 43.7 (6.24) a & 0.9 (0.03) ab & -30.0 (0.34) a \\ 
+5 & 14.8 (1.82) a & 11.8 (0.32) a & 12.7 (0.97) b & 6.4 (0.28) a & 1.1 (0.02) a & 0.78 (0.04) ab & 39.1 (5.47) a & -30.1 (0.26) a \\ 
+  10 & 20.0 (2.38) ab & 11.7 (0.31) a & 9.4 (0.75) ab & 6.7 (0.25) a & 1.3 (0.04) ab & 0.75 (0.02) a & 34.2 (5.83) a & -30.2 (0.25) a \\ 
+  15 & 25.4 (2.49) ab & 12.7 (0.48) a & 7.3 (0.73) a & 7.2 (0.28) a & 1.4 (0.06) ab & 0.71 (0.02) a & 37.6 (4.63) a & -30.3 (0.36) a \\ 
+  20 & 23.4 (1.63) ab & 11.8 (0.37) a & 9.5 (0.88) ab & 6.6 (0.26) a & 1.4 (0.05) ab & 0.76 (0.04) a & 45.3 (5.50) a & -29.7 (0.28) a \\ 
+  25 & 30.4 (5.49) ab & 12.4 (0.40) a & 9.8 (0.71) ab & 6.9 (0.24) a & 1.3 (0.06) ab & 0.74 (0.02) a & 47.0 (7.10) a & -29.7 (0.25) a \\ 
+  35 & 52.2 (9.55) b & 13.5 (0.46) ab & 9.8 (0.65) ab & 6.8 (0.22) a & 1.5 (0.08) b & 0.77 (0.03) ab & 50.6 (11.61) a & -30.6 (0.38) a \\ 
+  Free & 174.5 (18.02) c & 15.1 (0.47) b & 6.8 (0.65) a & 7.4 (0.25) a & 2.4 (0.09) c & 0.9 (0.03) b & 43.7 (6.24) a & -30.0 (0.34) a \\ 
    \hline
-Container Effect & 0.001 & 0.001 & 0.001 & 0.128 & 0.039 & 0.662 & 0.015 & 0.458 \\ 
+Container Effect (P) & 0.001 & 0.001 & 0.039 & 0.128 & 0.001 & 0.015 & 0.662 & 0.458 \\ 
    \hline
 \end{tabular}
 \end{sidewaystable}
@@ -259,24 +259,24 @@ Container Effect & 0.001 & 0.001 & 0.001 & 0.128 & 0.039 & 0.662 & 0.015 & 0.458
 %data.df$taxa <- paste("\\emph{",taxa,"}", sep="")
 
 % latex table generated in R 3.1.2 by xtable 1.7-4 package
-% Tue May 12 09:29:35 2015
+% Thu May 14 18:39:31 2015
 \begin{sidewaystable}[ht]
 \centering
-\caption{Responses of leaf level gas exchange parameters of \textit{Eucalyptus tereticornis} seedlings to soil volume treatments. Each value reflects the mean(standard error) of each treatment. Units for \textit{A}\textsubscript{max} and \textit{R}\textsubscript{dark} are {\textmugreek}mol~m\textsuperscript{-1}~s\textsuperscript{-1} and \textit{g}\textsubscript{s} are mol~m\textsuperscript{-1}~s\textsuperscript{-1}.} 
+\caption{Responses of leaf level gas exchange parameters of \textit{Eucalyptus tereticornis} seedlings to soil volume treatments. Each value reflects the mean(standard error) of each treatment. Units for \textit{A}\textsubscript{max} and \textit{R}\textsubscript{dark} are {\textmugreek}mol~m\textsuperscript{-2}~s\textsuperscript{-1} and \textit{g}\textsubscript{s} are mol~m\textsuperscript{-1}~s\textsuperscript{-1}.} 
 \label{table:Table2}
 \begin{tabular}{lllllll}
   \hline
 Volume~(L) & \textit{A}\textsubscript{max} & \textit{R}\textsubscript{dark} & \textit{J}\textsubscript{max} & \textit{Vc}\textsubscript{max} & \textit{g}\textsubscript{s} & \textit{g}\textsubscript{1} \\ 
   \hline
-5 & 21.2 (0.9) c & 0.61 (0.04) a & 103.7 (5.8) b & 62.9 (2.8) b & 0.30 (0.01) a & 5.1 (0.1) b \\ 
-  10 & 22.3 (1.4) a & 0.79 (0.06) a & 116.5 (5.9) a & 69.4 (2.9) a & 0.36 (0.01) a & 5.4 (0.1) a \\ 
-  15 & 23.3 (1.2) ab & 0.70 (0.05) a & 123.1 (15.4) a & 79.4 (10.0) a & 0.42 (0.01) a & 5.8 (0.1) ab \\ 
-  20 & 26.1 (0.7) ab & 0.73 (0.11) a & 130.0 (14.1) a & 81.4 (6.0) ab & 0.37 (0.01) a & 4.9 (0.1) ab \\ 
-  25 & 23.9 (0.9) b & 0.53 (0.13) a & 131.9 (5.9) a & 78.6 (2.6) ab & 0.30 (0.01) a & 4.5 (0.1) ab \\ 
-  35 & 25.0 (1.0) ab & 0.61 (0.04) a & 121.2 (3.7) a & 78.0 (3.5) a & 0.31 (0.01) a & 4.4 (0.2) a \\ 
-  Free & 33.1 (0.7) ab & 0.64 (0.07) a & 171.7 (18.6) a & 101.2 (5.7) a & 0.44 (0.01) a & 4.5 (0.1) a \\ 
+5 & 21.2 (0.9) a & 0.61 (0.04) a & 104.5 (3.3) a & 63.3 (2.5) a & 0.30 (0.01) a & 5.1 (0.1) bc \\ 
+  10 & 22.3 (1.4) ab & 0.79 (0.06) a & 116.5 (7.5) a & 69.4 (4.7) a & 0.36 (0.01) ab & 5.4 (0.1) cd \\ 
+  15 & 23.3 (1.2) ab & 0.70 (0.05) a & 125.4 (7.8) a & 80.8 (5.1) ab & 0.42 (0.01) ab & 5.8 (0.1) d \\ 
+  20 & 26.1 (0.7) b & 0.73 (0.11) a & 131.5 (8.6) a & 82.1 (4.7) ab & 0.37 (0.01) ab & 4.9 (0.1) ac \\ 
+  25 & 23.9 (0.9) ab & 0.53 (0.13) a & 132.8 (13.1) a & 79.0 (8.7) a & 0.30 (0.01) a & 4.5 (0.1) a \\ 
+  35 & 25.0 (1.0) ab & 0.61 (0.04) a & 127.2 (6.1) a & 82.4 (3.6) a & 0.31 (0.01) a & 4.4 (0.2) a \\ 
+  Free & 33.1 (0.7) c & 0.64 (0.07) a & 169.0 (8.2) b & 100.4 (3.3) b & 0.44 (0.01) b & 4.5 (0.1) ab \\ 
    \hline
-Container Effect & 0.001 & 0.039 & 0.001 & 0.002 & 0.001 & 0.079 \\ 
+Container Effect (P) & 0.001 & 0.039 & 0.001 & 0.002 & 0.001 & 0.079 \\ 
    \hline
 \end{tabular}
 \end{sidewaystable}
@@ -308,7 +308,7 @@ Container Effect & 0.001 & 0.039 & 0.001 & 0.002 & 0.001 & 0.079 \\
 \begin{figure}[h!]
     \centering
     \includegraphics[width=0.99\textwidth]{Asat.pdf}
-    \caption{Soil volume treatment means~$\pm$~SE~(n=7), across all measurement dates (n=6), of light saturated rates of photosynthesis at 25$\degree$C. Different letters represent significant differences between treatments.}
+    \caption{Soil volume treatment means~$\pm$~standard error~(n=7), across all measurement campaigns, of light saturated rates of photosynthesis at 25$\degree$C. Different letters represent significant differences between treatments.}
     \label{fig:figure3}
 \end{figure}
 
@@ -316,7 +316,7 @@ Container Effect & 0.001 & 0.039 & 0.001 & 0.002 & 0.001 & 0.079 \\
 \begin{figure}[h!]
     \centering
     \includegraphics[width=0.99\textwidth]{massfractions.pdf}
-    \caption{Soil volume treatment means (n=7) of mass partitioning to leaves, stems, and roots (a) and bi-variate relationships between mass allocation to leaves and stems + roots (b). Lines represent standardized major axis fitting of the log transformed allometric relationships of leaf mass fraction by treatment.}
+    \caption{Soil volume treatment means (n=7) of mass partitioning to leaves, stems, and roots (a), bi-variate relationships between mass allocation to leaves and stems + roots (b) and leaf mass as a function of fine root biomass with standard errors included (c). For (b) lines represent standardized major axis fitting of the log transformed allometric relationships of leaf mass fraction by treatment.}
     \label{fig:figure4}
 \end{figure}
 
@@ -331,8 +331,8 @@ Container Effect & 0.001 & 0.039 & 0.001 & 0.002 & 0.001 & 0.079 \\
 %model base figure
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=0.99\textwidth]{gC_day.pdf}
-    \caption{Modeled and harvested seedling biomass (g) versus the measure range of daily assimilated carbon gain (g~m\textsuperscript{2}) across all treatments (a) and then with treatment specific plant component mass partitioning included (b).  Values of biomass and carbon gain are scaled to the free seedling with unlimited soil volume.}
+    \includegraphics[width=0.99\textwidth]{massmodel_totalC.pdf}
+    \caption{Total carbon mass for harvested and modeled seedlings versus predicted total carbon gain after 120 days (a) and  reductions in final seedling carbon mass, both modelled and observed, as a function of the reduction in leaf photosyntheis across treatments (b). For (b) both seedling carbon mass and daily carbon assimilation were first scaled to the free seedling control.}
     \label{fig:figure6}
 \end{figure}
 
@@ -347,8 +347,8 @@ Container Effect & 0.001 & 0.039 & 0.001 & 0.002 & 0.001 & 0.079 \\
 
 \begin{figure}[h!]
     \centering
-    \includegraphics[width=0.99\textwidth]{gc_Day_scenario.pdf}
-    \caption{Modeled and harvested seedling biomass (g) versus daily assimilated carbon gain (g~m\textsuperscript{2}) including sensitivity testing for unmeasured carbon allocation scenarios.  Model parameters of leaf allocation (a), root respiration (b), and fine root allocation (c) were increased or decreased by 50$\%$.}
+    \includegraphics[width=0.99\textwidth]{massmodel_resp.pdf}
+    \caption{Modeled and harvested seedling biomass }
     \label{fig:figureSI1}
 \end{figure}
 
@@ -368,7 +368,7 @@ Container Effect & 0.001 & 0.039 & 0.001 & 0.002 & 0.001 & 0.079 \\
   R\textsubscript{coarse root} & 0.00124 & g~C g~root\textsuperscript{-1} & \citet{marsden2008relating} \\ 
   R\textsubscript{fine root} & 0.010368 & g~C g~root\textsuperscript{-1} & \citet{ryan2010factors} \\ 
   R\textsubscript{stem} & 0.00187 & g~C g~stem\textsuperscript{-1} & Drake 2014 (unpublished) \\ 
-  C\textsubscript{day} & 4.7-6.8 & g~C m\textsuperscript{-2} & this study \\ 
+  C\textsubscript{day} & 5.4-7.6 & g~C m\textsuperscript{-2} d\textsuperscript{-1}& this study \\ 
   $\Lambda$ & 1/365 & yr\textsuperscript{-1} & theoretical\\
   \hline 
   \end{tabular}
