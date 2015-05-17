@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  15 MAY 2015 16:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  18 MAY 2015 09:55
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -610,9 +610,6 @@ Package pdftex.def Info: ./figures/massfractions.pdf used on input line 318.
 (pdftex.def)             Requested size: 422.52577pt x 614.60373pt.
 
 
-LaTeX Warning: Float too large for page by 10.2734pt on input line 321.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 <./figures/A_leafchem.pdf, id=51, 722.7pt x 505.89pt>
@@ -723,7 +720,7 @@ nSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on pve_manuscript.pdf (23 pages, 290552 bytes).
+Output written on pve_manuscript.pdf (23 pages, 290505 bytes).
 PDF statistics:
  186 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
