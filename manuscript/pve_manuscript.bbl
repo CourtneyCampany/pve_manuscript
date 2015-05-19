@@ -1,4 +1,4 @@
-\begin{thebibliography}{61}
+\begin{thebibliography}{62}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -75,6 +75,15 @@ Wei Duan, Pei~G Fan, Li~J Wang, Wei~D Li, Shu~T Yan, and Shao~H Li.
 Remko Duursma.
 \newblock \emph{{plantecophys: Modelling and analysis of leaf gas exchange
   data}}, 2014.
+
+\bibitem[Duursma et~al.(2012)Duursma, Falster, Valladares, Sterck, Pearcy,
+  Lusk, Sendall, Nordenstahl, Houter, Atwell, and Others]{duursma2012light}
+Remko~A Duursma, Daniel~S Falster, Fernando Valladares, F~J Sterck, R~W Pearcy,
+  Christopher~H Lusk, K~M Sendall, Marisa Nordenstahl, N~C Houter, B~J Atwell,
+  and Others.
+\newblock {Light interception efficiency explained by two simple variables: a
+  test using a diversity of small-to medium-sized woody plants}.
+\newblock \emph{New Phytologist}, 193\penalty0 (2):\penalty0 397--408, 2012.
 
 \bibitem[Duursma et~al.(2014)Duursma, Barton, Lin, Medlyn, Eamus, Tissue,
   Ellsworth, and McMurtrie]{duursma2014peaked}

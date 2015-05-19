@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  18 MAY 2015 09:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  19 MAY 2015 14:39
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -554,25 +554,19 @@ File: lgrfosj.fd 2011/11/11 Fontinst v1.927 font definitions for LGR/fosj.
 LaTeX Font Info:    Font shape `LGR/fosj/m/n' will be
 (Font)              scaled to size 9.49997pt on input line 172.
 
-[4] [5]
+[4] [5] [6]
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
- [6]
-Overfull \hbox (5.07793pt too wide) in paragraph at lines 207--208
+
+Overfull \hbox (5.07793pt too wide) in paragraph at lines 209--210
 \OT1/fosj/m/n/10 (\OT1/fosj/m/it/10 P\OML/fosj/m/n/10 <\OT1/fosj/m/n/10 0.001) 
 and with free seedlings (\OT1/fosj/m/it/10 P\OML/fosj/m/n/10 <\OT1/fosj/m/n/10 
 0.001, Ta-ble. 1[]). We an-a-lyzed the re-la-tion-ship be-tween biomass
  []
 
-[7]
-Overfull \hbox (3.9994pt too wide) in paragraph at lines 222--223
-\OT1/fosj/m/n/10 Model M$[]$, test-ing only treat-ment spe-cific pho-to-syn-the
--sis rates, was found to over-es-ti-mate seedling
- []
-
-[8]
-Overfull \hbox (75.51462pt too wide) in paragraph at lines 240--255
+[7] [8]
+Overfull \hbox (75.51462pt too wide) in paragraph at lines 244--259
  [][] 
  []
 
@@ -580,34 +574,34 @@ Overfull \hbox (75.51462pt too wide) in paragraph at lines 240--255
 File: ./figures/airvars.pdf Graphic file (type pdf)
 
 <use ./figures/airvars.pdf>
-Package pdftex.def Info: ./figures/airvars.pdf used on input line 294.
+Package pdftex.def Info: ./figures/airvars.pdf used on input line 298.
 (pdftex.def)             Requested size: 422.52577pt x 421.6979pt.
 
 <./figures/allometry.pdf, id=48, 483.8075pt x 690.58pt>
 File: ./figures/allometry.pdf Graphic file (type pdf)
 
 <use ./figures/allometry.pdf>
-Package pdftex.def Info: ./figures/allometry.pdf used on input line 302.
+Package pdftex.def Info: ./figures/allometry.pdf used on input line 306.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/Asat.pdf, id=49, 505.89pt x 360.34625pt>
-File: ./figures/Asat.pdf Graphic file (type pdf)
- <use ./figures/Asat.pdf>
-Package pdftex.def Info: ./figures/Asat.pdf used on input line 310.
-(pdftex.def)             Requested size: 422.52577pt x 300.97327pt.
+<./figures/massfractions.pdf, id=49, 474.77374pt x 690.58pt>
+File: ./figures/massfractions.pdf Graphic file (type pdf)
+
+<use ./figures/massfractions.pdf>
+Package pdftex.def Info: ./figures/massfractions.pdf used on input line 314.
+(pdftex.def)             Requested size: 422.52577pt x 614.60373pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/massfractions.pdf, id=50, 474.77374pt x 690.58pt>
-File: ./figures/massfractions.pdf Graphic file (type pdf)
-
-<use ./figures/massfractions.pdf>
-Package pdftex.def Info: ./figures/massfractions.pdf used on input line 318.
-(pdftex.def)             Requested size: 422.52577pt x 614.60373pt.
+<./figures/Asat.pdf, id=50, 505.89pt x 360.34625pt>
+File: ./figures/Asat.pdf Graphic file (type pdf)
+ <use ./figures/Asat.pdf>
+Package pdftex.def Info: ./figures/Asat.pdf used on input line 322.
+(pdftex.def)             Requested size: 422.52577pt x 300.97327pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -616,7 +610,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ./figures/A_leafchem.pdf Graphic file (type pdf)
 
 <use ./figures/A_leafchem.pdf>
-Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 326.
+Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 330.
 (pdftex.def)             Requested size: 422.52577pt x 295.77077pt.
 
 
@@ -626,7 +620,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ./figures/massmodel_totalC.pdf Graphic file (type pdf)
 
 <use ./figures/massmodel_totalC.pdf>
-Package pdftex.def Info: ./figures/massmodel_totalC.pdf used on input line 334.
+Package pdftex.def Info: ./figures/massmodel_totalC.pdf used on input line 338.
 
 (pdftex.def)             Requested size: 422.52577pt x 482.89862pt.
 
@@ -645,20 +639,20 @@ Overfull \vbox (0.79819pt too high) has occurred while \output is active []
 
 
 [13 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/allometry
-.pdf>] [14 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/As
-at.pdf>] [15 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/
-massfractions.pdf>] [16 <C:/Users/90919620/github_repos/pve_manuscript/manuscri
+.pdf>] [14 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/ma
+ssfractions.pdf>] [15 <C:/Users/90919620/github_repos/pve_manuscript/manuscript
+/figures/Asat.pdf>] [16 <C:/Users/90919620/github_repos/pve_manuscript/manuscri
 pt/figures/A_leafchem.pdf>] [17 <C:/Users/90919620/github_repos/pve_manuscript/
 manuscript/figures/massmodel_totalC.pdf>]
 <./figures/massmodel_resp.pdf, id=117, 483.8075pt x 690.58pt>
 File: ./figures/massmodel_resp.pdf Graphic file (type pdf)
 
 <use ./figures/massmodel_resp.pdf>
-Package pdftex.def Info: ./figures/massmodel_resp.pdf used on input line 350.
+Package pdftex.def Info: ./figures/massmodel_resp.pdf used on input line 354.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
 
 
-LaTeX Warning: Float too large for page by 10.79819pt on input line 353.
+LaTeX Warning: Float too large for page by 10.79819pt on input line 357.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -675,14 +669,14 @@ Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
 [20
 
 ] [21]
-LaTeX Font Info:    Try loading font information for OMS+fosj on input line 337
+LaTeX Font Info:    Try loading font information for OMS+fosj on input line 346
 .
-LaTeX Font Info:    No file OMSfosj.fd. on input line 337.
+LaTeX Font Info:    No file OMSfosj.fd. on input line 346.
 
 
 LaTeX Font Warning: Font shape `OMS/fosj/m/it' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 337.
+(Font)              for symbol `textbraceleft' on input line 346.
 
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
@@ -700,13 +694,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 6343 strings out of 493921
- 100822 string characters out of 3147273
- 147846 words of memory out of 3000000
- 9480 multiletter control sequences out of 15000+200000
+ 6346 strings out of 493921
+ 100894 string characters out of 3147273
+ 149980 words of memory out of 3000000
+ 9483 multiletter control sequences out of 15000+200000
  37505 words of font info for 95 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 36i,14n,38p,3220b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,14n,38p,3142b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensans/opensa
 ns-04.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensan
 s/opensans-02.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
@@ -720,7 +714,7 @@ nSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on pve_manuscript.pdf (23 pages, 290505 bytes).
+Output written on pve_manuscript.pdf (23 pages, 293817 bytes).
 PDF statistics:
  186 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
