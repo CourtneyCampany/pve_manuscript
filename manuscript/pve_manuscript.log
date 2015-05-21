@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  19 MAY 2015 14:39
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  21 MAY 2015 18:49
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -565,118 +565,123 @@ and with free seedlings (\OT1/fosj/m/it/10 P\OML/fosj/m/n/10 <\OT1/fosj/m/n/10
 0.001, Ta-ble. 1[]). We an-a-lyzed the re-la-tion-ship be-tween biomass
  []
 
-[7] [8]
-Overfull \hbox (75.51462pt too wide) in paragraph at lines 244--259
+[7] [8] [9]
+Overfull \hbox (75.51462pt too wide) in paragraph at lines 250--265
  [][] 
  []
 
-[9] [10] [11] <./figures/airvars.pdf, id=47, 505.89pt x 504.88625pt>
+[10] [11] [12] <./figures/airvars.pdf, id=50, 505.89pt x 504.88625pt>
 File: ./figures/airvars.pdf Graphic file (type pdf)
 
 <use ./figures/airvars.pdf>
-Package pdftex.def Info: ./figures/airvars.pdf used on input line 298.
+Package pdftex.def Info: ./figures/airvars.pdf used on input line 304.
 (pdftex.def)             Requested size: 422.52577pt x 421.6979pt.
 
-<./figures/allometry.pdf, id=48, 483.8075pt x 690.58pt>
+<./figures/allometry.pdf, id=51, 483.8075pt x 690.58pt>
 File: ./figures/allometry.pdf Graphic file (type pdf)
 
 <use ./figures/allometry.pdf>
-Package pdftex.def Info: ./figures/allometry.pdf used on input line 306.
+Package pdftex.def Info: ./figures/allometry.pdf used on input line 312.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/massfractions.pdf, id=49, 474.77374pt x 690.58pt>
+<./figures/massfractions.pdf, id=52, 474.77374pt x 690.58pt>
 File: ./figures/massfractions.pdf Graphic file (type pdf)
 
 <use ./figures/massfractions.pdf>
-Package pdftex.def Info: ./figures/massfractions.pdf used on input line 314.
+Package pdftex.def Info: ./figures/massfractions.pdf used on input line 320.
 (pdftex.def)             Requested size: 422.52577pt x 614.60373pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/Asat.pdf, id=50, 505.89pt x 360.34625pt>
+<./figures/Asat.pdf, id=53, 505.89pt x 360.34625pt>
 File: ./figures/Asat.pdf Graphic file (type pdf)
  <use ./figures/Asat.pdf>
-Package pdftex.def Info: ./figures/Asat.pdf used on input line 322.
+Package pdftex.def Info: ./figures/Asat.pdf used on input line 328.
 (pdftex.def)             Requested size: 422.52577pt x 300.97327pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/A_leafchem.pdf, id=51, 722.7pt x 505.89pt>
+<./figures/A_leafchem.pdf, id=54, 722.7pt x 505.89pt>
 File: ./figures/A_leafchem.pdf Graphic file (type pdf)
 
 <use ./figures/A_leafchem.pdf>
-Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 330.
+Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 336.
 (pdftex.def)             Requested size: 422.52577pt x 295.77077pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<./figures/massmodel_totalC.pdf, id=52, 505.89pt x 578.16pt>
+<./figures/massmodel_totalC.pdf, id=55, 505.89pt x 578.16pt>
 File: ./figures/massmodel_totalC.pdf Graphic file (type pdf)
 
 <use ./figures/massmodel_totalC.pdf>
-Package pdftex.def Info: ./figures/massmodel_totalC.pdf used on input line 338.
+Package pdftex.def Info: ./figures/massmodel_totalC.pdf used on input line 344.
 
 (pdftex.def)             Requested size: 422.52577pt x 482.89862pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[12
+[13
 
  <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/airvars.pdf>
 ]
 
-LaTeX Warning: Text page 13 contains only floats.
+LaTeX Warning: Text page 14 contains only floats.
 
 
 Overfull \vbox (0.79819pt too high) has occurred while \output is active []
 
 
-[13 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/allometry
-.pdf>] [14 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/ma
-ssfractions.pdf>] [15 <C:/Users/90919620/github_repos/pve_manuscript/manuscript
-/figures/Asat.pdf>] [16 <C:/Users/90919620/github_repos/pve_manuscript/manuscri
-pt/figures/A_leafchem.pdf>] [17 <C:/Users/90919620/github_repos/pve_manuscript/
+[14 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/allometry
+.pdf>] [15 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/ma
+ssfractions.pdf>] [16 <C:/Users/90919620/github_repos/pve_manuscript/manuscript
+/figures/Asat.pdf>] [17 <C:/Users/90919620/github_repos/pve_manuscript/manuscri
+pt/figures/A_leafchem.pdf>] [18 <C:/Users/90919620/github_repos/pve_manuscript/
 manuscript/figures/massmodel_totalC.pdf>]
-<./figures/massmodel_resp.pdf, id=117, 483.8075pt x 690.58pt>
+<./figures/massmodel_resp.pdf, id=121, 483.8075pt x 690.58pt>
 File: ./figures/massmodel_resp.pdf Graphic file (type pdf)
 
 <use ./figures/massmodel_resp.pdf>
-Package pdftex.def Info: ./figures/massmodel_resp.pdf used on input line 354.
+Package pdftex.def Info: ./figures/massmodel_resp.pdf used on input line 360.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
 
 
-LaTeX Warning: Float too large for page by 10.79819pt on input line 357.
+LaTeX Warning: Float too large for page by 10.79819pt on input line 363.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[18
 
-] [19 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/massmod
+Overfull \hbox (39.99333pt too wide) in paragraph at lines 369--399
+ [][] 
+ []
+
+[19
+
+] [20 <C:/Users/90919620/github_repos/pve_manuscript/manuscript/figures/massmod
 el_resp.pdf>]
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.bbl
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
 
-[20
+[21
 
-] [21]
-LaTeX Font Info:    Try loading font information for OMS+fosj on input line 346
+] [22]
+LaTeX Font Info:    Try loading font information for OMS+fosj on input line 352
 .
-LaTeX Font Info:    No file OMSfosj.fd. on input line 346.
+LaTeX Font Info:    No file OMSfosj.fd. on input line 352.
 
 
 LaTeX Font Warning: Font shape `OMS/fosj/m/it' undefined
 (Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 346.
+(Font)              for symbol `textbraceleft' on input line 352.
 
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
@@ -687,20 +692,20 @@ Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
-[22]) [23]
+[23]) [24]
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 6346 strings out of 493921
- 100894 string characters out of 3147273
- 149980 words of memory out of 3000000
- 9483 multiletter control sequences out of 15000+200000
+ 6352 strings out of 493921
+ 101050 string characters out of 3147273
+ 148077 words of memory out of 3000000
+ 9489 multiletter control sequences out of 15000+200000
  37505 words of font info for 95 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 36i,14n,38p,3142b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,14n,38p,3142b,413s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensans/opensa
 ns-04.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensan
 s/opensans-02.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
@@ -714,9 +719,9 @@ nSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on pve_manuscript.pdf (23 pages, 293817 bytes).
+Output written on pve_manuscript.pdf (24 pages, 297503 bytes).
 PDF statistics:
- 186 PDF objects out of 1000 (max. 8388607)
+ 190 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -1,4 +1,4 @@
-\begin{thebibliography}{62}
+\begin{thebibliography}{64}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -333,6 +333,12 @@ Sara Palacio, G\"{u}nter Hoch, Anna Sala, Christian K\"{o}rner, and Pete
 \newblock {Does carbon storage limit tree growth?}
 \newblock \emph{New Phytologist}, 201\penalty0 (4):\penalty0 1096--1100, 2014.
 
+\bibitem[Passioura(2002)]{passioura2002soil}
+J~B Passioura.
+\newblock {Soil conditions and plant growth}.
+\newblock \emph{Plant, cell \& environment}, 25\penalty0 (2):\penalty0
+  311--318, 2002.
+
 \bibitem[Paul and Foyer(2001)]{paul2001sink}
 Matthew~J Paul and Christine~H Foyer.
 \newblock {Sink regulation of photosynthesis}.
@@ -456,6 +462,13 @@ Sarah~D Wright and Kelly D~M Mcconnaughay.
 \newblock {Interpreting phenotypic plasticity: the importance of ontogeny}.
 \newblock \emph{Plant Species Biology}, 17\penalty0 (2-3):\penalty0 119--131,
   2002.
+
+\bibitem[Young et~al.(1997)Young, Montagu, Conroy, and
+  Bengough]{young1997mechanical}
+I~M Young, K~Montagu, J~Conroy, and A~G Bengough.
+\newblock {Mechanical impedance of root growth directly reduces leaf elongation
+  rates of cereals}.
+\newblock \emph{New Phytologist}, 135\penalty0 (4):\penalty0 613--619, 1997.
 
 \bibitem[Zhou and Quebedeaux(2003)]{zhou2003changes}
 Rui Zhou and Bruno Quebedeaux.
