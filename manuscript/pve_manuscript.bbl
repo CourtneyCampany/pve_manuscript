@@ -1,4 +1,4 @@
-\begin{thebibliography}{64}
+\begin{thebibliography}{74}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -40,6 +40,12 @@ I~Biran and A~Eliassaf.
 \newblock \emph{Scientia Horticulturae}, 12\penalty0 (2):\penalty0 183--193,
   1980{\natexlab{b}}.
 
+\bibitem[Cannell and Thornley(2000)]{cannell2000modelling}
+MGR Cannell and JHM Thornley.
+\newblock Modelling the components of plant respiration: some guiding
+  principles.
+\newblock \emph{Annals of Botany}, 85\penalty0 (1):\penalty0 45--54, 2000.
+
 \bibitem[Crous et~al.(2013)Crous, Quentin, Lin, Medlyn, Williams, Barton, and
   Ellsworth]{crous2013photosynthesis}
 Kristine~Y Crous, Audrey~G Quentin, Yan-Shih Lin, Belinda~E Medlyn, David~G
@@ -48,6 +54,14 @@ Kristine~Y Crous, Audrey~G Quentin, Yan-Shih Lin, Belinda~E Medlyn, David~G
   native range has limited adjustment to elevated CO2 and climate warming}.
 \newblock \emph{Global change biology}, 19\penalty0 (12):\penalty0 3790--3807,
   2013.
+
+\bibitem[DeLucia et~al.(2007)DeLucia, Drake, Thomas, and
+  Gonzalez-Meler]{delucia2007forest}
+Evan DeLucia, John~E Drake, Richard~B Thomas, and Miquel Gonzalez-Meler.
+\newblock Forest carbon use efficiency: is respiration a constant fraction of
+  gross primary production?
+\newblock \emph{Global Change Biology}, 13\penalty0 (6):\penalty0 1157--1167,
+  2007.
 
 \bibitem[Drake et~al.(1997)Drake, Gonz\`{a}lez-Meler, and Long]{drake1997more}
 Bert~G Drake, Miquel~A Gonz\`{a}lez-Meler, and Steve~P Long.
@@ -109,6 +123,13 @@ Alieta Eyles, Elizabeth~A Pinkard, Noel~W Davies, Ross Corkrey, Keith
   after partial defoliation in Eucalyptus globulus saplings}.
 \newblock \emph{Journal of experimental botany}, 64\penalty0 (6):\penalty0
   1625--1636, 2013.
+
+\bibitem[Falik et~al.(2005)Falik, Reides, Gersani, and
+  Novoplansky]{falik2005root}
+Omer Falik, Perla Reides, Mordechai Gersani, and Ariel Novoplansky.
+\newblock {Root navigation by self inhibition}.
+\newblock \emph{Plant, Cell \& Environment}, 28\penalty0 (4):\penalty0
+  562--569, 2005.
 
 \bibitem[Farquhar et~al.(1980)Farquhar, von~von Caemmerer, and
   Berry]{farquhar1980biochemical}
@@ -207,6 +228,14 @@ C~H~A Little and K~Loach.
 \newblock \emph{Canadian Journal of Botany}, 51\penalty0 (4):\penalty0
   751--758, 1973.
 
+\bibitem[Lohier et~al.(2014)Lohier, Jabot, Meziane, Shipley, Reich, and
+  Deffuant]{lohier2014explaining}
+Th\'{e}ophile Lohier, Franck Jabot, Driss Meziane, Bill Shipley, Peter~B Reich,
+  and Guillaume Deffuant.
+\newblock {Explaining ontogenetic shifts in root--shoot scaling with transient
+  dynamics}.
+\newblock \emph{Annals of botany}, page mcu128, 2014.
+
 \bibitem[Maina et~al.(2002)Maina, Brown, and Gersani]{maina2002intra}
 Godfrey~G Maina, Joel~S Brown, and Mordechai Gersani.
 \newblock {Intra-plant versus inter-plant root competition in beans: avoidance,
@@ -226,6 +255,12 @@ Claire Marsden, Yann Nouvellon, and Daniel Epron.
   Eucalyptus stands in the Republic of the Congo}.
 \newblock \emph{Tree physiology}, 28\penalty0 (8):\penalty0 1245--1254, 2008.
 
+\bibitem[McCarthy and Enquist(2007)]{mccarthy2007consistency}
+M~C McCarthy and B~J Enquist.
+\newblock {Consistency between an allometric approach and optimal partitioning
+  theory in global patterns of plant biomass allocation}.
+\newblock \emph{Functional Ecology}, 21\penalty0 (4):\penalty0 713--720, 2007.
+
 \bibitem[McCleary et~al.(1997)McCleary, Gibson, and Mugford]{McCleary_starch}
 B.~V. McCleary, T.~S. Gibson, and D.~C. Mugford.
 \newblock {Measurement of total starch in cereal products by
@@ -238,6 +273,12 @@ B.~V. McCleary, T.~S. Gibson, and D.~C. Mugford.
 K~D~M McConnaughay and F~A Bazzaz.
 \newblock {Is physical space a soil resource?}
 \newblock \emph{Ecology}, pages 94--103, 1991.
+
+\bibitem[McConnaughay and Coleman(1999)]{mcconnaughay1999biomass}
+K~D~M McConnaughay and J~S Coleman.
+\newblock {Biomass allocation in plants: ontogeny or optimality? A test along
+  three resource gradients}.
+\newblock \emph{Ecology}, 80\penalty0 (8):\penalty0 2581--2593, 1999.
 
 \bibitem[Medlyn et~al.(2002)Medlyn, Dreyer, Ellsworth, Forstreuter, Harley,
   Kirschbaum, {Le Roux}, Montpied, Strassemeyer, Walcroft, and
@@ -269,6 +310,13 @@ Belinda~E Medlyn, Remko~A Duursma, Derek Eamus, David~S Ellsworth, I~{Colin
 \newblock {Reconciling the optimal and empirical approaches to modelling
   stomatal conductance}.
 \newblock \emph{Global Change Biology}, 18\penalty0 (11):\penalty0 3476, 2012.
+
+\bibitem[Millard et~al.(2007)Millard, Sommerkorn, and
+  Grelet]{millard2007environmental}
+Peter Millard, Martin Sommerkorn, and Gwen-A\"{e}lle Grelet.
+\newblock {Environmental change and carbon limitation in trees: a biochemical,
+  ecophysiological and ecosystem appraisal}.
+\newblock \emph{New Phytologist}, 175\penalty0 (1):\penalty0 11--28, 2007.
 
 \bibitem[Mitchell et~al.(2013)Mitchell, O'Grady, Tissue, White, Ottenschlaeger,
   and Pinkard]{mitchell2013drought}
@@ -429,11 +477,29 @@ Arne Sellin.
   plant and soil water status?}
 \newblock \emph{Acta Oecologica}, 20\penalty0 (1):\penalty0 51--59, 1999.
 
+\bibitem[Semchenko et~al.(2008)Semchenko, Zobel, Heinemeyer, and
+  Hutchings]{semchenko2008foraging}
+Marina Semchenko, Kristjan Zobel, Andreas Heinemeyer, and Michael~J Hutchings.
+\newblock {Foraging for space and avoidance of physical obstructions by plant
+  roots: a comparative study of grasses from contrasting habitats}.
+\newblock \emph{New Phytologist}, 179\penalty0 (4):\penalty0 1162--1170, 2008.
+
 \bibitem[Smith and Stitt(2007)]{smith2007coordination}
 Alison~M Smith and Mark Stitt.
 \newblock {Coordination of carbon supply and plant growth}.
 \newblock \emph{Plant, cell \& environment}, 30\penalty0 (9):\penalty0
   1126--1149, 2007.
+
+\bibitem[Sweet and Wareing(1966)]{sweet1966role}
+GB~Sweet and PF~Wareing.
+\newblock Role of plant growth in regulating photosynthesis.
+\newblock \emph{Nature}, 210:\penalty0 77--79, 1966.
+
+\bibitem[Thomas and Strain(1991)]{thomas1991root}
+Richard~B Thomas and Boyd~R Strain.
+\newblock {Root restriction as a factor in photosynthetic acclimation of cotton
+  seedlings grown in elevated carbon dioxide}.
+\newblock \emph{Plant Physiology}, 96\penalty0 (2):\penalty0 627--634, 1991.
 
 \bibitem[Turnbull et~al.(2007)Turnbull, Adams, and
   Warren]{turnbull2007increased}
