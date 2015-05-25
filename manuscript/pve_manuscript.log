@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  22 MAY 2015 17:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2014.12.8)  25 MAY 2015 18:06
 entering extended mode
 **pve_manuscript.tex
 (C:\Users\90919620\github_repos\pve_manuscript\manuscript\pve_manuscript.tex
@@ -527,66 +527,46 @@ Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
-LaTeX Font Info:    Font shape `OT1/fosj/bx/n' in size <12> not available
+LaTeX Font Info:    Font shape `OT1/fosj/bx/n' in size <10> not available
 (Font)              Font shape `OT1/fosj/b/n' tried instead on input line 158.
 LaTeX Font Info:    Font shape `OT1/fosj/b/n' will be
-(Font)              scaled to size 11.39996pt on input line 158.
-LaTeX Font Info:    Font shape `OT1/fosj/bx/it' in size <12> not available
+(Font)              scaled to size 9.49997pt on input line 158.
+LaTeX Font Info:    Font shape `OT1/fosj/bx/it' in size <10> not available
 (Font)              Font shape `OT1/fosj/b/it' tried instead on input line 158.
 
 LaTeX Font Info:    Font shape `OT1/fosj/b/it' will be
-(Font)              scaled to size 11.39996pt on input line 158.
+(Font)              scaled to size 9.49997pt on input line 158.
  [3]
-LaTeX Font Info:    Try loading font information for OML+fosj on input line 169
+LaTeX Font Info:    Try loading font information for OML+fosj on input line 170
 .
-LaTeX Font Info:    No file OMLfosj.fd. on input line 169.
+LaTeX Font Info:    No file OMLfosj.fd. on input line 170.
 
 
 LaTeX Font Warning: Font shape `OML/fosj/m/n' undefined
 (Font)              using `OML/cmm/m/it' instead
-(Font)              for symbol `textless' on input line 169.
+(Font)              for symbol `textless' on input line 170.
 
-LaTeX Font Info:    Try loading font information for LGR+fosj on input line 172
+LaTeX Font Info:    Try loading font information for LGR+fosj on input line 174
 .
 (C:\Users\90919620\AppData\Roaming\MiKTeX\2.9\tex\latex\opensans\lgrfosj.fd
 File: lgrfosj.fd 2011/11/11 Fontinst v1.927 font definitions for LGR/fosj.
 )
 LaTeX Font Info:    Font shape `LGR/fosj/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 172.
+(Font)              scaled to size 9.49997pt on input line 174.
 
 [4] [5] [6]
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
-
-Overfull \hbox (5.07793pt too wide) in paragraph at lines 209--210
-\OT1/fosj/m/n/10 (\OT1/fosj/m/it/10 P\OML/fosj/m/n/10 <\OT1/fosj/m/n/10 0.001) 
-and with free seedlings (\OT1/fosj/m/it/10 P\OML/fosj/m/n/10 <\OT1/fosj/m/n/10 
-0.001, Ta-ble. 1[]). We an-a-lyzed the re-la-tion-ship be-tween biomass
- []
-
-[7] [8] [9] [10]
+ [7] [8] [9] [10]
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ˜ in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
 Missing character: There is no ™ in font OpenSans-Regular-OSFigures-ot1!
-
-Overfull \hbox (13.00656pt too wide) in paragraph at lines 249--249
-[]\OT1/fosj/b/it/12 Does link-age be-tween sink lim-i-ta-tion and A ac-tu-ally 
-in-fer re-duced seedling growth? 
- []
-
-[11]
-Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no œ in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no â in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no € in font OpenSans-Regular-OSFigures-ot1!
-Missing character: There is no  in font OpenSans-Regular-OSFigures-ot1!
-
-Overfull \hbox (75.51462pt too wide) in paragraph at lines 274--289
+ [11]
+Overfull \hbox (75.51462pt too wide) in paragraph at lines 286--301
  [][] 
  []
 
@@ -594,14 +574,14 @@ Overfull \hbox (75.51462pt too wide) in paragraph at lines 274--289
 File: ./figures/airvars.pdf Graphic file (type pdf)
 
 <use ./figures/airvars.pdf>
-Package pdftex.def Info: ./figures/airvars.pdf used on input line 328.
+Package pdftex.def Info: ./figures/airvars.pdf used on input line 340.
 (pdftex.def)             Requested size: 422.52577pt x 421.6979pt.
 
 <./figures/allometry.pdf, id=58, 483.8075pt x 690.58pt>
 File: ./figures/allometry.pdf Graphic file (type pdf)
 
 <use ./figures/allometry.pdf>
-Package pdftex.def Info: ./figures/allometry.pdf used on input line 336.
+Package pdftex.def Info: ./figures/allometry.pdf used on input line 348.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
 
 
@@ -611,7 +591,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ./figures/massfractions.pdf Graphic file (type pdf)
 
 <use ./figures/massfractions.pdf>
-Package pdftex.def Info: ./figures/massfractions.pdf used on input line 344.
+Package pdftex.def Info: ./figures/massfractions.pdf used on input line 356.
 (pdftex.def)             Requested size: 422.52577pt x 614.60373pt.
 
 
@@ -620,7 +600,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <./figures/Asat.pdf, id=60, 505.89pt x 360.34625pt>
 File: ./figures/Asat.pdf Graphic file (type pdf)
  <use ./figures/Asat.pdf>
-Package pdftex.def Info: ./figures/Asat.pdf used on input line 352.
+Package pdftex.def Info: ./figures/Asat.pdf used on input line 364.
 (pdftex.def)             Requested size: 422.52577pt x 300.97327pt.
 
 
@@ -630,7 +610,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ./figures/A_leafchem.pdf Graphic file (type pdf)
 
 <use ./figures/A_leafchem.pdf>
-Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 360.
+Package pdftex.def Info: ./figures/A_leafchem.pdf used on input line 372.
 (pdftex.def)             Requested size: 422.52577pt x 295.77077pt.
 
 
@@ -640,7 +620,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ./figures/massmodel_totalC.pdf Graphic file (type pdf)
 
 <use ./figures/massmodel_totalC.pdf>
-Package pdftex.def Info: ./figures/massmodel_totalC.pdf used on input line 368.
+Package pdftex.def Info: ./figures/massmodel_totalC.pdf used on input line 380.
 
 (pdftex.def)             Requested size: 422.52577pt x 482.89862pt.
 
@@ -668,17 +648,17 @@ manuscript/figures/massmodel_totalC.pdf>]
 File: ./figures/massmodel_resp.pdf Graphic file (type pdf)
 
 <use ./figures/massmodel_resp.pdf>
-Package pdftex.def Info: ./figures/massmodel_resp.pdf used on input line 384.
+Package pdftex.def Info: ./figures/massmodel_resp.pdf used on input line 396.
 (pdftex.def)             Requested size: 422.52577pt x 603.12851pt.
 
 
-LaTeX Warning: Float too large for page by 10.79819pt on input line 387.
+LaTeX Warning: Float too large for page by 10.79819pt on input line 399.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Overfull \hbox (39.99333pt too wide) in paragraph at lines 393--423
+Overfull \hbox (39.99333pt too wide) in paragraph at lines 405--435
  [][] 
  []
 
@@ -721,11 +701,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  6383 strings out of 493921
  101862 string characters out of 3147273
- 154651 words of memory out of 3000000
+ 152651 words of memory out of 3000000
  9520 multiletter control sequences out of 15000+200000
  37505 words of font info for 95 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 36i,14n,38p,3142b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,14n,38p,3136b,411s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensans/opensa
 ns-04.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/opensan
 s/opensans-02.enc}{C:/Users/90919620/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
@@ -739,7 +719,7 @@ nSans-Regular.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/c
 mmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Pro
 gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on pve_manuscript.pdf (27 pages, 314493 bytes).
+Output written on pve_manuscript.pdf (27 pages, 314299 bytes).
 PDF statistics:
  200 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
