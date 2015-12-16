@@ -1,4 +1,4 @@
-\begin{thebibliography}{74}
+\begin{thebibliography}{73}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -220,13 +220,6 @@ W~D Li, S~H Li, S~H Yang, J~M Yang, X~B Zheng, X~D Li, and H~M Yao.
   by stomatal aperture and leaf temperature}.
 \newblock \emph{Journal of horticultural science \& biotechnology}, 80\penalty0
   (4):\penalty0 481--487, 2005.
-
-\bibitem[Little and Loach(1973)]{little1973effect}
-C~H~A Little and K~Loach.
-\newblock {Effect of changes in carbohydrate concentration on the rate of net
-  photosynthesis in mature leaves of Abies balsamea}.
-\newblock \emph{Canadian Journal of Botany}, 51\penalty0 (4):\penalty0
-  751--758, 1973.
 
 \bibitem[Lohier et~al.(2014)Lohier, Jabot, Meziane, Shipley, Reich, and
   Deffuant]{lohier2014explaining}

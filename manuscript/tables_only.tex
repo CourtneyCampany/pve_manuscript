@@ -1,0 +1,222 @@
+\documentclass[a4paper]{article}\usepackage[]{graphicx}\usepackage[]{color}
+%% maxwidth is the original width if it is less than linewidth
+%% otherwise use linewidth (to make sure the graphics do not exceed the margin)
+\makeatletter
+\def\maxwidth{ %
+  \ifdim\Gin@nat@width>\linewidth
+    \linewidth
+  \else
+    \Gin@nat@width
+  \fi
+}
+\makeatother
+
+\definecolor{fgcolor}{rgb}{0.345, 0.345, 0.345}
+\newcommand{\hlnum}[1]{\textcolor[rgb]{0.686,0.059,0.569}{#1}}%
+\newcommand{\hlstr}[1]{\textcolor[rgb]{0.192,0.494,0.8}{#1}}%
+\newcommand{\hlcom}[1]{\textcolor[rgb]{0.678,0.584,0.686}{\textit{#1}}}%
+\newcommand{\hlopt}[1]{\textcolor[rgb]{0,0,0}{#1}}%
+\newcommand{\hlstd}[1]{\textcolor[rgb]{0.345,0.345,0.345}{#1}}%
+\newcommand{\hlkwa}[1]{\textcolor[rgb]{0.161,0.373,0.58}{\textbf{#1}}}%
+\newcommand{\hlkwb}[1]{\textcolor[rgb]{0.69,0.353,0.396}{#1}}%
+\newcommand{\hlkwc}[1]{\textcolor[rgb]{0.333,0.667,0.333}{#1}}%
+\newcommand{\hlkwd}[1]{\textcolor[rgb]{0.737,0.353,0.396}{\textbf{#1}}}%
+
+\usepackage{framed}
+\makeatletter
+\newenvironment{kframe}{%
+ \def\at@end@of@kframe{}%
+ \ifinner\ifhmode%
+  \def\at@end@of@kframe{\end{minipage}}%
+  \begin{minipage}{\columnwidth}%
+ \fi\fi%
+ \def\FrameCommand##1{\hskip\@totalleftmargin \hskip-\fboxsep
+ \colorbox{shadecolor}{##1}\hskip-\fboxsep
+     % There is no \\@totalrightmargin, so:
+     \hskip-\linewidth \hskip-\@totalleftmargin \hskip\columnwidth}%
+ \MakeFramed {\advance\hsize-\width
+   \@totalleftmargin\z@ \linewidth\hsize
+   \@setminipage}}%
+ {\par\unskip\endMakeFramed%
+ \at@end@of@kframe}
+\makeatother
+
+\definecolor{shadecolor}{rgb}{.97, .97, .97}
+\definecolor{messagecolor}{rgb}{0, 0, 0}
+\definecolor{warningcolor}{rgb}{1, 0, 1}
+\definecolor{errorcolor}{rgb}{1, 0, 0}
+\newenvironment{knitrout}{}{} % an empty environment to be redefined in TeX
+
+\usepackage{alltt}
+
+%--- Load packages. 
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{framed}
+%\usepackage{textcomp}
+
+\pagestyle{empty}
+
+% avoid ugly indentation of paragraphs
+\usepackage{parskip}
+\usepackage{graphicx}
+
+% open sans font
+%\usepackage[default,osfigures,scale=0.9]{opensans}
+\usepackage{newtxtext}
+\usepackage{newtxmath}
+
+
+% subfolder with the figures (within manuscript/)
+\graphicspath{ {./figures/} }
+
+% for author affiliations
+\usepackage{authblk}
+
+%allows inline citations
+\usepackage[round]{natbib}
+\bibliographystyle{plainnat}
+
+% for degree symbol
+\usepackage{gensymb}
+
+% for line numbers
+\usepackage{lineno}
+
+% margin size
+\usepackage{geometry}
+\geometry{verbose,tmargin=3cm,bmargin=3cm,lmargin=3cm,rmargin=3cm}
+
+% for bibtex
+% \usepackage{authordate1-4}
+% \bibliographystyle{authordate1}
+
+%allows subscripts in text mode
+\usepackage{fixltx2e}
+
+%allows rotation of table??
+\usepackage{rotating} 
+
+%allows alignment of caption to the left
+\usepackage{caption} 
+\captionsetup[table]{singlelinecheck=false}
+
+%allows not italic greek letters
+\usepackage{textgreek}
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\begin{document}
+
+%--------------------------------------------------------------------------------------------%
+
+
+
+
+%--------------------------------------------------------------------------------------------%
+
+
+
+%--------------------------------------------------------------------------------------------%
+
+
+
+
+%seedling data table
+
+% latex table generated in R 3.1.2 by xtable 1.7-4 package
+% Tue Jul 21 14:51:47 2015
+\begin{sidewaystable}[ht]
+\centering
+\caption{Responses of plant and leaf characterisitics of \textit{Eucalyptus tereticornis} seedlings to soil volume treatments. Each value reflects the mean(standard error) for each treatment. Seedling mass, SRL, root nitrogen and leaf \textdelta\textsuperscript{13}C values are from final harvest. Values of leaf starch, sugars, nitrogen and SLA represent overall means across measurement campaigns (n=6). Different letters represent significant differences between treatments. The container effect P value represents the overall difference between seedlings with soil volume restriction and the control seedlings.} 
+\label{table:Table1}
+\scalebox{0.95}{
+\begin{tabular}{lllllllll}
+  \hline
+Volume (L) & Seedling~mass~(g) & SLA\textsubscript{TNC-free}~(m\textsuperscript{2}~kg\textsuperscript{-1}) & Leaf~Starch~(\%) & Leaf~Sugars~(\%) & Leaf~Nitrogen~(\%) & Root~Nitrogen~(\%) & SRL~(m~g\textsuperscript{-1}) & {Leaf~\textdelta}\textsuperscript{13}C~(\text{\textperthousand}) \\ 
+  \hline
+5 & 14.8 (1.82) a & 11.8 (0.32) a & 12.7 (0.97) b & 6.4 (0.28) a & 1.1 (0.02) a & 0.78 (0.04) ab & 73.0 (6.73) ab & -30.1 (0.26) a \\ 
+  10 & 20.0 (2.38) ab & 11.7 (0.31) a & 9.4 (0.75) ab & 6.7 (0.25) a & 1.3 (0.04) ab & 0.75 (0.02) a & 99.6 (8.70) b & -30.2 (0.25) a \\ 
+  15 & 25.4 (2.49) ab & 12.7 (0.48) a & 7.3 (0.73) a & 7.2 (0.28) a & 1.4 (0.06) ab & 0.71 (0.02) a & 74.6 (6.98) ab & -30.3 (0.36) a \\ 
+  20 & 23.4 (1.63) ab & 11.8 (0.37) a & 9.5 (0.88) ab & 6.6 (0.26) a & 1.4 (0.05) ab & 0.76 (0.04) a & 85.8 (7.37) ab & -29.7 (0.28) a \\ 
+  25 & 30.4 (5.49) ab & 12.4 (0.40) a & 9.8 (0.71) ab & 6.9 (0.24) a & 1.3 (0.06) ab & 0.74 (0.02) a & 82.5 (15.02) ab & -29.7 (0.25) a \\ 
+  35 & 52.2 (9.55) b & 13.5 (0.46) ab & 9.8 (0.65) ab & 6.8 (0.22) a & 1.5 (0.08) b & 0.77 (0.03) ab & 63.1 (6.47) a & -30.6 (0.38) a \\ 
+  Free & 174.5 (18.02) c & 15.1 (0.47) b & 6.8 (0.65) a & 7.4 (0.25) a & 2.4 (0.09) c & 0.9 (0.03) b & 50.9 (5.00) a & -30.0 (0.34) a \\ 
+   \hline
+Container Effect (P) & 0.001 & 0.001 & 0.039 & 0.128 & 0.001 & 0.015 & 0.001 & 0.458 \\ 
+   \hline
+\end{tabular}
+}
+\end{sidewaystable}
+
+
+
+%data.df$taxa <- paste("\\emph{",taxa,"}", sep="")
+
+% latex table generated in R 3.1.2 by xtable 1.7-4 package
+% Tue Jul 21 14:51:47 2015
+\begin{sidewaystable}[ht]
+\centering
+\caption{Responses of leaf level gas exchange parameters of \textit{Eucalyptus tereticornis} seedlings to soil volume treatments. Each value reflects the mean(standard error) for each treatment. Units for \textit{A}\textsubscript{max} and \textit{R}\textsubscript{dark} are {\textmugreek}mol~m\textsuperscript{-2}~s\textsuperscript{-1} and \textit{g}\textsubscript{s} are mol~m\textsuperscript{-1}~s\textsuperscript{-1}, each at at 25$\degree$C. Values of \textit{A}\textsubscript{max}, \textit{g}\textsubscript{s} and \textit{g}\textsubscript{1} represent overall means across measurement campaigns (n=6). \textit{R}\textsubscript{dark}, \textit{J}\textsubscript{max} and \textit{Vc}\textsubscript{max} values are means of two measurement campaigns at beginning and end of gas exchange measurements. Different letters represent significant differences between treatments. The container effect P value represents the overall difference between seedlings with soil volume restriction and the control seedlings.} 
+\label{table:Table2}
+\begin{tabular}{lllllll}
+  \hline
+Volume~(L) & \textit{A}\textsubscript{max} & \textit{R}\textsubscript{dark} & \textit{J}\textsubscript{max} & \textit{Vc}\textsubscript{max} & \textit{g}\textsubscript{s} & \textit{g}\textsubscript{1} \\ 
+  \hline
+5 & 21.2 (0.9) a & 0.61 (0.04) a & 104.5 (3.3) a & 63.3 (2.5) a & 0.30 (0.01) a & 5.1 (0.1) bc \\ 
+  10 & 22.3 (1.4) ab & 0.79 (0.06) a & 116.5 (7.5) a & 69.4 (4.7) a & 0.36 (0.01) ab & 5.4 (0.1) cd \\ 
+  15 & 23.3 (1.2) ab & 0.70 (0.05) a & 125.4 (7.8) a & 80.8 (5.1) ab & 0.42 (0.01) ab & 5.8 (0.1) d \\ 
+  20 & 26.1 (0.7) b & 0.73 (0.11) a & 131.5 (8.6) a & 82.1 (4.7) ab & 0.37 (0.01) ab & 4.9 (0.1) ac \\ 
+  25 & 23.9 (0.9) ab & 0.53 (0.13) a & 132.8 (13.1) a & 79.0 (8.7) a & 0.30 (0.01) a & 4.5 (0.1) a \\ 
+  35 & 25.0 (1.0) ab & 0.61 (0.04) a & 127.2 (6.1) a & 82.4 (3.6) a & 0.31 (0.01) a & 4.4 (0.2) a \\ 
+  Free & 33.1 (0.7) c & 0.64 (0.07) a & 169.0 (8.2) b & 100.4 (3.3) b & 0.44 (0.01) b & 4.5 (0.1) ab \\ 
+   \hline
+Container Effect (P) & 0.001 & 0.039 & 0.001 & 0.002 & 0.001 & 0.079 \\ 
+   \hline
+\end{tabular}
+\end{sidewaystable}
+
+
+
+
+
+\begin{table}[h!]
+  \caption{Seedling Growth Model Default Parameters} 
+  \centering 
+  \begin{tabular}{l l l l l } 
+  \hline
+  Variable & Description & Default Value & Units & Source  \\ [0.5ex] 
+  \hline
+  Leaf area\textsubscript{i} & initial leaf area & 0.035 & m\textsuperscript{2} & this study \\ 
+  
+  Leaf mass\textsubscript{i} & initial leaf mass & 3.45 & g & this study \\ 
+  
+  Stem mass\textsubscript{i} & initial stem mass & 1.51 & g & this study \\ 
+  
+  Root mass\textsubscript{i} & initial root mass & 0.99 & g & this study \\ 
+  
+  \textepsilon\textsubscript{c} & biomass conversion efficiency & .65 & g~C g~mass\textsuperscript{-1} 
+  & Makela (1997) \\ 
+  
+  R\textsubscript{coarse root} & coarse root respiration & 0.00124 & g~C g~root\textsuperscript{-1} 
+  & Marsden et al. (2008) \\ 
+  
+  R\textsubscript{fine root} & fine root respiration & 0.010368 & g~C g~root\textsuperscript{-1} & Ryan et al. (2010) \\ 
+  
+  R\textsubscript{stem} & stem respiration & 0.00187 & g~C g~stem\textsuperscript{-1} & Drake et al. (unpublished) \\ 
+  
+  C\textsubscript{day} & Daily Leaf Carbon Assimilation &5.4-7.6 & g~C m\textsuperscript{-2} d\textsuperscript{-1}
+  & this study \\ 
+  
+  $\Lambda$ & tissue turnover & 1/365 & yr\textsuperscript{-1} & theoretical\\
+  
+  \hline 
+  \end{tabular}
+  \label{table:Table3} 
+\end{table}
+
+
+%--------------------------------------------------------------------------------------------%
+\end{document}
+
+
+
+
